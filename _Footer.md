@@ -1,1 +1,1 @@
-![](wiki/images/footer/logo48.png)
+ 
