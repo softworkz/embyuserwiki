@@ -29,4 +29,4 @@ If your movie folders contain local trailers, enabling this option will allow th
 
 In addition you can specify your own custom videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
 
-![](images/server/cinemamode4.png)
+![](images/server/cinemamode5.png)
