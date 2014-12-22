@@ -2,14 +2,14 @@
 * [Wiki home](home)
 
 ### Getting started
-
-### Server
-
 * Installation
 * Library setup
 * [Movie library](Movie naming)
 * [TV library](TV naming)
 * [Music library](Music naming)
+
+### Server
+
 * Metadata
 * Devices
 * Users
