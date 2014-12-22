@@ -10,7 +10,7 @@
 * Users
 * [Cinema mode](Cinema-Mode)
 * Live TV
-* Plugins
+* [Plugins](Plugins)
 
 ### Dlna
 * Play to
