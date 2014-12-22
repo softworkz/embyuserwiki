@@ -1,5 +1,10 @@
 The recommended folder structure for music is Artist\Album\Song
 
+`
+f
+f
+f
+`
  \Music
     \Artist Name
        \Album Name
