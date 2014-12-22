@@ -10,7 +10,6 @@ Transcoding is the process where media is converted from one resolution or forma
 * Windows: Vista SP2 or later
 * OS X: Snow Leopard 10.6.3 or later
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
-* FreeBSD
 
 ### Recommended Configuration — transcoding HD Content:
 * Intel Core 2 Duo processor 2.4 GHz or better
@@ -19,7 +18,6 @@ Transcoding is the process where media is converted from one resolution or forma
 * Windows: Vista SP2 or later
 * OS X: Snow Leopard 10.6.3 or later (64-bit)
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
-* FreeBSD
 
 ## Network Requirements
 ### Minimum requirements
