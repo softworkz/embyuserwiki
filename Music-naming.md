@@ -63,7 +63,11 @@ Several image types support multiple file names. You can choose which ones to us
 |              | default.ext |
 | Art      | {foldername}-clearart.ext |
 |          | clearart.ext      |
-| Backdrop      | centered      |
+| Backdrop  | backdrop.ext, backdropX.ext |
+|           | fanart.ext, fanart-X.ext |
+|           | background.ext, background-X.ext      |
+|           | art.ext, art-X.ext      |
+|           | extrafanart/fanartX.ext      |
 | Banner   | {foldername}-banner.ext |
 |          | banner.ext      |
 | Disc      | {foldername}-disc.ext |
