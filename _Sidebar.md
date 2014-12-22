@@ -21,6 +21,6 @@
 * Users
 
 ### Dlna
-* [Dlna play to](Dlna play to)
+* [Dlna play to](Play to)
 * [Dlna server](Dlna server)
 * [Dlna profiles](Dlna profiles)
