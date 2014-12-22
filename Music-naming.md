@@ -10,7 +10,15 @@ The recommended folder structure for music is Artist\Album\Song
 
 This is not a requirement and other structures will also work, but this is the most common method.
 
-Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information.
+Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information. Below is a table of the supported image file names:
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Multi-Disc Albums
 
