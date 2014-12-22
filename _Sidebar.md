@@ -4,9 +4,9 @@
 ### Getting started
 * Installation
 * Library setup
-* [Movie library](Movie naming)
-* [TV library](TV naming)
-* [Music library](Music naming)
+* [Movie naming](Movie naming)
+* [TV naming](TV naming)
+* [Music naming](Music naming)
 
 ### Server
 
