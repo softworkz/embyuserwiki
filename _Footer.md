@@ -1,1 +1,1 @@
-![](images/test.png)
+![](images/server/test.png)
