@@ -64,13 +64,16 @@ Several image types support multiple file names. You can choose which ones to us
 | Art      | {foldername}-clearart.ext |
 |          | clearart.ext      |
 | Backdrop      | centered      |
-| Banner | banner.ext      |
+| Banner   | {foldername}-banner.ext |
+|          | banner.ext      |
 | Disc | disc.ext      
 |      | cdart.ext      
-| Logo | logo.ext      |
-| Thumb | thumb.ext      |
-|       | landscape.ext      |
-
+| Logo     | {foldername}-logo.ext |
+|          | logo.ext      |
+| Thumb     | {foldername}-thumb.ext |
+|           | {foldername}-landscape.ext |
+|           | landscape.ext      |
+|           | thumb.ext      |
 
 
 ## Music Videos
