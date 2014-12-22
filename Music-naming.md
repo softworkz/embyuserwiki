@@ -51,7 +51,7 @@ Images are supported in both artist and album folders, as well as images embedde
 Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
 | Image Type | Supported file names  |
-| ------------- |:-------------:|
+| ------------- |---------------|
 | Primary      | right-aligned |
 | Art | are neat      |
 | Backdrop      | centered      |
