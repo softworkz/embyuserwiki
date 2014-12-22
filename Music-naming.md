@@ -52,9 +52,13 @@ Colons can be used to align columns.
 
 | Image Type | Supported file names  |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Primary      | right-aligned |
+| Art | are neat      |
+| Backdrop      | centered      |
+| Banner | are neat      |
+| Disc | are neat      |
+| Logo | are neat      |
+| Thumb | are neat      |
 
 
 
