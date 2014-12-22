@@ -83,6 +83,19 @@ Several image types support multiple file names. You can choose which ones to us
 
 The listing of {foldername}-poster.ext is not to suggest that you should name your files instead of the simpler poster.ext. It is a more specific name than poster.ext and that is why it is checked first, but most users will will probably prefer the simpler file names.
 
+For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
+
+```
+ \Music
+    \Artist Name
+       backdrop.ext
+       backdrop1.ext
+       backdrop2.ext
+       backdrop3.ext
+
+```
+
+
 ## Music Videos
 
 To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
