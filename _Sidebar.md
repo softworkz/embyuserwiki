@@ -2,6 +2,7 @@
 * [Wiki home](home)
 
 ### Getting started
+* [System requirements](System requirements)
 * Installation
 * [Library setup](Library setup)
 * [Movie naming](Movie naming)
