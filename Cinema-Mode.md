@@ -40,3 +40,9 @@ There are additional settings to allow you to personalize your Cinema Mode exper
 Smart parental control will compare the ratings of trailers against the rating of the movie being played, and filter the trailers based on ratings of an equal or lower value. For example, you might be an adult watching The Goonies with your children. The Goonies is rated PG, so this setting will exclude any trailers with a higher rating than PG. Unrated trailers will also be excluded.
 
 The unwatched setting will prevent trailers that you've already seen from being used again, as well as trailers from movies that you've already seen. Note that enabling this setting may eventually result in no unwatched trailers being available.
+
+## User Control
+
+There are additional settings to allow you to personalize your Cinema Mode experience, such as dictating the number of trailers that will be played.
+
+![](images/server/cinemamode6.png)
