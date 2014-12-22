@@ -61,7 +61,8 @@ Several image types support multiple file names. You can choose which ones to us
 |              | cover.ext |
 |              | poster.ext |
 |              | default.ext |
-| Art | clearart.ext      |
+| Art      | {foldername}-clearart.ext |
+|          | clearart.ext      |
 | Backdrop      | centered      |
 | Banner | banner.ext      |
 | Disc | disc.ext      
