@@ -1,1 +1,2 @@
-.
+### Menu
+* [Wiki home](home)
