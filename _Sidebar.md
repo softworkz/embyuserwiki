@@ -3,10 +3,11 @@
 
 ### Server
 
-* Getting started
+* Library setup
 * Metadata
+* Devices
 * Users
+* Cinema mode
 * Dlna
 * Live TV
-* Playback
 * Plugins
