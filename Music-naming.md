@@ -25,3 +25,7 @@ Albums can have disc sub-folders using any of the following folder names, where 
 - Volume-X
 
 Any naming convention for audio files is acceptable. Track numbers are retrieved using ID3 tags.
+
+## Music Videos
+
+To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
