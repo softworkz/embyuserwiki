@@ -23,8 +23,3 @@
 * Play to
 * Dlna server
 * Dlna profiles
-
-### Web Client
-* Line 1
-* Line 2
-* Line 3
