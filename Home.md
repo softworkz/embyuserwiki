@@ -1,1 +1,1 @@
-Welcome to the Wiki wiki!
+![](wiki/images/logo/logo96.png)
