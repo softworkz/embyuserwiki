@@ -77,6 +77,7 @@ Several image types support multiple file names. You can choose which ones to us
 |           | thumb.ext      |
 |           | landscape.ext      |
 
+The presence of {foldername}-poster.ext is not to suggest that you should name your files instead of the simpler poster.ext. It is a more specific name than poster.ext and that is why it is checked first, but most users will will probably prefer the simpler file names.
 
 ## Music Videos
 
