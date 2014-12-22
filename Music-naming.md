@@ -50,6 +50,8 @@ Images are supported in both artist and album folders, as well as images embedde
 
 Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
+Several image types support multiple file names. You can choose which ones to use. They are listed in the order that they're checked for.
+
 | Image Type | Supported file names  |
 | ------------- |---------------|
 | Primary      | {foldername}-poster.ext |
