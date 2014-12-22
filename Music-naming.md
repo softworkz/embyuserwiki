@@ -10,6 +10,8 @@ The recommended folder structure for music is Artist\Album\Song
 
 This is not a requirement and other structures will also work, but this is the most common method.
 
+Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information.
+
 ## Multi-Disc Albums
 
 Albums can have disc sub-folders using any of the following folder names, where X represents the disc number:
@@ -28,7 +30,19 @@ Albums can have disc sub-folders using any of the following folder names, where 
 - VolumeX
 - Volume-X
 
-Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information.
+For example:
+
+```
+ \Music
+    \Artist Name
+       \Album Name
+         \Disc 1
+            1- Song.mp3
+            2- Song.mp3
+         \Disc 2
+            1- Song.mp3
+            2- Song.mp3
+```
 
 ## Music Videos
 
