@@ -29,3 +29,5 @@ Any naming convention for audio files is acceptable. Track numbers are retrieved
 ## Music Videos
 
 To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
+
+To identify the artists and albums of music videos, use the [metadata manager](Metadata manager). Simply edit a music video and enter the artist(s) and/or album. Once complete, the artist and album pages will display links to the music videos.
