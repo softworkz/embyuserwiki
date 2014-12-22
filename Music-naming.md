@@ -52,7 +52,10 @@ Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
 | Image Type | Supported file names  |
 | ------------- |---------------|
-| Primary      | right-aligned |
+| Primary      | folder.ext |
+|              | cover.ext |
+|              | poster.ext |
+|              | default.ext |
 | Art | clearart.ext      |
 | Backdrop      | centered      |
 | Banner | banner.ext      |
