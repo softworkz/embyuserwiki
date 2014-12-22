@@ -1,1 +1,3 @@
-.
+The hardware requirements for the server will depend on the number and type of devices you're planning to connect to the Server. If all the connected devices are computers such as PC/Mac/Linux, the Server requirements are less than mobile devices that need media transcoding.
+
+Transcoding is the process where media is converted from one resolution or format to another (e.g. playing Full HD media on some smartphones requires transcoding). The process is CPU-intensive, so an older/slower PC might not be up to the task.
