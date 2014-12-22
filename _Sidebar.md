@@ -3,6 +3,7 @@
 
 ### Server
 
+* Installation
 * Library setup
 * Metadata
 * Devices
