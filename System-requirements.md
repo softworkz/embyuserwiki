@@ -7,7 +7,7 @@ Transcoding is the process where media is converted from one resolution or forma
 * Intel Core 2 Duo processor 1.6 GHz or better
 * At least 1GB RAM for Windows/Mac OS X
 * At least 512MB RAM for Linux
-* Windows: Vista SP2 or later
+* Windows: Vista or later
 * OS X: Snow Leopard 10.6.3 or later
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
 
@@ -15,8 +15,8 @@ Transcoding is the process where media is converted from one resolution or forma
 * Intel Core 2 Duo processor 2.4 GHz or better
 * If transcoding for multiple devices, a faster CPU may be required
 * At least 2GB RAM
-* Windows: Vista SP2 or later
-* OS X: Snow Leopard 10.6.3 or later (64-bit)
+* Windows: Vista or later
+* OS X: Snow Leopard 10.6.3 or later
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
 
 ## Network Requirements
