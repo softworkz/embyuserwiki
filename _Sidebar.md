@@ -1,23 +1,27 @@
 ### Menu
 * [Wiki home](home)
 
+### Getting started
+* [System requirements](System requirements)
+* [Installation](Installation)
+* [Library setup](Library setup)
+* [Movie naming](Movie naming)
+* [TV naming](TV naming)
+* [Music naming](Music naming)
+
 ### Server
 
-* Installation
-* Library setup
-* Metadata
-* Devices
-* Users
 * [Cinema mode](Cinema-Mode)
-* Live TV
+* [Devices](Devices)
+* [Live TV](Live TV)
+* Metadata configuration
+* [Metadata manager](Metadata manager)
+* Notifications
 * [Plugins](Plugins)
+* Scheduled tasks
+* [Users](Users)
 
 ### Dlna
-* Play to
-* Dlna server
-* Dlna profiles
-
-### Web Client
-* Line 1
-* Line 2
-* Line 3
+* [Play to](Play to)
+* [Dlna server](Dlna server)
+* [Dlna profiles](Dlna profiles)
