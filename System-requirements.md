@@ -10,3 +10,11 @@ Transcoding is the process where media is converted from one resolution or forma
 * Windows: Vista SP2 or later
 * OS X: Snow Leopard 10.6.3 or later
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
+
+### Recommended Configuration — transcoding HD Content:
+* Intel Core 2 Duo processor 2.4 GHz or better
+* If transcoding for multiple devices, a faster CPU may be required
+* At least 2GB RAM
+* Windows: Vista SP2 or later
+* OS X: Snow Leopard 10.6.3 or later (64-bit)
+* Ubuntu, Debian, Fedora, CentOS or SuSE Linux
