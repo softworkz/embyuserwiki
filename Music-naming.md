@@ -1,6 +1,6 @@
 The recommended folder structure for music is Artist\Album\Song
 
-   ```bash
+```bash
 
  \Music
     \Artist Name
