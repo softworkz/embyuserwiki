@@ -60,9 +60,7 @@ Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 | Backdrop      | centered      |
 | Banner | banner.ext      |
 | Disc | disc.ext      
-
-cdart.ext |
-
+|      | cdart.ext      
 | Logo | logo.ext      |
 | Thumb | thumb.ext      |
 |       | landscape.ext      |
