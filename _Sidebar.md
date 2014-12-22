@@ -10,14 +10,14 @@
 
 ### Server
 
-* Metadata
-* Devices
-* Users
 * [Cinema mode](Cinema-Mode)
+* Devices
 * Live TV
-* [Plugins](Plugins)
+* Metadata
 * Notifications
+* [Plugins](Plugins)
 * Scheduled tasks
+* Users
 
 ### Dlna
 * Play to
