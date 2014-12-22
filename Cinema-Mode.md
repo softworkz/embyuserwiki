@@ -10,7 +10,7 @@ The configuration page allows you to choose the types of videos that will trigge
 
 ## Internet Trailers
 
-A vast library of internet trailers are available for use with cinema mode. The categories available are movies coming soon to theaters, movies coming soon to Dvd, and movies coming soon to Netflix.
+A vast library of internet trailers are available for use with cinema mode. The categories available are movies coming soon to theaters, movies coming soon to Dvd, movies coming soon to Netflix, and movies similar to content in my library.
 
 ![](images/server/cinemamode3.png)
 
@@ -24,3 +24,9 @@ This feature has two requirements:
 If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode.
 
 ![](images/server/cinemamode2.png)
+
+## Custom Intros
+
+In addition you can specify your own custom videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
+
+![](images/server/cinemamode4.png)
