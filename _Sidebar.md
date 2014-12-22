@@ -9,6 +9,10 @@
 * Devices
 * Users
 * Cinema mode
-* Dlna
 * Live TV
 * Plugins
+
+### DLNA
+* Play to
+* Dlna server
+* Dlna profiles
