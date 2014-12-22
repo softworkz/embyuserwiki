@@ -17,6 +17,7 @@
 * Live TV
 * [Plugins](Plugins)
 * Notifications
+* Scheduled tasks
 
 ### Dlna
 * Play to
