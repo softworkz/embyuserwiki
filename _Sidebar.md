@@ -13,7 +13,8 @@
 * [Cinema mode](Cinema-Mode)
 * Devices
 * Live TV
-* Metadata
+* Metadata configuration
+* [Metadata manager](Metadata manager)
 * Notifications
 * [Plugins](Plugins)
 * Scheduled tasks
