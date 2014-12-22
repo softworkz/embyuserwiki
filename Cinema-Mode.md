@@ -8,15 +8,9 @@ The configuration page allows you to choose the types of videos that will trigge
 
 ![](images/server/cinemamode1.png)
 
-## Local Trailers
-
-If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode.
-
-![](images/server/cinemamode2.png)
-
 ## Internet Trailers
 
-If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode.
+A vast library of internet trailers are available for use with cinema mode.
 
 ![](images/server/cinemamode3.png)
 
@@ -24,3 +18,9 @@ This feature has two requirements:
 
 * An [active supporter membership](http://mediabrowser.tv/donate)
 * Installation of the [Trailer plugin](Plugins), either before or after enabling cinema mode.
+
+## Local Trailers
+
+If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode.
+
+![](images/server/cinemamode2.png)
