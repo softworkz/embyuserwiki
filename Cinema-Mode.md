@@ -23,4 +23,4 @@ If your movie folders contain local trailers, enabling this option will allow th
 This feature has two requirements:
 
 * An [active supporter membership](http://mediabrowser.tv/donate)
-* Installation of the [Trailer plugin](Plugins)
+* Installation of the [Trailer plugin](Plugins), either before or after enabling cinema mode.
