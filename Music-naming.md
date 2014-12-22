@@ -56,6 +56,9 @@ Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 |              | cover.ext |
 |              | poster.ext |
 |              | default.ext |
+|              | {foldername}-poster.ext |
+|              | {foldername}-cover.ext |
+|              | {foldername}-default.ext |
 | Art | clearart.ext      |
 | Backdrop      | centered      |
 | Banner | banner.ext      |
