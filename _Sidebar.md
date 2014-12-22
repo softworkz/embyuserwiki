@@ -12,7 +12,7 @@
 * Live TV
 * Plugins
 
-### DLNA
+### Dlna
 * Play to
 * Dlna server
 * Dlna profiles
