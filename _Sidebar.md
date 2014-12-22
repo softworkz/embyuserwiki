@@ -3,7 +3,7 @@
 
 ### Getting started
 * Installation
-* Library setup
+* [Library setup](Library setup)
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
