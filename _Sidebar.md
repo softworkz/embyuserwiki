@@ -1,6 +1,9 @@
 ### Menu
 * [Wiki home](home)
 
+### Getting started
+* [Wiki home](home)
+
 ### Server
 
 * Installation
