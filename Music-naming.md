@@ -44,6 +44,12 @@ For example:
             2- Song.mp3
 ```
 
+## Music Images
+
+Images are supported in both artist and album folders, as well as images embedded within audio files.
+
+
+
 ## Music Videos
 
 To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
