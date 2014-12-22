@@ -66,14 +66,16 @@ Several image types support multiple file names. You can choose which ones to us
 | Backdrop      | centered      |
 | Banner   | {foldername}-banner.ext |
 |          | banner.ext      |
-| Disc | disc.ext      
-|      | cdart.ext      
+| Disc      | {foldername}-disc.ext |
+|           | {foldername}-cdart.ext |
+|           | disc.ext      |
+|           | cdart.ext      |
 | Logo     | {foldername}-logo.ext |
 |          | logo.ext      |
 | Thumb     | {foldername}-thumb.ext |
 |           | {foldername}-landscape.ext |
-|           | landscape.ext      |
 |           | thumb.ext      |
+|           | landscape.ext      |
 
 
 ## Music Videos
