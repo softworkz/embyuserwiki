@@ -20,3 +20,14 @@ Transcoding is the process where media is converted from one resolution or forma
 * OS X: Snow Leopard 10.6.3 or later (64-bit)
 * Ubuntu, Debian, Fedora, CentOS or SuSE Linux
 * FreeBSD
+
+## Network Requirements
+### Minimum requirements
+* An ADSL/Cable/WiFi Internet connection for media metadata and software updates
+* Uncongested, strong signal Wi-Fi network 802.11n OR
+* Wired megabit network
+
+### Recommended configuration
+* An ADSL/Cable/WiFi Internet connection for media metadata and software updates
+* Uncongested, strong signal 802.11n/ac wireless network for the mobile devices
+* Wired gigabit network
