@@ -52,13 +52,13 @@ Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
 | Image Type | Supported file names  |
 | ------------- |---------------|
-| Primary      | folder.ext |
+| Primary      | {foldername}-poster.ext |
+|              | {foldername}-cover.ext |
+|              | {foldername}-default.ext |
+|              | folder.ext |
 |              | cover.ext |
 |              | poster.ext |
 |              | default.ext |
-|              | {foldername}-poster.ext |
-|              | {foldername}-cover.ext |
-|              | {foldername}-default.ext |
 | Art | clearart.ext      |
 | Backdrop      | centered      |
 | Banner | banner.ext      |
