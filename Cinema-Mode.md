@@ -4,4 +4,4 @@ Cinema mode is configured in the server dashboard by navigating to **Playback** 
 
 ## Choosing when to enable Cinema Mode
 
-![](images/logo/logo96.png)
+![](images/server/cinemamode1.png)
