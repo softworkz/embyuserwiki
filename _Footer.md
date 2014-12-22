@@ -1,1 +1,1 @@
-![](images/server/test.png)
+![](wiki/images/server/test.png)
