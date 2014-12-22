@@ -3,3 +3,10 @@ The hardware requirements for the server will depend on the number and type of d
 Transcoding is the process where media is converted from one resolution or format to another (e.g. playing Full HD media on some smartphones requires transcoding). The process is CPU-intensive, so an older/slower PC might not be up to the task.
 
 ## Windows, Mac, or Linux computer
+### Minimum Requirements — no transcoding
+* Intel Core 2 Duo processor 1.6 GHz or better
+* At least 1GB RAM for Windows/Mac OS X
+* At least 512MB RAM for Linux
+* Windows: Vista SP2 or later
+* OS X: Snow Leopard 10.6.3 or later
+* Ubuntu, Debian, Fedora, CentOS or SuSE Linux
