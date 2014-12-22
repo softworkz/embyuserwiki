@@ -8,7 +8,7 @@ The recommended folder structure for music is Artist\Album\Song
           2- Song.mp3
 ```
 
-This is not a requirement and other structures will generally work just fine, but this is the most common method.
+This is not a requirement and other structures will also work, but this is the most common method.
 
 ## Multi-Disc Albums
 
