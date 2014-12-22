@@ -53,11 +53,11 @@ Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 | Image Type | Supported file names  |
 | ------------- |---------------|
 | Primary      | right-aligned |
-| Art | are neat      |
+| Art | clearart.ext      |
 | Backdrop      | centered      |
-| Banner | are neat      |
-| Disc | cdart.ext      |
-|      | disc.ext      |
+| Banner | banner.ext      |
+| Disc | disc.ext      |
+|      | cdart.ext      |
 | Logo | logo.ext      |
 | Thumb | thumb.ext      |
 |       | landscape.ext      |
