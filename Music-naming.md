@@ -24,7 +24,7 @@ Albums can have disc sub-folders using any of the following folder names, where 
 - VolumeX
 - Volume-X
 
-Any naming convention for audio files is acceptable. Track numbers are retrieved using ID3 tags.
+Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information.
 
 ## Music Videos
 
