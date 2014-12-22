@@ -8,7 +8,7 @@
 * Metadata
 * Devices
 * Users
-* Cinema mode
+* [Cinema mode](Cinema-Mode)
 * Live TV
 * Plugins
 
