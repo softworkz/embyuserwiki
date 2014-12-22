@@ -4,4 +4,6 @@ Cinema mode is configured in the server dashboard by navigating to **Playback** 
 
 ## Choosing when to enable Cinema Mode
 
+The configuration page allows you to choose the types of videos that will trigger cinema mode. Currently, Movies and Episodes are offered. A video is determined to be a Movie or Episode based upon the content type chosen when setting up the library.
+
 ![](images/server/cinemamode1.png)
