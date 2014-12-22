@@ -48,7 +48,7 @@ For example:
 
 Images are supported in both artist and album folders, as well as images embedded within audio files. Below is a table of the supported image file names:
 
-Colons can be used to align columns.
+Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
 | Image Type | Supported file names  |
 | ------------- |:-------------:|
@@ -56,9 +56,11 @@ Colons can be used to align columns.
 | Art | are neat      |
 | Backdrop      | centered      |
 | Banner | are neat      |
-| Disc | are neat      |
-| Logo | are neat      |
-| Thumb | are neat      |
+| Disc | cdart.ext      |
+|      | disc.ext      |
+| Logo | logo.ext      |
+| Thumb | thumb.ext      |
+|       | landscape.ext      |
 
 
 
