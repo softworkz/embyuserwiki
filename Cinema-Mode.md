@@ -45,7 +45,7 @@ The unwatched setting will prevent trailers that you've already seen from being 
 
 Once you've enabled cinema mode in the server dashboard, they'll be turned on for all users by default. Each user can opt-out of cinema mode individually by disabling it in their user profile settings.
 
-This is accessed by clicking the user icon in the top-right-hand corner of the web interface -> **Preferences**-> **Profile**.
+This is accessed by clicking the user icon in the top right hand corner of the web interface, then selecting **Preferences**-> **Profile**.
 
 ![](images/server/cinemamode6.png)
 
