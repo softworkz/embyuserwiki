@@ -16,6 +16,7 @@
 * [Cinema mode](Cinema-Mode)
 * Live TV
 * [Plugins](Plugins)
+* Notifications
 
 ### Dlna
 * Play to
