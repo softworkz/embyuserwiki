@@ -1,8 +1,8 @@
 ### Getting started
 * [Wiki home](home)
-* [Wiki home](Movie naming)
-* [Wiki home](TV naming)
-* [Music library setup](Music naming)
+* [Movie library](Movie naming)
+* [TV library](TV naming)
+* [Music library](Music naming)
 
 ### Server
 
