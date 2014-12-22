@@ -10,7 +10,7 @@ The configuration page allows you to choose the types of videos that will trigge
 
 ## Internet Trailers
 
-A vast library of internet trailers are available for use with cinema mode. The categories available are movies coming soon to theaters, movies coming soon to Dvd, movies coming soon to Netflix, and movies similar to content in my library.
+A vast library of internet trailers are available for use with cinema mode. The categories available are movies coming soon to theaters, movies coming soon to Dvd, and movies coming soon to Netflix.
 
 ![](images/server/cinemamode3.png)
 
