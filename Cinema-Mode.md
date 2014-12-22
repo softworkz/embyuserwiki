@@ -49,3 +49,4 @@ This is accessed by clicking the user icon in the top right hand corner of the w
 
 ![](images/server/cinemamode6.png)
 
+As an administrator, if you would like to personally change this for a user, you can access this page from the **Server Dashboard** -> **Users** -> **Click User** -> **Edit this user's profile settings**.
