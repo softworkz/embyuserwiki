@@ -3,7 +3,7 @@
 
 ### Getting started
 * [System requirements](System requirements)
-* Installation
+* [Installation](Installation)
 * [Library setup](Library setup)
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
@@ -12,14 +12,14 @@
 ### Server
 
 * [Cinema mode](Cinema-Mode)
-* Devices
-* Live TV
+* [Devices](Devices)
+* [Live TV](Live TV)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
 * Notifications
 * [Plugins](Plugins)
 * Scheduled tasks
-* Users
+* [Users](Users)
 
 ### Dlna
 * [Play to](Play to)
