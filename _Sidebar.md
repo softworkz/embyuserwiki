@@ -16,7 +16,7 @@
 * [Live TV](Live TV)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
-* Notifications
+* [Notifications](Notifications)
 * [Plugins](Plugins)
 * Scheduled tasks
 * [Users](Users)
