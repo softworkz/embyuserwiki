@@ -5,11 +5,20 @@ Any folder (movie, series, season, game, etc) can have theme songs. There are tw
 ```
 /Movies
    /Home Alone (1990)
+      homealone.mp4
+      theme.mp3
+```
+
+or
+
+```
+/Movies
+   /Home Alone (1990)
+      homealone.mp4
       /theme-music
           song1.mp3
           song2.wma
           song3.flac
-      theme.mp3
 ```
  
 ###Theme Videos
