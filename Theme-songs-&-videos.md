@@ -28,6 +28,7 @@ Any folder (movie, series, season, game, etc) can have theme videos using a 'bac
 ```
 /Movies
    /Home Alone (1990)
+      homealone.mp4
       /backdrops
           video1.mkv
           video1.mp4
