@@ -6,4 +6,6 @@ Create a normal text-file and rename the .txt extension to .strm then open it up
 
 This should look like:
 
-`http://host/path/stream`
+```
+http://host/path/stream
+```
