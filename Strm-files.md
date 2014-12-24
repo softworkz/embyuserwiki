@@ -35,4 +35,4 @@ A strm file as a movie:
 
 Strm files can be used for any kind of video, such as movies, episodes, music videos, home videos, etc.
 
-The naming convention of the .strm file name should follow the convention used for videos of the associated content type (movies, episodes, etc).
+The naming convention of the .strm file name should follow the convention used for the associated content type (movies, episodes, etc).
