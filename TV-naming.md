@@ -85,7 +85,7 @@ The following conventions are supported:
 
 ## Specials
 
-Specials should named using 0 as the season number. For example:
+Specials should be named using 0 as the season number. For example:
 
 ```
  \TV
