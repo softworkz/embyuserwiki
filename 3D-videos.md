@@ -1,6 +1,6 @@
 There are mulitple ways to identify a video as 3D.
 
-## Using the web interface
+## Identify using the web interface
 
 A video can be identified as 3D using the the [metadata manager](Metadata manager). Simply edit a video:
 
@@ -11,7 +11,7 @@ Then select the 3D format:
 ![](images/server/3dvideos1.png)
 
 
-## Video filenames flags
+## Identify using video file name flags
 
 In order to properly detect 3D, two tags need to be present in the filename. First, a '3D' tag has to be present. Second, one of the following must also be present, hsbs, fsbs, sbs, htab, ftab.
 
@@ -24,7 +24,7 @@ File name examples:
 * moviename.3D-HTAB.mkv
 * moviename-3D.sbs-720p.mkv
 
-## Brackets
+## Identify using older conventions
 
 Older file naming conventions are still accepted  by placing one of the following tags within the filename:
 
