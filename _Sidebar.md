@@ -5,7 +5,7 @@
 * [System requirements](System requirements)
 * [Installation](Installation)
 * [Library setup](Library setup)
-* [Video naming](Video naming)
+* [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
 * [3D videos](3D videos)
