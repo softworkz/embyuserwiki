@@ -188,6 +188,10 @@ For example:
 
 ```
 
-### Strm files
+## Media stubs
+
+Media stubs are supported as episodes. See [media stubs](Media stubs).
+
+## Strm files
 
 Strm files are supported as episodes. See [strm files](Strm files).
