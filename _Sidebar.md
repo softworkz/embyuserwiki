@@ -9,7 +9,7 @@
 * [TV naming](TV naming)
 * [Music naming](Music naming)
 * [3D videos](3D videos)
-* [Excluding files](Excluding)
+* [Excluding files](Excluding files & folders)
 * [Media stubs](Media stubs)
 * [Strm files](Strm files)
 * [Subtitles](Subtitles)
