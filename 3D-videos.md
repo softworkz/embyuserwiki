@@ -2,6 +2,11 @@ There are mulitple ways to identify a video as 3D.
 
 ## Using the web interface
 
+A video can be identified as 3D using the the [metadata manager](Metadata manager). Simply edit a video:
+
+![](images/server/musicvideos1.png)
+
+
 ## Video filenames flags
 
 In order to properly detect 3D, two tags need to be present in the filename. First, a '3D' tag has to be present. Second, one of the following must also be present, hsbs, fsbs, sbs, htab, ftab.
