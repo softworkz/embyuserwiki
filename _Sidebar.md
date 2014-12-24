@@ -24,7 +24,7 @@
 * [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
 * [Plugins](Plugins)
-* Scheduled tasks
+* [Scheduled tasks](Scheduled tasks)
 * [Users](Users)
 
 ### Dlna
