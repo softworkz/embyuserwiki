@@ -10,9 +10,9 @@ Any folder (movie, series, season, game, etc) can have theme songs. There are tw
           song2.wma
           song3.flac
       theme.mp3
+```
  
 ###Theme Videos
-```
 
 Any folder (movie, series, season, game, etc) can have theme videos using a 'backdrops' sub-folder. 
 
