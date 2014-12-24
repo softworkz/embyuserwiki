@@ -9,12 +9,12 @@
 * [TV naming](TV naming)
 * [Music naming](Music naming)
 * [3D videos](3D videos)
+* [Excluding files & folders](Excluding)
 * [Media stubs](Media stubs)
 * [Strm files](Strm files)
 * [Subtitles](Subtitles)
 * [Theme songs & videos](Theme songs & videos)
 * [Trailers](Trailers)
-* [Excluding files & folders](Excluding)
 
 ### Server
 
