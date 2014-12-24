@@ -21,3 +21,14 @@ or
 ```
 rtsp://host/path/stream
 ```
+
+
+## Examples
+
+A strm file as a movie:
+
+```
+\Movies
+   \300
+      300.strm
+```
