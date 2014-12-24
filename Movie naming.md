@@ -59,6 +59,21 @@ Examples:
 \Movies\Scarface (1983)\Disc 2\VIDEO_TS\VIDEO_TS.IFO
 ```
 
+## Multi-resolution movies
+ 
+Multiple resolutions of the same content can be stored in a single movie folder.
+
+```
+/Movies
+  /300
+    /300 - 1080p.mkv
+    /300 - 720p.mkv
+```
+
+Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. 
+
+Alternatively they can be grouped together manually using the server's web interface.  
+
 ## 3D episodes
 
 3D episodes files are supported. See [3D videos](3D Videos).
