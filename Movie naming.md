@@ -33,3 +33,19 @@ Or:
  \Movies\Léon (1994)\VIDEO_TS\VIDEO_TS.IFO
  \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
 ```
+
+## 3D episodes
+
+3D episodes files are supported. See [3D videos](3D Videos).
+
+## Media stubs
+
+Media stubs are supported. See [media stubs](Media stubs).
+
+## Strm files
+
+Strm files are supported. See [strm files](Strm files).
+
+## Subtitles
+
+Subtitles are supported. See [subtitles](Subtitles).
