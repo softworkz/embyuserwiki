@@ -8,6 +8,8 @@
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
+* [Media stubs](Media stubs)
+* [Strm files](Strm files)
 
 ### Server
 
