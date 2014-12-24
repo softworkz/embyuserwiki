@@ -74,9 +74,21 @@ Each version must begin with the folder name, followed by " - ". If this require
 
 Alternatively they can be grouped together manually using the server's web interface.  
 
-## 3D episodes
+## Movie extras
 
-3D episodes files are supported. See [3D videos](3D Videos).
+Special features for movies can be stored in an extras folder under movie folders. Nested folders are not supported.
+ 
+```
+/Movies
+   /Home Alone (1990)
+      Home Alone (1990).mkv
+      /extras
+         deleted-scenes.mkv 
+```
+
+## 3D videos
+
+3D video files are supported. See [3D videos](3D Videos).
 
 ## Media stubs
 
