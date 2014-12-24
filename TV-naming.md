@@ -31,7 +31,7 @@ To be recognized as a dvd structure, the folder must contain either a VIDEO_TS s
           \Glee S01E09-E10
               \BDMV
 
-```.
+```
 
 ## Episode naming conventions
 
@@ -81,7 +81,7 @@ Specials should named using 0 as the season number. For example:
        \Season 0
           Glee S00E01.mp4
 
-```.
+```
 
 ## Episode Images
 
@@ -105,4 +105,4 @@ For example:
           /metadata
               Glee S02E01.ext
 
-```.
+```
