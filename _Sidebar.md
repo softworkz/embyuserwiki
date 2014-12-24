@@ -8,6 +8,7 @@
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
+* [3D videos](3D videos)
 * [Media stubs](Media stubs)
 * [Strm files](Strm files)
 * [Subtitles](Subtitles)
