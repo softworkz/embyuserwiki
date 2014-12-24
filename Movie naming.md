@@ -113,6 +113,10 @@ Several image types support multiple file names. They are listed in the order th
 |           | extrafanart (subfolder)/fanartX.ext      |
 | Banner   | {name}-banner.ext      |
 |          | banner.ext      |
+| Disc     | {name}-disc.ext      |
+|          | {name}-cdart.ext      |
+|          | disc.ext      |
+|          | cdart.ext      |
 | Logo     | {name}-logo.ext      |
 |          | logo.ext      |
 | Thumb     | {name}-thumb.ext      |
