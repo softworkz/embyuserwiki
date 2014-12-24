@@ -63,7 +63,7 @@ Several image types support multiple file names. You can choose which ones to us
 |           | fanart.ext, fanart-X.ext |
 |           | background.ext, background-X.ext      |
 |           | art.ext, art-X.ext      |
-|           | extrafanart/fanartX.ext      |
+|           | extrafanart (subfolder)/fanartX.ext      |
 | Banner   | banner.ext      |
 | Disc      | disc.ext      |
 |           | cdart.ext      |
