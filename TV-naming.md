@@ -95,6 +95,34 @@ Specials should be named using 0 as the season number. For example:
 
 ```
 
+## Series & Season Images
+
+Images are supported in both series and season folders. Below is a table of the supported image file names:
+
+Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
+
+Several image types support multiple file names. They are listed in the order that they're checked for.
+
+| Image Type | Supported file names  |
+| ------------- |---------------|
+| Primary      | folder.ext |
+|              | cover.ext |
+|              | poster.ext |
+|              | default.ext |
+|              | show.ext (series folder only) |
+| Art      | clearart.ext      |
+| Backdrop  | backdrop.ext, backdropX.ext |
+|           | fanart.ext, fanart-X.ext |
+|           | background.ext, background-X.ext      |
+|           | art.ext, art-X.ext      |
+|           | extrafanart (subfolder)/fanartX.ext      |
+| Banner   | banner.ext      |
+| Logo     | logo.ext      |
+| Thumb     | thumb.ext      |
+|           | landscape.ext      |
+
+For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
+
 ## Episode Images
 
 The following naming conventions are supported for episode images:
