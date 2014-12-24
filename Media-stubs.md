@@ -23,7 +23,6 @@ Examples:
 
 ``` 
 /Movies
-
      Movie1.dvd.disc
      Movie2.bluray.disc
      Movie3.hdtv.disc
