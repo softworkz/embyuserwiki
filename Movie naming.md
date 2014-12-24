@@ -89,3 +89,11 @@ Strm files are supported. See [strm files](Strm files).
 ## Subtitles
 
 Subtitles are supported. See [subtitles](Subtitles).
+
+## Theme songs & videos
+
+Theme songs & videos are supported. See [theme songs & videos](Theme songs & videos).
+
+## Trailers
+
+Trailers are supported. See [trailers](Trailers).
