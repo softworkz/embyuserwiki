@@ -21,7 +21,7 @@ This feature has two requirements:
 
 ## Local Trailers
 
-If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode.
+If your movie folders contain local trailers, enabling this option will allow these trailers to be used within cinema mode. See [trailers](Trailers) for more information.
 
 ![](images/server/cinemamode2.png)
 
