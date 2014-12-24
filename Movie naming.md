@@ -17,3 +17,19 @@ Examples:
 \Movies\Avatar (2009)\Avatar (2009)-cd1.mkv
 \Movies\Avatar (2009)\Avatar (2009)-cd2.mkv
 ```
+
+### Dvd and Blu-ray
+
+Dvd and Blu-ray folder structures are also supported. To be recognized as a dvd structure, the folder must contain either a VIDEO_TS subfolder, or a VIDEO_TS.ifo file. To be recognized as a blu-ray structure, the folder must contain a BDMV subfolder.
+
+```
+\Movies\Alien (1979)\VIDEO_TS.IFO
+\Movies\Léon (1994)\VIDEO_TS.IFO
+\Movies\Scarface (1983)\VIDEO_TS.IFO
+
+Or:
+
+ \Movies\Alien (1979)\VIDEO_TS\VIDEO_TS.IFO
+ \Movies\Léon (1994)\VIDEO_TS\VIDEO_TS.IFO
+ \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
+```
