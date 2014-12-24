@@ -54,34 +54,22 @@ Several image types support multiple file names. You can choose which ones to us
 
 | Image Type | Supported file names  |
 | ------------- |---------------|
-| Primary      | {foldername}-poster.ext |
-|              | {foldername}-cover.ext |
-|              | {foldername}-default.ext |
-|              | folder.ext |
+| Primary      | folder.ext |
 |              | cover.ext |
 |              | poster.ext |
 |              | default.ext |
-| Art      | {foldername}-clearart.ext |
-|          | clearart.ext      |
+| Art      | clearart.ext      |
 | Backdrop  | backdrop.ext, backdropX.ext |
 |           | fanart.ext, fanart-X.ext |
 |           | background.ext, background-X.ext      |
 |           | art.ext, art-X.ext      |
 |           | extrafanart/fanartX.ext      |
-| Banner   | {foldername}-banner.ext |
-|          | banner.ext      |
-| Disc      | {foldername}-disc.ext |
-|           | {foldername}-cdart.ext |
-|           | disc.ext      |
+| Banner   | banner.ext      |
+| Disc      | disc.ext      |
 |           | cdart.ext      |
-| Logo     | {foldername}-logo.ext |
-|          | logo.ext      |
-| Thumb     | {foldername}-thumb.ext |
-|           | {foldername}-landscape.ext |
-|           | thumb.ext      |
+| Logo     | logo.ext      |
+| Thumb     | thumb.ext      |
 |           | landscape.ext      |
-
-The listing of {foldername}-poster.ext is not to suggest that you should name your files instead of the simpler poster.ext. It is a more specific name than poster.ext and that is why it is checked first, but most users will will probably prefer the simpler file names.
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
