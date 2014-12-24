@@ -55,8 +55,8 @@ Several image types support multiple file names. They are listed in the order th
 | Image Type | Supported file names  |
 | ------------- |---------------|
 | Primary      | folder.ext |
-|              | cover.ext |
 |              | poster.ext |
+|              | cover.ext |
 |              | default.ext |
 | Art      | clearart.ext      |
 | Backdrop  | backdrop.ext, backdropX.ext |
