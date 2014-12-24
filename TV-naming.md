@@ -123,6 +123,10 @@ Several image types support multiple file names. They are listed in the order th
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
+## Season images without season folder
+
+
+
 ## Episode Images
 
 The following naming conventions are supported for episode images:
