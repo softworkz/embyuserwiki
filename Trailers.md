@@ -12,7 +12,7 @@ Alternatively, trailers can also be stored in a trailers sub-folder.
 ```
 /Movies
    /Home Alone (1990)
+     Home Alone (1990).mkv
      /trailers
          trailer.mkv
-     Home Alone (1990).mkv
 ```
