@@ -99,10 +99,10 @@ For example:
     \Glee
        \Season 1
           Glee S01E01.mp4
-          Glee S01E01-thumb.ext
+          Glee S01E01-thumb.jpg
        \Season 2
           Glee S02E01.mp4
           /metadata
-              Glee S02E01.ext
+              Glee S02E01.jpg
 
 ```
