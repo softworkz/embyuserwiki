@@ -177,3 +177,7 @@ For example:
               Glee S02E01.jpg
 
 ```
+
+### Strm files
+
+Strm files are supported as episodes. See [Strm files](Strm files)
