@@ -48,6 +48,14 @@ A number of naming conventions are supported:
 * s01e02.avi
 * 1x02.avi
 
+### By date
+
+Common for long-running daily shows, you can also use the date the episode aired.
+
+* anything_1996.11.14.ext
+* anything_1996-11-14.ext
+* anything_14.11.1996.ext
+
 ## Multi-Part Episodes
 
 The following conventions are supported:
