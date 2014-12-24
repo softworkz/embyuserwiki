@@ -119,7 +119,7 @@ Several image types support multiple file names. They are listed in the order th
 |           | thumb.ext      |
 |           | landscape.ext      |
 
-{name} represents the video file name, without extension.
+{name} represents the video file name, without extension. For videos that are not contained within their own folder, only the conventions using {name} are supported.
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
