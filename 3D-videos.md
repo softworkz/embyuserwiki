@@ -8,7 +8,7 @@ A video can be identified as 3D using the the [metadata manager](Metadata manage
 
 Then select the 3D format:
 
-![](images/server/musicvideos1.png)
+![](images/server/3dvideos1.png)
 
 
 ## Video filenames flags
