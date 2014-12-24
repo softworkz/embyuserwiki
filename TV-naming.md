@@ -56,7 +56,7 @@ Common for long-running daily shows, you can also use the date the episode aired
 * anything_1996-11-14.ext
 * anything_14.11.1996.ext
 
-## Multi-Part Episodes
+## Multi-episode files
 
 The following conventions are supported:
 
@@ -82,8 +82,6 @@ The following conventions are supported:
 * show name 01x02 - x03 episode name.avi
 * show name S01x02.S01x03 episode name.avi
 * show name S01x02 - S01x03 episode name.avi
-
-For all of these examples the episode is detected as episode #2 and episode #3
 
 ## Specials
 
