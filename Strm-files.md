@@ -9,3 +9,15 @@ This should look like:
 ```
 http://host/path/stream
 ```
+
+or 
+
+```
+mms://host/path/stream
+```
+
+or 
+
+```
+rtsp://host/path/stream
+```
