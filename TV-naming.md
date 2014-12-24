@@ -195,3 +195,7 @@ Media stubs are supported as episodes. See [media stubs](Media stubs).
 ## Strm files
 
 Strm files are supported as episodes. See [strm files](Strm files).
+
+## Subtitles
+
+Subtitles for episode files are supported as episodes. See [subtitles](Subtitles).
