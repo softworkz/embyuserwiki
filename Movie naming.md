@@ -94,21 +94,32 @@ Several image types support multiple file names. They are listed in the order th
 
 | Image Type | Supported file names  |
 | ------------- |---------------|
-| Primary      | folder.ext |
-|              | cover.ext |
+| Primary      | {name}.ext |
+|              | {name}-poster.ext |
+|              | {name}-cover.ext |
+|              | {name}-default.ext |
+|              | {name}-movie.ext |
+|              | folder.ext |
 |              | poster.ext |
+|              | cover.ext |
 |              | default.ext |
 |              | movie.ext |
-| Art      | clearart.ext      |
+| Art      | {name}-clearart.ext      |
+|          | clearart.ext      |
 | Backdrop  | backdrop.ext, backdropX.ext |
 |           | fanart.ext, fanart-X.ext |
 |           | background.ext, background-X.ext      |
 |           | art.ext, art-X.ext      |
 |           | extrafanart (subfolder)/fanartX.ext      |
 | Banner   | banner.ext      |
-| Logo     | logo.ext      |
-| Thumb     | thumb.ext      |
+| Logo     | {name}-logo.ext      |
+|          | logo.ext      |
+| Thumb     | {name}-thumb.ext      |
+|           | {name}-landscape.ext      |
+|           | thumb.ext      |
 |           | landscape.ext      |
+
+{name} represents the video file name, without extension.
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
