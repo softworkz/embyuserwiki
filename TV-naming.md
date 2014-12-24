@@ -37,10 +37,15 @@ To be recognized as a dvd structure, the folder must contain either a VIDEO_TS s
 
 A number of naming conventions are supported:
 
+* anything_s01e02.ext
+* anything_s1e2.ext
+* anything_s01.e02.ext
+* anything_s01_e02.ext
+* anything_1x02.ext
+* anything_102.ext
 * 01 Episode Name.avi
 * s01e01.avi
 * 1x01.avi
-
 
 ## Multi-Part Episodes
 
