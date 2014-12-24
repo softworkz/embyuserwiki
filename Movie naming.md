@@ -36,7 +36,7 @@ Or:
 
 ## Split video files (file stacking)
 
-The following are default stacking extensions that can be added to file names. # can be 1 through 9 or A through D. 
+The following are default stacking extensions that can be added to file names. # can be 1 through 9 or A through D. Stacking is supported for video files as well as dvd and blu-ray folder structures.
 
 * ​part#​
 * ​cd#​
