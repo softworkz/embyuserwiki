@@ -188,6 +188,10 @@ For example:
 
 ```
 
+## 3D episodes
+
+3D episodes files are supported. See [3D videos](3D Videos).
+
 ## Media stubs
 
 Media stubs are supported as episodes. See [media stubs](Media stubs).
