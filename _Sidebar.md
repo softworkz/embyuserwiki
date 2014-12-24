@@ -27,6 +27,3 @@
 * [Play to](Play to)
 * [Dlna server](Dlna server)
 * [Dlna profiles](Dlna profiles)
-
-### Plugin Guides
-* [GameBrowser](GameBrowser)
