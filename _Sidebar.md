@@ -10,6 +10,7 @@
 * [Music naming](Music naming)
 * [Media stubs](Media stubs)
 * [Strm files](Strm files)
+* [Theme songs & videos](Theme songs & videos)
 
 ### Server
 
