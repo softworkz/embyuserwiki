@@ -27,6 +27,6 @@ Examples:
      Movie2.bluray.disc
      Movie3.hdtv.disc
      Movie4.vhs.disc
-     Movie1.hddev.disc
+     Movie1.hddvd.disc
 
 ``` 
