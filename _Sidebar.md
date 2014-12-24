@@ -14,6 +14,7 @@
 * [Subtitles](Subtitles)
 * [Theme songs & videos](Theme songs & videos)
 * [Trailers](Trailers)
+* [Excluding files & folders](Excluding)
 
 ### Server
 
