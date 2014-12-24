@@ -12,7 +12,7 @@ The recommended folder structure for TV is Series\Season\Episode or Series\Episo
        Seinfeld S01E01.mp4
        Seinfeld S01E02.mp4
 
-```.
+```
 
 ### Dvd and Blu-ray episodes
 
