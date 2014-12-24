@@ -34,6 +34,22 @@ Or:
  \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
 ```
 
+## Split video files (file stacking)
+
+The following are default stacking extensions that can be added to file names. # can be 1 through 9 or A through D. 
+
+* ​part#​
+* ​cd#​
+* ​dvd#​
+* ​pt#​
+* ​disk#​
+* ​disc#​
+
+You can also use:
+* moviename#.ext
+
+Where # can be A through D.
+
 ## 3D episodes
 
 3D episodes files are supported. See [3D videos](3D Videos).
