@@ -104,8 +104,8 @@ Several image types support multiple file names. They are listed in the order th
 | Image Type | Supported file names  |
 | ------------- |---------------|
 | Primary      | folder.ext |
-|              | cover.ext |
 |              | poster.ext |
+|              | cover.ext |
 |              | default.ext |
 |              | show.ext (series folder only) |
 | Art      | clearart.ext      |
