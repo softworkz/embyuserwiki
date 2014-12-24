@@ -111,7 +111,8 @@ Several image types support multiple file names. They are listed in the order th
 |           | background.ext, background-X.ext      |
 |           | art.ext, art-X.ext      |
 |           | extrafanart (subfolder)/fanartX.ext      |
-| Banner   | banner.ext      |
+| Banner   | {name}-banner.ext      |
+|          | banner.ext      |
 | Logo     | {name}-logo.ext      |
 |          | logo.ext      |
 | Thumb     | {name}-thumb.ext      |
