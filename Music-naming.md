@@ -50,38 +50,26 @@ Images are supported in both artist and album folders, as well as images embedde
 
 Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
 
-Several image types support multiple file names. You can choose which ones to use. They are listed in the order that they're checked for.
+Several image types support multiple file names. They are listed in the order that they're checked for.
 
 | Image Type | Supported file names  |
 | ------------- |---------------|
-| Primary      | {foldername}-poster.ext |
-|              | {foldername}-cover.ext |
-|              | {foldername}-default.ext |
-|              | folder.ext |
+| Primary      | folder.ext |
 |              | cover.ext |
 |              | poster.ext |
 |              | default.ext |
-| Art      | {foldername}-clearart.ext |
-|          | clearart.ext      |
+| Art      | clearart.ext      |
 | Backdrop  | backdrop.ext, backdropX.ext |
 |           | fanart.ext, fanart-X.ext |
 |           | background.ext, background-X.ext      |
 |           | art.ext, art-X.ext      |
-|           | extrafanart/fanartX.ext      |
-| Banner   | {foldername}-banner.ext |
-|          | banner.ext      |
-| Disc      | {foldername}-disc.ext |
-|           | {foldername}-cdart.ext |
-|           | disc.ext      |
+|           | extrafanart (subfolder)/fanartX.ext      |
+| Banner   | banner.ext      |
+| Disc      | disc.ext      |
 |           | cdart.ext      |
-| Logo     | {foldername}-logo.ext |
-|          | logo.ext      |
-| Thumb     | {foldername}-thumb.ext |
-|           | {foldername}-landscape.ext |
-|           | thumb.ext      |
+| Logo     | logo.ext      |
+| Thumb     | thumb.ext      |
 |           | landscape.ext      |
-
-The listing of {foldername}-poster.ext is not to suggest that you should name your files instead of the simpler poster.ext. It is a more specific name than poster.ext and that is why it is checked first, but most users will will probably prefer the simpler file names.
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
@@ -100,4 +88,12 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
 
-To identify the artists and albums of music videos, use the [metadata manager](Metadata manager). Simply edit a music video and enter the artist(s) and/or album. Once complete, the artist and album pages will display links to the music videos.
+To identify the artists and albums of music videos, use the [metadata manager](Metadata manager). Simply edit a music video:
+
+![](images/server/musicvideos1.png)
+
+Then enter the artist(s) and/or album:
+
+![](images/server/musicvideos2.png)
+
+Once complete, the artist and album pages will display links to the music videos.
