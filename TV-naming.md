@@ -180,4 +180,4 @@ For example:
 
 ### Strm files
 
-Strm files are supported as episodes. See [Strm files](Strm files)
+Strm files are supported as episodes. See [strm files](Strm files).
