@@ -17,7 +17,7 @@ In order to properly detect 3D, two tags need to be present in the filename. Fir
 
 Tags need be be surrounded be either a space ( ), hyphen -, dot . or underscore _. Tags are case-insensitive, so both 3d and 3D will work.
 
-File name examples:
+Examples:
 
 * moviename (year).3d.hsbs.mkv
 * moviename 3d sbs.mkv
