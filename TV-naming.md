@@ -125,7 +125,34 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ## Season images without season folder
 
+If season folders are not used, season images can still be supplied directly in the series folder, using a naming convention to indicate the season.
 
+| Image Type | Supported file names  |
+| ------------- |---------------|
+| Primary      | seasonXX-poster.ext |
+|              | season-specials-poster.ext |
+| Backdrop     | seasonXX-fanart.ext |
+|              | season-specials-fanart.ext |
+| Banner       | seasonXX-banner.ext |
+|              | season-specials-banner.ext |
+| Thumb        | seasonXX-landscape.ext |
+|              | season-specials-landscape.ext |
+
+For example:
+
+```
+ \TV
+    \Glee
+       season01-poster.jpg
+       season-specials-poster.jpg
+       season01-fanart.jpg
+       season-specials-fanart.jpg
+       season01-banner.jpg
+       season-specials-banner.jpg
+       season01-landscape.jpg
+       season-specials-landscape.jpg
+
+```
 
 ## Episode Images
 
