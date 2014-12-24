@@ -198,4 +198,4 @@ Strm files are supported as episodes. See [strm files](Strm files).
 
 ## Subtitles
 
-Subtitles for episode files are supported as episodes. See [subtitles](Subtitles).
+Subtitles for episode files are supported. See [subtitles](Subtitles).
