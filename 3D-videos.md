@@ -4,7 +4,7 @@ There are two ways to identify a video as 3D.
 
 ## Video filenames flags
 
-### Brackets
+## Brackets
 
 Older file naming conventions are still accepted  by placing one of the following tags within the filename:
 
