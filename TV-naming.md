@@ -123,6 +123,16 @@ Several image types support multiple file names. They are listed in the order th
 
 For backdrops, X represents a number, and you can have any amount of numbered backdrops. For example:
 
+```
+ \TV
+    \Glee
+       backdrop.ext
+       backdrop1.ext
+       backdrop2.ext
+       backdrop3.ext
+
+```
+
 ## Season images without season folder
 
 If season folders are not used, season images can still be supplied directly in the series folder, using a naming convention to indicate the season.
