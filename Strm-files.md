@@ -32,3 +32,5 @@ A strm file as a movie:
    \300
       300.strm
 ```
+
+Strm files can be used for any kind of video, such as movies, episodes, music videos, home videos, etc.
