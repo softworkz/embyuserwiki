@@ -1,1 +1,1 @@
-.
+This file naming guide applies to movies, home videos and music videos. For tv episode naming, see [TV naming](TV naming).
