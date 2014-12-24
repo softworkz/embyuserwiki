@@ -1,4 +1,4 @@
-There are two ways to identify a video as 3D.
+There are mulitple ways to identify a video as 3D.
 
 ## Using the web interface
 
@@ -8,14 +8,21 @@ In order to properly detect 3D, two tags need to be present in the filename. Fir
 
 Tags need be be surrounded be either a space ( ), hyphen -, dot . or underscore _. Tags are case-insensitive, so both 3d and 3D will work.
 
+File name examples:
+
+* moviename (year).3d.hsbs.mkv
+* moviename 3d sbs.mkv
+* moviename.3D-HTAB.mkv
+* moviename-3D.sbs-720p.mkv
+
 ## Brackets
 
 Older file naming conventions are still accepted  by placing one of the following tags within the filename:
 
-* [fsbs] - Indicates full side by side
-* [ftab] - Indicates full top and bottom
-* [hsbs] - Indicates half side by side
-* [htab] - Indicates half top and bottom
+* [fsbs]
+* [ftab]
+* [hsbs]
+* [htab]
 * [3d] - Indicates half side by side
 * [sbs3d] - Indicates half side by side
 
