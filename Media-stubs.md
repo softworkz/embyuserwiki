@@ -1,5 +1,7 @@
 Media Browser has support for offline media stub files. These are files that represent a media outside of the online digital infrastructure and allow Media Browser's library to index your "offline" media collection, as well as ask for the media when selected for playback.
 
+For example:
+
 ``` 
 /Movies
      /Home Alone (1990)
@@ -16,3 +18,16 @@ You can optionally add media source flags to the filename before ".stub". This c
 * HDDVD, if the filename contains HDDVD.
 * TV, if the filename contains HDTV, PDTV, or DSR.
 * VHS, if the filename contains VHS.
+
+Examples:
+
+``` 
+/Movies
+
+     Movie1.dvd.disc
+     Movie2.bluray.disc
+     Movie3.hdtv.disc
+     Movie4.vhs.disc
+     Movie1.hddev.disc
+
+``` 
