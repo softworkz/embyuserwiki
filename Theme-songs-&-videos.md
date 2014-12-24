@@ -1,6 +1,6 @@
 ###Theme Songs
  
-Any folder (movie, season, series, box set, game, etc) can have theme songs. There are two supported conventions, theme.ext, or the 'theme-music' sub-folder, where ext is any valid audio extension.
+Any folder (movie, series, season, game, etc) can have theme songs. There are two supported conventions, theme.ext, or the 'theme-music' sub-folder, where ext is any valid audio extension.
 
 /Movies
    /Home Alone (1990)
@@ -12,7 +12,7 @@ Any folder (movie, season, series, box set, game, etc) can have theme songs. The
  
 ###Theme Videos
  
-Any folder (movie, season, series, box set, game, etc) can have theme videos using a 'backdrops' sub-folder. 
+Any folder (movie, series, season, game, etc) can have theme videos using a 'backdrops' sub-folder. 
 
 /Movies
    /Home Alone (1990)
