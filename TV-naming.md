@@ -43,9 +43,10 @@ A number of naming conventions are supported:
 * anything_s01_e02.ext
 * anything_1x02.ext
 * anything_102.ext
-* 01 Episode Name.avi
-* s01e01.avi
-* 1x01.avi
+* anything_1x02.ext
+* 02 Episode Name.avi
+* s01e02.avi
+* 1x02.avi
 
 ## Multi-Part Episodes
 
