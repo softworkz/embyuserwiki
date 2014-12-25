@@ -3,7 +3,6 @@
 
 ### Getting started
 * [System requirements](System requirements)
-* [Installation](Installation)
 * [Library setup](Library setup)
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
@@ -18,6 +17,7 @@
 
 ### Server
 
+* [Installation](Installation)
 * [Cinema mode](Cinema-Mode)
 * [Devices](Devices)
 * [Live TV](Live TV)
