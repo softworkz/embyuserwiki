@@ -18,3 +18,13 @@ http://app.mediabrowser.tv
 ## Prepare your media
 
 Media Browser identifies your media according to folder structure, file name, and the type of library to which it is assigned. Once identified, Media Browser downloads information like posters, descriptions, and ratings that make media selection a rich experience. The requirements for organizing and naming files are quite flexible, but will require some basic structure.
+
+The general recommendations are:
+
+* Separate media into appropriate folders (e.g., Movies in a "Movies" folder, TV shows in a "TV Shows" folder, music in a "Music" folder, photos in a "Photos" folder, etc.)
+
+* Movies should be named as "Name (Year).exe", for example "Brave (2012).mp4"
+
+* TV shows should include season and episode numbers in the name, and be stored in separate folders per show. For example: "\TV\Homeland\Homeland s01e01.mp4"
+
+* Music should be stored within artist and album folders, such as "\Music\Artist\Album\tracks"
