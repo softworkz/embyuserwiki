@@ -28,3 +28,8 @@ The general recommendations are:
 * TV shows should include season and episode numbers in the name, and be stored in separate folders per show. For example: "\TV\Homeland\Homeland s01e01.mp4"
 
 * Music should be stored within artist and album folders, such as "\Music\Artist\Album\tracks"
+
+## Install the Server
+Once your media is named and organized, it's time to install the Server. The server is available on a number of platforms and devices from Windows to Linux, Mac, FreeBSD and Nas devices.
+
+See 
