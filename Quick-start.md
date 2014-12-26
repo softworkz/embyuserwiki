@@ -30,7 +30,7 @@ The general recommendations are:
 * Music should be stored within artist and album folders, such as "\Music\Artist\Album\tracks"
 
 ## Install the Server
-Once your media is named and organized, it's time to install the Server. The server is available on a number of platforms and devices from Windows to Linux, Mac, FreeBSD and Nas devices.
+Once your media is named and organized, it's time to install the Server. The server is available on a number of platforms ranging from Windows to Linux, Mac, FreeBSD and Nas devices.
 
 See [installation](Installation).
 
