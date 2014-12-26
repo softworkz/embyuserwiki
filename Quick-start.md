@@ -14,3 +14,7 @@ http://mediabrowser.tv/download/
 Or try the online web app at
 
 http://app.mediabrowser.tv
+
+## Prepare your media
+
+Media Browser identifies your media according to folder structure, file name, and the type of library to which it is assigned. Once identified, Media Browser downloads information like posters, descriptions, and ratings that make media selection a rich experience. The requirements for organizing and naming files are quite flexible, but will require some basic structure.
