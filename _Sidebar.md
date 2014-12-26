@@ -17,7 +17,7 @@
 
 ### Server
 
-* [Quick start](Quick start)
+* [Installation](Installation)
 * [Cinema mode](Cinema-Mode)
 * [Devices](Devices)
 * [Live TV](Live TV)
