@@ -1,4 +1,4 @@
-### Menu
+### Getting started
 * [Wiki home](home)
 * [Quick start](Quick start)
 * [System requirements](System requirements)
