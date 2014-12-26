@@ -33,3 +33,15 @@ The general recommendations are:
 Once your media is named and organized, it's time to install the Server. The server is available on a number of platforms and devices from Windows to Linux, Mac, FreeBSD and Nas devices.
 
 See [installation](Installation).
+
+## Install apps on your devices
+
+Once your installation is up and running and you've completed the startup wizard, it's time to install apps on your devices.
+
+Choose one of the many apps we have available:
+
+http://mediabrowser.tv/download/
+
+Or try the online web app at
+
+http://app.mediabrowser.tv
