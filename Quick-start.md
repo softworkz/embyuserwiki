@@ -45,3 +45,15 @@ http://mediabrowser.tv/download/
 Or try the online web app at
 
 http://app.mediabrowser.tv
+
+## Add Users
+
+You may wish to add users and invite your friends. Users can have their own personalized media libraries, user data, recommendations and more.
+
+For more information, see [users](Users).
+
+## Install Plugins
+
+Installing plugins can further enhance your Media Browser experience. Cover Art allows you to personalize the artwork this is displayed within your Media Browser apps, and Trailers provides a library of streaming internet trailers to your media collection.
+
+For more information, see [plugins](Plugins).
