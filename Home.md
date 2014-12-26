@@ -6,7 +6,7 @@ http://mediabrowser.tv/
 
 ## Contents
 
-See the menu on the right-hand side of this page. Some key areas are:
+See the menu on the right-hand side of this page for a complete listing. Some key areas are:
 
 * [Quick start](Quick start)
 * [System requirements](System requirements)
