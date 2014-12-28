@@ -1,9 +1,9 @@
-### Menu
-* [Wiki home](home)
-
 ### Getting started
+* [Wiki home](home)
 * [Quick start](Quick start)
 * [System requirements](System requirements)
+
+### Media organization
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
@@ -17,7 +17,7 @@
 
 ### Server
 
-* [Quick start](Quick start)
+* [Installation](Installation)
 * [Cinema mode](Cinema-Mode)
 * [Devices](Devices)
 * [Live TV](Live TV)

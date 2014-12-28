@@ -1,5 +1,9 @@
 This file naming guide applies to movies, home videos and music videos. For tv episode naming, see [TV naming](TV naming).
 
+### Library Setup
+
+When setting up the library, make sure to select **Movies**, **Home videos**, or **Music videos** as the content type.
+
 For **movies**, it is recommended to have only the **title** and **year**, followed by the extension. To improve matching add the year within parenthesis to the end of the file or folder name (before the extension, if file name). This naming standard will generally yield the best results.
 
 Examples:
