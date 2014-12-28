@@ -54,6 +54,6 @@ For more information, see [users](Users).
 
 ## Install Plugins
 
-Installing plugins can further enhance your Media Browser experience. Cover Art allows you to personalize the artwork this is displayed within your Media Browser apps, and Trailers provides a library of streaming internet trailers to your media collection.
+Installing plugins can further enhance your Media Browser experience. Cover Art allows you to personalize the artwork this is displayed within your Media Browser apps, and Trailers provides a library of streaming internet trailers to your media collection. Trakt is also extremely popular.
 
 For more information, see [plugins](Plugins).
