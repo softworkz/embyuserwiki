@@ -14,3 +14,9 @@ Click into a device in order to customize it's options. The display name can be 
 
 ![](images/server/devices2.png)
 
+If the device supports camera upload, you can also customize the path in which images are uploaded for that device:
+
+![](images/server/devices3.png)
+
+For more information, please see [camera upload](Camera upload).
+
