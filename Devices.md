@@ -3,3 +3,14 @@ The devices section displays all devices that have connected to your server, bot
 Devices are accessed from the server dashboard by navigating to **Devices**. A list of devices will be displayed, for example: 
 
 ![](images/server/devices1.png)
+
+## Removing a device
+
+To remove a device from the list, click the minus button on the right-hand side. Please note that the device will re-appear the next time it connects. Removing a device is useful when you know it will no longer be used with your server.
+
+## Device Options
+
+Click into a device in order to customize it's options. The display name can be changed in order to personalize how it will appear in your Media Browser apps. The original display name is displayed above in a read-only fashion.
+
+![](images/server/devices2.png)
+
