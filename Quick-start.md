@@ -32,7 +32,7 @@ The general recommendations are:
 ## Install the Server
 Once your media is named and organized, it's time to install the Server. The server is available on a number of platforms ranging from Windows to Linux, Mac, FreeBSD and Nas devices.
 
-See [installation](Installation).
+For  more information, see [installation](Installation).
 
 ## Install apps on your devices
 
