@@ -18,15 +18,16 @@
 ### Server
 
 * [Installation](Installation)
-* [Cinema mode](Cinema-Mode)
+* [Users](Users)
 * [Devices](Devices)
+* [Camera upload](Camera upload)
+* [Cinema mode](Cinema-Mode)
 * [Live TV](Live TV)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
-* [Users](Users)
 
 ### Dlna
 * [Play to](Play to)
