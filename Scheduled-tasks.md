@@ -6,7 +6,7 @@ You'll be presented with a list of scheduled tasks, for example:
 
 ![](images/server/scheduledtasks1.png)
 
-Tasks can be run on demand anytime by clicking the play button on the right hand-side. Note that plugins can install their own scheduled tasks to run periodically, and several of them do, e.g. Trakt.
+Tasks can be run on demand anytime by clicking the play button on the right hand-side. Plugins can also install their own scheduled tasks to run periodically, and several of them do, e.g. Trakt.
 
 Clicking on a task will display the triggers that cause the task to run:
 
