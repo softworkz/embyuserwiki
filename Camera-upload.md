@@ -22,3 +22,11 @@ There are a few options that allow you to control where the uploaded photos are 
 **Note**: When using a custom upload path, you will need to add that path to the server library.
 
 It is also possible to assign a custom upload path individually for a device. For more information on this, see [devices](Devices).
+
+## Uploading from Apps
+
+Uploading is automatic and does not require any intervention on the part of the user. Please note that some apps will only upload under certain conditions, such as being on wifi, having a certain connection speed, or a certain battery percentage, as well as other device-specific factors. 
+
+Note: The Windows Phone app will require you to enable camera upload within the app after enabling on the server.
+
+![](images/server/cameraupload3.png)
