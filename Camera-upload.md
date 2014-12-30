@@ -21,7 +21,7 @@ There are a few options that allow you to control where the uploaded photos are 
 
 **Note**: When using a custom upload path, you will need to add that path to the server library.
 
-It is also possible to assign a custom upload path individually for a device. For more information on this, see [devices](Devices).
+It is also possible to assign a custom upload path individually for a device. For more information on this, see [device settings](Devices).
 
 ## Uploading from Apps
 
