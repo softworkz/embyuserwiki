@@ -15,7 +15,7 @@ You'll be presented with a screen that allows you to select which devices to ena
 
 ## Customizing the Upload Location
 
-There are a few options that allow you to control where the uploaded photos are saved to. By default, they are saved to an internal data folder, and all devices upload to the same folder. You can easily change the upload folder to a custom path, and you can also have a sub-folder created for each device:
+There are a few options that allow you to control where the uploaded photos are saved to. By default, they are saved to an internal data folder, and all devices upload to the same folder. You can easily change the upload folder to a custom path, and/or you can also have a sub-folder created for each device:
 
 ![](images/server/cameraupload2.png)
 
