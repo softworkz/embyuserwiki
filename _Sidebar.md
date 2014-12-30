@@ -21,6 +21,7 @@
 * [Users](Users)
 * [Devices](Devices)
 * [Camera upload](Camera upload)
+* [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
 * [Live TV](Live TV)
 * Metadata configuration
