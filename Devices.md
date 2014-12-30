@@ -8,7 +8,7 @@ Devices are accessed from the server dashboard by navigating to **Devices**. A l
 
 To remove a device from the list, click the minus button on the right-hand side. Please note that the device will re-appear the next time it connects. Removing a device is useful when you know it will no longer be used with your server.
 
-## Device Options
+## Device Settings
 
 Click into a device in order to customize it's options. 
 
