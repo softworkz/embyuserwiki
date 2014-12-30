@@ -10,7 +10,15 @@ To remove a device from the list, click the minus button on the right-hand side.
 
 ## Device Options
 
-Click into a device in order to customize it's options. The display name can be changed in order to personalize how it will appear in your Media Browser apps. The original display name is displayed above in a read-only fashion.
+Click into a device in order to customize it's options. 
+
+The display name can be changed in order to personalize how it will appear in your Media Browser apps. The original name reported by the device is displayed above in a read-only fashion.
 
 ![](images/server/devices2.png)
+
+If the device supports camera upload, you can also customize the path in which images are uploaded for that device:
+
+![](images/server/devices3.png)
+
+For more information, please see [camera upload](Camera upload).
 

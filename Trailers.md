@@ -16,3 +16,9 @@ Alternatively, trailers can also be stored in a trailers sub-folder.
      /trailers
          trailer.mkv
 ```
+
+## Internet trailers
+
+The trailer channel can also provide streaming trailers for your movies.
+
+For more information, see [plugins](Plugins).
