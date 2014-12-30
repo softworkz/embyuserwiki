@@ -25,7 +25,7 @@ It is also possible to assign a custom upload path individually for a device. Fo
 
 ## Uploading from Apps
 
-Uploading is automatic and does not require any intervention on the part of the user. Please note that some apps will only upload under certain conditions, such as being on wifi, having a certain connection speed, or a certain battery percentage, as well as other device-specific factors. 
+Uploading is automatic and does not require any intervention on the part of the user. Please note that some apps will only upload under certain conditions, such as being on wifi, having a certain connection speed, or a certain battery charge percentage, as well as other device-specific factors. 
 
 **Note**: The Windows Phone app will require you to enable camera upload within the app after enabling on the server.
 
