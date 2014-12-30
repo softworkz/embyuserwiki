@@ -29,6 +29,7 @@
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
+* [Transcoding](Transcoding)
 
 ### Dlna
 * [Play to](Play to)
