@@ -6,7 +6,7 @@ The simplest way is to set the max parental rating for a user.
 
 ![](images/server/users13.png)
 
-This value will not affect unrated content, but there are additional options to control that as well:
+Content with a higher rating will not be displayed. This value will not affect unrated content, but there are additional options to control that as well:
 
 ![](images/server/users14.png)
 
