@@ -32,6 +32,10 @@
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
 
+### Users
+
+* [Users](Users)
+
 ### Dlna
 * [Play to](Play to)
 * [Dlna server](Dlna server)
