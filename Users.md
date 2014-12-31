@@ -1,6 +1,6 @@
 Most operations within Media Browser are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
 
-Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, Guests and Pending Invitations.
+Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, [Guests](Guests) and [Pending Invitations](Guests).
 
 ## Local Users
 
@@ -15,19 +15,9 @@ Linking a user to Media Browser Connect will enable an easier sign in process th
 
 ## Guests
 
-Guests are users that you've invited using [Media Browser Connect](Media Browser Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
+Guests are users that you've invited using [Media Browser Connect](Media Browser Connect).
 
-![](images/server/users2.png)
-
-## Pending Invitations
-
-Guests that you've invited will display as pending until they accept the invitation. 
-
-![](images/server/users3.png)
-
-Invitations can easily be cancelled by clicking the dot menu button:
-
-![](images/server/users4.png)
+For more information, see [Guests](Guests).
 
 ## Adding a User
 
@@ -49,7 +39,7 @@ By default, users have the ability to change their own passwords, so this functi
 
 ![](images/server/users10.png)
 
-Click Configure Password. You will then be taken to the user-facing side of the web interface where you can change or the password.
+Click Configure Password. You will then be taken to the user-facing side of the web interface where you can change or reset the password.
 
 ![](images/server/users11.png)
 
@@ -57,7 +47,7 @@ Click Configure Password. You will then be taken to the user-facing side of the 
 
 ### Local Access
 
-If a password is configured, you can choose to allow in-network access without the use of a password.
+If a password is configured, you can choose to allow in-home network access without the use of a password.
 
 ![](images/server/users12.png)
 
