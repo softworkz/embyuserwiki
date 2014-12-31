@@ -24,6 +24,7 @@
 * [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
 * [Live TV](Live TV)
+* [Media Browser Connect](Connect feature)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
