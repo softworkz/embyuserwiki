@@ -36,6 +36,7 @@
 * [Users](Users)
 * [Guests](Guests)
 * [Media Browser Connect](Media Browser Connect)
+* [Parental controls](Parental controls)
 * [Passwords](Passwords)
 
 ### Dlna
