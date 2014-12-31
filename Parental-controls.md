@@ -18,7 +18,7 @@ In addition, you can also restrict content containing certain tags:
 
 For more information on tags and how to configure them, see [Metadata manager](Metadata manager).
 
-## Parental Controls via Access Schedule:
+## Access Schedule:
 
 Access schedules allow you to control the days and times during the week in which a user is allowed access to the server:
 
