@@ -42,3 +42,9 @@ You'll then be taken to the new user page page. The only required field is a use
 In addition you can also configure library and channel access, and this can easily be changed later:
 
 ![](images/server/users9.png)
+
+## Deleting a User or Guest
+
+To delete a user, simply click the dot menu button and select Delete:
+
+![](images/server/users5.png)
