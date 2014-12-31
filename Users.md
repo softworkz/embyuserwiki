@@ -33,9 +33,15 @@ In addition you can also configure library and channel access, and this can easi
 
 ![](images/server/users9.png)
 
+## User Access
+
+Access controls allow you to specify what libraries, channels and devices a user can utilize. To manage access for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Access**. 
+
 ## Parental Controls
 
-There are a number of tools at your disposal to restrict content from users. The simplest way is to set the max parental rating for a user:
+There are a number of tools at your disposal to restrict content from users. To manage parental controls for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Parental Control**. 
+
+The simplest way is to set the max parental rating for a user.
 
 ### Parental Controls via Ratings:
 
@@ -82,7 +88,7 @@ If a password is configured, you can choose to allow in-home network access with
 
 ![](images/server/users12.png)
 
-Note: Enabling this option may introduce security risks. Incoming ip addresses can be spoofed, therefore there is no way for the server to determine with 100% accuracy that the request is coming from inside your home network.
+**Note**: Enabling this option may introduce security risks. Incoming ip addresses can be spoofed, therefore there is no way for the server to determine with 100% accuracy that the request is coming from inside your home network.
 
 ## Deleting a User
 
