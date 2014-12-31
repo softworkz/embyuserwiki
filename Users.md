@@ -34,3 +34,11 @@ Invitations can easily be cancelled by clicking the dot menu button:
 To add a local user, click the + button within the Users heading:
 
 ![](images/server/users7.png)
+
+You'll then be taken to the new user page page. The only required field is a user name:
+
+![](images/server/users8.png)
+
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users9.png)
