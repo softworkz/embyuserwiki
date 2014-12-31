@@ -53,6 +53,8 @@ Click Configure Password. You will then be taken to the user-facing side of the 
 
 ![](images/server/users11.png)
 
+**Note**: Guest passwords are managed by Media Browser Connect and can only be changed by the user themselves.
+
 ### Local Access
 
 If a password is configured, you can choose to allow in-network access without the use of a password.
