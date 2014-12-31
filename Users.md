@@ -35,7 +35,9 @@ In addition you can also configure library and channel access, and this can easi
 
 ## Parental Controls
 
-There are a number of tools at your disposal to restrict content from users. The simplest way is to set the max parental rating for a user:
+There are a number of tools at your disposal to restrict content from users. To manage parental controls for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Parental Control**. 
+
+The simplest way is to set the max parental rating for a user.
 
 ### Parental Controls via Ratings:
 
