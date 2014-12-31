@@ -31,3 +31,6 @@ Invitations can easily be cancelled by clicking the dot menu button:
 
 ## Adding a User
 
+To add a local user, click the + button within the Users heading:
+
+![](images/server/users7.png)
