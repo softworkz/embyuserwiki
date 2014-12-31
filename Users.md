@@ -84,7 +84,7 @@ If a password is configured, you can choose to allow in-home network access with
 
 ![](images/server/users12.png)
 
-Note: Enabling this option may introduce security risks. Incoming ip addresses can be spoofed, therefore there is no way for the server to determine with 100% accuracy that the request is coming from inside your home network.
+**Note**: Enabling this option may introduce security risks. Incoming ip addresses can be spoofed, therefore there is no way for the server to determine with 100% accuracy that the request is coming from inside your home network.
 
 ## Deleting a User
 
