@@ -18,7 +18,6 @@
 ### Server
 
 * [Installation](Installation)
-* [Users](Users)
 * [Devices](Devices)
 * [Camera upload](Camera upload)
 * [Channels](Channels)
