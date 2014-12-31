@@ -15,6 +15,8 @@ Linking a user to Media Browser Connect will enable an easier sign in process th
 
 ## Guests
 
+Guests are users that you've invited using [Media Browser Connect](Media Browser Connect).
+
 For more information, see [guests](Guests).
 
 ## Adding a User
