@@ -13,8 +13,18 @@ A local user will be displayed with a cloud if it is linked to Media Browser Con
 
 Linking a user to Media Browser Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Media Browser Connect](Media Browser Connect).
 
+## Guests
 ![](images/server/users2.png)
+
+## Pending Invitations
+
+Guests that you've invited will display as pending until they accept the invitation. 
+
 ![](images/server/users3.png)
+
+Invitations can easily be cancelled by clicking the dot menu button:
+
+![](images/server/users4.png)
 
 ## Adding a User
 
