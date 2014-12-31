@@ -19,6 +19,7 @@
 
 * [Installation](Installation)
 * [Users](Users)
+* [Media Browser Connect](Media Browser Connect)
 * [Devices](Devices)
 * [Camera upload](Camera upload)
 * [Channels](Channels)
@@ -30,12 +31,6 @@
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
-
-### Users
-
-* [Users](Users)
-* [Guests](Guests)
-* [Media Browser Connect](Media Browser Connect)
 
 ### Dlna
 * [Play to](Play to)
