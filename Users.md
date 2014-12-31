@@ -49,7 +49,7 @@ By default, users have the ability to change their own passwords, so this functi
 
 ![](images/server/users10.png)
 
-Click Configure Password. You will then be taken to the user-facing side of the web interface where you can change or the password.
+Click Configure Password. You will then be taken to the user-facing side of the web interface where you can change or reset the password.
 
 ![](images/server/users11.png)
 
@@ -57,7 +57,7 @@ Click Configure Password. You will then be taken to the user-facing side of the 
 
 ### Local Access
 
-If a password is configured, you can choose to allow in-network access without the use of a password.
+If a password is configured, you can choose to allow in-home network access without the use of a password.
 
 ![](images/server/users12.png)
 
