@@ -10,7 +10,7 @@ This value will not affect unrated content, but there are additional options to 
 
 ![](images/server/users14.png)
 
-### Parental Controls via Tags:
+## Parental Controls via Tags:
 
 In addition, you can also restrict content containing certain tags:
 
