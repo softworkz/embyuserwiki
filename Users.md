@@ -43,6 +43,12 @@ This value will not affect unrated content, but there are additional options to 
 
 ![](images/server/users14.png)
 
+In addition, you can also restrict content containing certain tags:
+
+![](images/server/users15.png)
+
+For more information on tags and how to configure them, see [Metadata manager](Metadata manager).
+
 
 ## User Password
 
