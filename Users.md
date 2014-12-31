@@ -8,8 +8,9 @@ Local users are displayed under the user heading. These are users that you've cr
 
 ![](images/server/users1.png)
 
-A local user will be displayed with a cloud if it is linked to Media Browser Connect. For more information, see 
+A local user will be displayed with a cloud if it is linked to Media Browser Connect. 
 ![](images/server/users6.png)
+For more information, see [Media Browser Connect](Media Browser Connect).
 
 ![](images/server/users2.png)
 ![](images/server/users3.png)
