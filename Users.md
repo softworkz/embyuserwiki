@@ -1,6 +1,6 @@
 Most operations within Media Browser are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
 
-Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, Guests and Pending Invitations.
+Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, [Guests](Guests) and [Pending Invitations](Guests).
 
 ## Local Users
 
@@ -15,19 +15,7 @@ Linking a user to Media Browser Connect will enable an easier sign in process th
 
 ## Guests
 
-Guests are users that you've invited using [Media Browser Connect](Media Browser Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
-
-![](images/server/users2.png)
-
-## Pending Invitations
-
-Guests that you've invited will display as pending until they accept the invitation. 
-
-![](images/server/users3.png)
-
-Invitations can easily be cancelled by clicking the dot menu button:
-
-![](images/server/users4.png)
+For more information, see [guests](Guests).
 
 ## Adding a User
 
