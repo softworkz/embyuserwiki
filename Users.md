@@ -33,6 +33,17 @@ In addition you can also configure library and channel access, and this can easi
 
 ![](images/server/users9.png)
 
+## Parental Controls
+
+There are a number of tools at your disposal to restrict content from users. The simplest way is to set the max parental rating for a user:
+
+![](images/server/users13.png)
+
+This value will not affect unrated content, but there are additional options to control that as well:
+
+![](images/server/users14.png)
+
+
 ## User Password
 
 By default, users have the ability to change their own passwords, so this function is handled in areas that don't require administrative access. If you would like to change the password for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Password**.
