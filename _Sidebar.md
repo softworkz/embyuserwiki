@@ -24,7 +24,6 @@
 * [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
 * [Live TV](Live TV)
-* [Media Browser Connect](Media Browser Connect)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
@@ -35,6 +34,8 @@
 ### Users
 
 * [Users](Users)
+* [Guests](Guests)
+* [Media Browser Connect](Media Browser Connect)
 
 ### Dlna
 * [Play to](Play to)
