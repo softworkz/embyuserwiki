@@ -2,6 +2,10 @@ Guests are users that you've invited using [Media Browser Connect](Media Browser
 
 ![](images/server/users2.png)
 
+## Configuring Guest Accounts
+
+Once a guest has been accepted, they can be configured in the same way as a local user. For more information, see [Users](Users).
+
 ## Pending Invitations
 
 Guests that you've invited will display as pending until they accept the invitation. 
