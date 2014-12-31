@@ -2,7 +2,7 @@ There are a number of tools at your disposal to restrict content from users. To 
 
 The simplest way is to set the max parental rating for a user.
 
-### Parental Controls via Ratings:
+## Parental Controls via Ratings:
 
 ![](images/server/users13.png)
 
@@ -18,7 +18,7 @@ In addition, you can also restrict content containing certain tags:
 
 For more information on tags and how to configure them, see [Metadata manager](Metadata manager).
 
-### Parental Controls via Access Schedule:
+## Parental Controls via Access Schedule:
 
 Access schedules allow you to control the days and times during the week in which a user is allowed access to the server:
 
