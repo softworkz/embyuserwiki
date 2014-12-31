@@ -43,7 +43,7 @@ In addition you can also configure library and channel access, and this can easi
 
 ![](images/server/users9.png)
 
-## Deleting a User or Guest
+## Deleting a User
 
 To delete a user or guest, simply click the dot menu button and select Delete:
 
