@@ -10,7 +10,7 @@ Click Configure Password. You will then be taken to the user-facing side of the 
 
 **Note**: Guest passwords are managed by Media Browser Connect and can only be changed by the user themselves.
 
-### Local Access
+## Local Access
 
 If a password is configured, you can choose to allow in-home network access without the use of a password.
 
