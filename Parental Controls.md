@@ -24,6 +24,6 @@ Access schedules allow you to control the days and times during the week in whic
 
 ![](images/server/users16.png)
 
-To create a schedule, click the **Add Schedule** button. Once a schedule is assigned, the user will only be able to access the server during those listed times.
+To add schedules, click the **Add Schedule** button. Once schedules are assigned, the user will only be able to access the server during those listed times.
 
 **Note**: Access schedules cannot be created on administrator accounts.
