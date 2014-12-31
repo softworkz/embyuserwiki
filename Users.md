@@ -33,6 +33,10 @@ In addition you can also configure library and channel access, and this can easi
 
 ![](images/server/users9.png)
 
+## User Access
+
+Access controls allow you to specify what libraries, channels and devices a user can utilize. To manage access for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Access**. 
+
 ## Parental Controls
 
 There are a number of tools at your disposal to restrict content from users. To manage parental controls for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Parental Control**. 
