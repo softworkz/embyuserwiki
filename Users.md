@@ -45,9 +45,18 @@ Other features can also be granted or denied, such as the ability to sync media,
 
 ![](images/server/users21.png)
 
-In addition you can also configure library and channel access, and this can easily be changed later:
+You can also decide how they can remote control shared devices. Remote controlling another user allows them to send content to devices for playback while another user is signed in. 
+
+Remote controlling shared devices, such as Dlna devices, allows them to send content to those as well.
 
 ![](images/server/users19.png)
+
+Lastly, advanced access will give you the ability to disable or hide a user, as well as lock them from changing their user profile settings.
+
+Disabling a user will do just that. All existing sessions from that user will be abruptly terminated. Hiding a user will simply remove them from visual login screens. They will need to enter their username and password manually.
+
+
+
 ![](images/server/users20.png)
 
 ## Content Access
