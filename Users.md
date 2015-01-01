@@ -55,7 +55,7 @@ Lastly, advanced access will give you the ability to disable or hide a user, as 
 
 Disabling a user will do just that. All existing sessions from that user will be abruptly terminated. Hiding a user will simply remove them from visual login screens. They will need to enter their username and password manually.
 
-
+Disabling user preference access will prevent a user from changing their profile settings, such as their image, password, view preferences, language preferences, and more. This is useful for administrators who prefer to dictate these terms to their users.
 
 ![](images/server/users20.png)
 
