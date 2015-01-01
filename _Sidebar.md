@@ -34,11 +34,11 @@
 
 * [Users](Users)
 * [Guests](Guests)
-* [Media Browser Connect](Media Browser Connect)
 * [Parental controls](Parental controls)
 * [Passwords](Passwords)
 * [Content access](Content Access)
 * [Device access](Device Access)
+* [Media Browser Connect](Media Browser Connect)
 
 ### Dlna
 * [Play to](Play to)
