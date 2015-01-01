@@ -41,11 +41,21 @@ Any user can be granted administrative access which will allow them to utilize t
 
 ![](images/server/users18.png)
 
-Other features can also be granted or denied, such as the ability to sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not.
+Other features can also be granted or denied, such as the ability to sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a guest user who can browse the library but not play anything.
+
+![](images/server/users21.png)
+
+You can also decide how they can remote control shared devices. Remote controlling another user allows them to send content to devices for playback while another user is signed in. 
+
+Remote controlling shared devices, such as Dlna devices, allows them to send content to those as well.
 
 ![](images/server/users19.png)
 
-In addition you can also configure library and channel access, and this can easily be changed later:
+Lastly, advanced access will give you the ability to disable or hide a user, as well as lock them from changing their user profile settings.
+
+Disabling a user will do just that. All existing sessions from that user will be abruptly terminated. Hiding a user will simply remove them from visual login screens. They will need to enter their username and password manually.
+
+Disabling user preference access will prevent a user from changing their profile settings, such as their image, password, view preferences, language preferences, and more. This is useful for administrators who prefer to dictate these terms to their users.
 
 ![](images/server/users20.png)
 
