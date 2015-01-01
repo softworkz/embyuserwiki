@@ -38,11 +38,11 @@ In addition you can also configure library and channel access, and this can easi
 
 ## Content Access
 
-See [User Access](User Access).
+See [Content Access](Content Access).
 
 ## Device Access
 
-See [User Access](User Access).
+See [Device Access](Device Access).
 
 ## Parental Controls
 
