@@ -1,8 +1,6 @@
-Access controls allow you to specify what libraries, channels and devices a user can utilize. To manage access for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Access**. 
-
-### Device Access
-
 Device access allows you to configure the devices a user is allowed to sign in from. By default, users can use any device.
+
+To manage device access for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Access**. 
 
 ![](images/server/users17.png)
 
