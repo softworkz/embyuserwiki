@@ -1,1 +1,74 @@
-.
+Most operations within Media Browser are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
+
+Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, [Guests](Guests) and [Pending Invitations](Guests).
+
+## Local Users
+
+Local users are displayed under the user heading. These are users that you've created in the server dashboard.
+
+![](images/server/users1.png)
+
+A local user will be displayed with a cloud if it is linked to [Media Browser Connect](Media Browser Connect). 
+![](images/server/users6.png)
+
+Linking a user to Media Browser Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Media Browser Connect](Media Browser Connect).
+
+## Guests
+
+Guests are users that you've invited using [Media Browser Connect](Media Browser Connect).
+
+For more information, see [Guests](Guests).
+
+## Adding a User
+
+To add a local user, click the + button within the Users heading:
+
+![](images/server/users7.png)
+
+You'll then be taken to the new user page page. The only required field is a user name:
+
+![](images/server/users8.png)
+
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users9.png)
+
+## Feature Access
+
+To manage user feature access, start by visiting the Users page and clicking on a user account. 
+
+Any user can be granted administrative access which will allow them to utilize the server dashboard.
+
+![](images/server/users18.png)
+
+Other features can also be granted or denied, such as the ability to sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a guest user who can browse the library but not play anything.
+
+![](images/server/users21.png)
+
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users19.png)
+![](images/server/users20.png)
+
+## Content Access
+
+See [Content Access](Content Access).
+
+## Device Access
+
+See [Device Access](Device Access).
+
+## Parental Controls
+
+See [Parental Controls](Parental controls).
+
+## User Password
+
+See [Passwords](Passwords).
+
+
+## Deleting a User
+
+To delete a user or guest, simply click the dot menu button and select Delete:
+
+![](images/server/users5.png)

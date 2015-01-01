@@ -1,25 +1,44 @@
-### Menu
-* [Wiki home](home)
-
 ### Getting started
+* [Wiki home](home)
+* [Quick start](Quick start)
 * [System requirements](System requirements)
-* [Installation](Installation)
-* [Library setup](Library setup)
+
+### Media organization
 * [Movie naming](Movie naming)
 * [TV naming](TV naming)
 * [Music naming](Music naming)
+* [3D videos](3D videos)
+* [Excluding files](Excluding files & folders)
+* [Media stubs](Media stubs)
+* [Strm files](Strm files)
+* [Subtitles](Subtitles)
+* [Theme songs & videos](Theme songs & videos)
+* [Trailers](Trailers)
 
 ### Server
 
-* [Cinema mode](Cinema-Mode)
+* [Installation](Installation)
 * [Devices](Devices)
+* [Camera upload](Camera upload)
+* [Channels](Channels)
+* [Cinema mode](Cinema-Mode)
 * [Live TV](Live TV)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
-* Notifications
+* [Notifications](Notifications)
 * [Plugins](Plugins)
-* Scheduled tasks
+* [Scheduled tasks](Scheduled tasks)
+* [Transcoding](Transcoding)
+
+### Users
+
 * [Users](Users)
+* [Guests](Guests)
+* [Parental controls](Parental controls)
+* [Passwords](Passwords)
+* [Content access](Content Access)
+* [Device access](Device Access)
+* [Media Browser Connect](Media Browser Connect)
 
 ### Dlna
 * [Play to](Play to)
