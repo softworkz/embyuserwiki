@@ -51,6 +51,12 @@ Remote controlling shared devices, such as Dlna devices, allows them to send con
 
 ![](images/server/users19.png)
 
+Lastly, advanced access will give you the ability to disable or hide a user, as well as lock them from changing their user profile settings.
+
+Disabling a user will do just that. All existing sessions from that user will be abruptly terminated. Hiding a user will simply remove them from visual login screens. They will need to enter their username and password manually.
+
+
+
 ![](images/server/users20.png)
 
 ## Content Access
