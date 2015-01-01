@@ -37,7 +37,8 @@
 * [Media Browser Connect](Media Browser Connect)
 * [Parental controls](Parental controls)
 * [Passwords](Passwords)
-* [User access](User Access)
+* [Content access](Content Access)
+* [Device access](Device Access)
 
 ### Dlna
 * [Play to](Play to)
