@@ -33,7 +33,14 @@ In addition you can also configure library and channel access, and this can easi
 
 ![](images/server/users9.png)
 
-## User Access
+## Feature Access
+
+
+## Content Access
+
+See [User Access](User Access).
+
+## Device Access
 
 See [User Access](User Access).
 
