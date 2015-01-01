@@ -47,6 +47,7 @@ Other features can also be granted or denied, such as the ability to sync media,
 
 In addition you can also configure library and channel access, and this can easily be changed later:
 
+![](images/server/users19.png)
 ![](images/server/users20.png)
 
 ## Content Access
