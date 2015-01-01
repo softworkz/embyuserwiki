@@ -35,8 +35,7 @@ In addition you can also configure library and channel access, and this can easi
 
 ## Feature Access
 
-
-In addition you can also configure library and channel access, and this can easily be changed later:
+To manage user feature access, start by visiting the Users page and clicking on a user account. 
 
 ![](images/server/users18.png)
 
