@@ -36,6 +36,18 @@ In addition you can also configure library and channel access, and this can easi
 ## Feature Access
 
 
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users18.png)
+
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users19.png)
+
+In addition you can also configure library and channel access, and this can easily be changed later:
+
+![](images/server/users20.png)
+
 ## Content Access
 
 See [Content Access](Content Access).
