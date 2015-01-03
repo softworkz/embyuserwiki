@@ -4,8 +4,12 @@ To manage content access for a user, navigate to the server dashboard -> **Users
 
 ## Library Access
 
+Library access allows you to configure the media libraries a user can access.
+
 ![](images/server/users23.png)
 
 ## Channel Access
+
+Channel access allows you to configure the channels a user can access.
 
 ![](images/server/users24.png)
