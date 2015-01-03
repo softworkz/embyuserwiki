@@ -18,6 +18,7 @@
 ### Server
 
 * [Installation](Installation)
+* [Library setup](Library Setup)
 * [Devices](Devices)
 * [Camera upload](Camera upload)
 * [Channels](Channels)
