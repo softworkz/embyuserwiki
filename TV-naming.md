@@ -18,7 +18,7 @@ For example:
 
 ## Complex Folder Structure
 
-In more complex situations where your top-level directory is further sub-divided before the show folders, you can add the top-level as the main folder but not set the content type, and then set the content type to TV shows on each sub-folder.
+In more complex situations where your top-level directory is further sub-divided before the show folders, you can add the top-level as the main folder but not set the content type, and then set the content type to TV on each sub-folder.
 
 For example:
 
