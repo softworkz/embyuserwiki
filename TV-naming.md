@@ -1,5 +1,7 @@
 For a simple TV folder structure, the recommended folder layout is Series\Season\Episode or Series\Episode. When setting up the library make sure to select **TV** as the content type.
 
+For example:
+
 ```
  \TV
     \Glee
@@ -17,6 +19,21 @@ For a simple TV folder structure, the recommended folder layout is Series\Season
 ## Complex Folder Structure
 
 In more complex situations where your top-level directory is further sub-divided before the show folders, you can add the top-level as the main folder but not set the content type, and then set the content type to TV shows on each sub-folder.
+
+For example:
+
+```
+ \TV
+     \A-M
+       \Glee
+          \Season 1
+             Glee S01E01.mp4
+     \N-Z
+       \Seinfeld
+          \Season 1
+             Seinfeld S01E01.mp4
+
+```
 
 
 ### Dvd and Blu-ray episodes
