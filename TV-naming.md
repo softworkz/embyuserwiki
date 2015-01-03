@@ -1,4 +1,4 @@
-The recommended folder structure for TV is Series\Season\Episode or Series\Episode.
+For a simple TV folder structure, the recommended folder layout is Series\Season\Episode or Series\Episode. When setting up the library make sure to select **TV** as the content type.
 
 ```
  \TV
@@ -13,6 +13,8 @@ The recommended folder structure for TV is Series\Season\Episode or Series\Episo
        Seinfeld S01E02.mp4
 
 ```
+
+### Complex Folder Structure
 
 ### Dvd and Blu-ray episodes
 
