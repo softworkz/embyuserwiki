@@ -37,6 +37,7 @@ For example:
 
 In the above example, the "TV" folder would be left to content type **unset**, and both the A-M and N-Z folders would be set to a content type of **TV**.
 
+For more information on setting up the library, see [Library Setup](Library Setup).
 
 ### Dvd and Blu-ray episodes
 
