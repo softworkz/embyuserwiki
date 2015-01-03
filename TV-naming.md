@@ -23,17 +23,19 @@ In more complex situations where your top-level directory is further sub-divided
 For example:
 
 ```
- \TV --- leave content type unset here
-     \A-M --- set content type to TV here
+ \TV
+     \A-M
        \Glee
           \Season 1
              Glee S01E01.mp4
-     \N-Z --- set content type to TV here
+     \N-Z
        \Seinfeld
           \Season 1
              Seinfeld S01E01.mp4
 
 ```
+
+In the above example, the "TV" folder would be left to content type **unset**, and both the A-M and N-Z folders would be set to a content type of **TV**.
 
 
 ### Dvd and Blu-ray episodes
