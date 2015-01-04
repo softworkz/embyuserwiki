@@ -33,10 +33,12 @@ Use the unset content type if you'd like to add a media folder that mixes differ
 
 Each media folder can have one or more physical library paths. In the below example screenshot, the Movies folder contains two physical paths:
 
-![](images/server/librarysetup3.png)
+![](images/server/medialocations.png)
 
 To add a library path, click the + button. A popup will be displayed allowing you to browse to the location in a visual manner.
 
-**Important Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
+>**Important:** If you are going to use one of the HTPC apps (MB Classic or MB Theater or Kodi) it is very important to either define your media locations with network UNC paths that those machines can see or use the Path substitution feature to translate the server's local paths to netowrk ones.
+
+**Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
 
 ![](images/server/librarysetup4.png)
