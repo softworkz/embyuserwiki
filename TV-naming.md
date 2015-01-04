@@ -18,7 +18,7 @@ For example:
 
 ## Complex Folder Structure
 
-In more complex situations where your top-level directory is further sub-divided before the show folders, there are two different approaches to setting up in Media Browser. The recommended option is to create a TV media folder and add the sub-folder locations instead of the top level folder. Alternatively, you can add the top-level as the main folder but leave the content type unset, and then set the content type to TV on each sub-folder.
+In more complex situations where your top-level directory is further sub-divided before the show folders, the recommended option is to create a TV media folder and add the sub-folder locations instead of the top level folder. 
 
 For example:
 
@@ -35,7 +35,7 @@ For example:
 
 ```
 
-In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. Or the top level "TV" folder can be added as the library path by leaving the content type **unset**. Then after setup is complete, use the [metadata manager](Metadata manager) to set the content type of the **A-M** and **N-Z** sub-folders to TV.
+In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. 
 
 For more information on setting up the library, see [Library Setup](Library Setup).
 
