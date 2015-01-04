@@ -15,3 +15,7 @@ See the menu on the right-hand side of this page for a complete listing. Some ke
 * [Music naming](Music naming)
 * [Subtitles](Subtitles)
 * [Server installation](Installation)
+
+## Community
+
+In addition to what's displayed here, the [community knowledge base](http://mediabrowser.tv/community/index.php?/forum/23-knowledge-base/) is another great place for useful information.
