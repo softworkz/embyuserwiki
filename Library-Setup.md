@@ -9,7 +9,6 @@ It's important to first prepare your media. See other sections of the wiki for m
 * [Music naming](Music naming)
 * [Subtitles](Subtitles)
 
-
 ### Library Setup Page
 
 The configuration will display the media folders you've configured and allow you to add, remove, rename or change the paths they're mapped to. 
@@ -20,8 +19,12 @@ The below example screenshot lists four media folders:
 
 ![](images/server/librarysetup1.png)
 
-Clicking the "Add Media Folder" button will open a dialog to add a media folder.
+Clicking the "Add Media Folder" button will open a dialog to add a media folder. Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. 
 
 ![](images/server/librarysetup2.png)
+
+### Library Paths
+
+Each media folder can have one or more physical library paths. In the below example screenshot, the Movies folder contains two physical paths:
 
 ![](images/server/librarysetup3.png)
