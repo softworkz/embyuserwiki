@@ -37,7 +37,7 @@ Each media folder can have one or more physical library paths. In the below exam
 
 To add a library path, click the + button. A popup will be displayed allowing you to browse to the location in a visual manner.
 
->**Important**: If you are going to use one of the HTPC apps (MB Classic or MB Theater or Kodi) it is very important to either define your media locations with network UNC paths that those machines can see or use the Path Substitution feature to translate the server's local paths to netowrk ones.
+>**Important**: If you are going to use one of the HTPC apps (Classic, Theater, or Kodi) it is very important to use the Path Substitution feature to translate the server's local paths to network ones or define your media locations with network UNC paths that those machines can see.
 
 **Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
 
