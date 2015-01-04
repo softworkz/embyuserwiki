@@ -2,7 +2,12 @@ Setting up the library is handled within the startup wizard and also within the 
 
 ### Prepare Your Media
 
-The configuration will display the media folders you've configured and allow you to add, remove, rename or change the paths they're mapped to. 
+It's important to first prepare your media. See other sections of the wiki for more information:
+
+* [Movie naming](Movie naming)
+* [TV naming](TV naming)
+* [Music naming](Music naming)
+* [Subtitles](Subtitles)
 
 
 ### Library Setup Page
