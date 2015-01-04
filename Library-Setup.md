@@ -33,7 +33,7 @@ Use the unset content type if you'd like to add a media folder that mixes differ
 
 Each media folder can have one or more physical library paths. In the below example screenshot, the Movies folder contains two physical paths:
 
-![](images/server/medialocations.png)
+![](images/server/librarysetup3.png)
 
 To add a library path, click the + button. A popup will be displayed allowing you to browse to the location in a visual manner.
 
