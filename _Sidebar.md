@@ -20,6 +20,7 @@
 * [Installation](Installation)
 * [Library setup](Library Setup)
 * [Devices](Devices)
+* [Auto-Organize](Auto-Organize)
 * [Camera upload](Camera upload)
 * [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
@@ -30,7 +31,6 @@
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
-* [Auto-Organize](Auto-Organize)
 
 ### Users
 
