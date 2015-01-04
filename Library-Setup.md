@@ -27,14 +27,6 @@ Choosing the right content type is important. See the above guide on media prepa
 
 Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is very limited, and if you're going to go this route, it is highly recommended to use the [metadata manager](Metadata manager) to set the content type of sub-folders after the initial setup is complete.
 
-You can also use the unset content type if you use a complex tv folder structure. An example of a complex tv structure is:
-
-```
-\TV\A-M\Glee
-\TV\N-Z\Seinfeld
-```
-In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. Or the top level "TV" folder can be added as the library path by leaving the content type **unset**. Then after setup is complete, use the [metadata manager](Metadata manager) to set the content type of the **A-M** and **N-Z** sub-folders to TV.
-
 ![](images/server/librarysetup2.png)
 
 ### Library Paths
