@@ -31,4 +31,6 @@ Each media folder can have one or more physical library paths. In the below exam
 
 To add a library path, click the + button. A popup will be displayed allowing you to browse to the location in a visual manner.
 
+**Important Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
+
 ![](images/server/librarysetup4.png)
