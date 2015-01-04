@@ -19,18 +19,18 @@
 
 * [Installation](Installation)
 * [Library setup](Library Setup)
-* [Devices](Devices)
+* [Server settings](Server Settings)
 * [Auto-Organize](Auto-Organize)
 * [Camera upload](Camera upload)
 * [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
+* [Devices](Devices)
 * [Live TV](Live TV)
 * Metadata configuration
 * [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
-* [Server settings](Server Settings)
 * [Transcoding](Transcoding)
 
 ### Users
