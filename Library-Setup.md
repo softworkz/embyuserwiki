@@ -19,7 +19,9 @@ The below example screenshot lists four media folders:
 
 ![](images/server/librarysetup1.png)
 
-Clicking the "Add Media Folder" button will open a dialog to add a media folder. Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. 
+Clicking the "Add Media Folder" button will open a dialog to add a media folder, where you choose the content type and enter a name. 
+
+Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. 
 
 ![](images/server/librarysetup2.png)
 
