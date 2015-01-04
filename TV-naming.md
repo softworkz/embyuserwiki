@@ -35,7 +35,7 @@ For example:
 
 ```
 
-In the above example, the recommended setup is to create a TV media folder. Or the "TV" folder can be left to content type **unset**, and both the A-M and N-Z folders would be set to a content type of **TV**.
+In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. Or the "TV" folder can be left to content type **unset**, and both the A-M and N-Z folders would be set to a content type of **TV**.
 
 For more information on setting up the library, see [Library Setup](Library Setup).
 
