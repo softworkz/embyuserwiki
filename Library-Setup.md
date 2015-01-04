@@ -21,6 +21,8 @@ The below example screenshot lists four media folders:
 
 Clicking the "Add Media Folder" button will open a dialog to add a media folder, where you choose the content type and enter a name. 
 
+### Content Type
+
 Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. Use the unset content type if you'd like to add a media folder that mixes different content, or if you use a complex tv folder structure. An example of a complex tv structure is:
 
 ```
