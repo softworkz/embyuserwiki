@@ -30,6 +30,7 @@
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
+* [Auto-Organize](Auto-Organize)
 
 ### Users
 
