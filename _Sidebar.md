@@ -30,6 +30,7 @@
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
+* [Server settings](Server Settings)
 * [Transcoding](Transcoding)
 
 ### Users
