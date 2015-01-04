@@ -23,12 +23,15 @@ Clicking the "Add Media Folder" button will open a dialog to add a media folder,
 
 ### Content Type
 
-Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. Use the unset content type if you'd like to add a media folder that mixes different content, or if you use a complex tv folder structure. An example of a complex tv structure is:
+Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is very limited. 
+
+You can also use the unset content type if you use a complex tv folder structure. An example of a complex tv structure is:
 
 ```
 \TV\A-M\Glee
 \TV\N-Z\Seinfeld
 ```
+In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. Or the "TV" folder can be left to content type **unset**, and both the A-M and N-Z folders would be set to a content type of **TV**.
 
 ![](images/server/librarysetup2.png)
 
