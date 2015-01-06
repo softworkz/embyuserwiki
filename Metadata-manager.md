@@ -8,7 +8,7 @@ Another way to access the metadata manager is via **Options**->**Edit** of the i
 
 ![](images/server/metadatamanager2.png)
 
-##Using the Metadata Manager
+## Using the Metadata Manager
 
 Once you are in the metadata manager, you can edit whatever fields you would like. Be sure to select **Save**; otherwise, all of your changes will be lost. If you wish for the changes that you made to be persistent through a refresh of the item, you will need to either lock the metadata field you changed, or lock the entire item.
 
@@ -16,13 +16,44 @@ Once you are in the metadata manager, you can edit whatever fields you would lik
 
 ![](images/server/metadatamanager4.png)
 
+## Refreshing metadata
+
+Each media item has the option to **Refresh** itself. Selecting refresh will pull fresh metadata from each of the databases that the server is configured to pull from. In addition, it will download any images that may be missing (logos, disc images, posters, etc.).
+
+If you select the **Advanced refresh** button, you will get a popup with several options for what should be refreshed.
+
+The **Metadata refresh mode** options will only affect the text metadata.
+ 
+- Refreshing all data (the default option) will overwrite all of the fields with metadata from outside databases.
+- Refreshing only missing data will preserve all of the existing metadata and only populate the fields that are missing metadata.
+- A local refresh will make the server reread the NFO or XML file that contains the metadata.
+- Selecting **None** will not refresh any of the metadata.
+
+The **Image refresh mode** options will only affect the images that the server uses.
+
+- Download only missing images (the default option) will only download images that are missing from the existing image collection.
+- Download and replace images will force the server to redownload all of the images for the media item.
+- Selecting **None** will prevent the server from changing any of the existing images and keep it from downloading more.
+
+## Identify
+
 All media can get their information from online databases such as TheMovieDB and TheTVDB. If an item is misidentified by the server, you can manually identify the item using the **Identify** button, or, if you already know the database IDs for your incorrectly identified item, simply insert the correct IDs into the database fields and refresh the item.
 
-The advanced refresh option can be used to force images to be redownloaded in addition to the text metadata.
+## Database IDs
 
-##Tags and Parental Controls
+Database IDs are extremely important to the server to determine what each media item is and whether it has been watched.
 
-One trick that you can use to prevent a user from accessing certain content is to use the **Tags** metadata field.
+One catch to this approach is that media items with the same IDs (for example, a movie that has both a 3D and 2D version) will be treated by the server as the exact same item regardless of the existence of two separate files. This can mean that it can show up in the Resume tab or other places twice. Also, if you watch the 3D version but not the 2D version, the server will mark both formats as watched.
+
+## Parental Controls and Metadata
+
+You should be aware that there are certain metadata fields that affect the use of parental controls.
+
+One good example of such a metadata field is the parental rating. The parental rating can be used to set whether a server user can access content that is above a certain rating, e.g. allowing a teen to access content rated PG-13 or below while restricting access to content rated at R or above.
+
+![](images/server/metadatamanager11.png)
+
+Another metadata item that you can use to prevent a user from accessing certain content is the **Tags** metadata field.
 
 ![](images/server/metadatamanager7.png)
 
