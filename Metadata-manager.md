@@ -10,13 +10,7 @@ Another way to access the metadata manager is via **Options**->**Edit** of the i
 
 ## Using the Metadata Manager
 
-Once you are in the metadata manager, you can edit whatever fields you would like. Be sure to select **Save**; otherwise, all of your changes will be lost. If you wish for the changes that you made to be persistent through a refresh of the item, you will need to either lock the metadata field you changed, or lock the entire item.
-
-![](images/server/metadatamanager3.png)
-
-![](images/server/metadatamanager4.png)
-
-## Refreshing metadata
+#### Refreshing metadata
 
 Each media item has the option to **Refresh** itself. Selecting refresh will pull fresh metadata from each of the databases that the server is configured to pull from. In addition, it will download any images that may be missing (logos, disc images, posters, etc.).
 
@@ -35,15 +29,23 @@ The **Image refresh mode** options will only affect the images that the server u
 - Download and replace images will force the server to redownload all of the images for the media item.
 - Selecting **None** will prevent the server from changing any of the existing images and keep it from downloading more.
 
-## Identify
+#### Identifying items
 
 All media can get their information from online databases such as TheMovieDB and TheTVDB. If an item is misidentified by the server, you can manually identify the item using the **Identify** button, or, if you already know the database IDs for your incorrectly identified item, simply insert the correct IDs into the database fields and refresh the item.
 
-## Database IDs
+#### Database IDs
 
 Database IDs are extremely important to the server to determine what each media item is and whether it has been watched.
 
 One catch to this approach is that media items with the same IDs (for example, a movie that has both a 3D and 2D version) will be treated by the server as the exact same item regardless of the existence of two separate files. This can mean that it can show up in the Resume tab or other places twice. Also, if you watch the 3D version but not the 2D version, the server will mark both formats as watched.
+
+#### Saving metadata
+
+Be sure to hit **Save** after changing ANY metadata; otherwise, all of your changes will be lost when you navigate away from the page. If you wish for the changes that you made to be persistent through a refresh of the item, you will need to either lock the metadata field you changed, or lock the entire item.
+
+![](images/server/metadatamanager3.png)
+
+![](images/server/metadatamanager4.png)
 
 ## Parental Controls and Metadata
 
