@@ -1,5 +1,7 @@
 Media Browser has support for offline media stub files. These are files that represent a media outside of the online digital infrastructure and allow Media Browser's library to index your "offline" media collection, as well as ask for the media when selected for playback.
 
+A stub file is an empty file with a ".disc" extension.
+
 For example:
 
 ``` 
