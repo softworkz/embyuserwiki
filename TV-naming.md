@@ -37,6 +37,19 @@ For example:
 
 In the above example, the recommended setup is to create a TV media folder, and then add the **A-M** and **N-Z** library paths. 
 
+It's also possible to have a sub-folder group multiple shows together in an otherwise normal directory structure. Use the metadata manager to change the content type of the sub-folder to TV.
+
+```
+ \TV --- content type TV
+     \TV show 1
+       \Season 1
+     \Star Trek  --- change content type to TV using metadata manager
+       \Star Trek
+          \Season 1
+       \Star Trek: The next Generation
+          \Season 1
+
+```
 For more information on setting up the library, see [Library Setup](Library Setup).
 
 ### Dvd and Blu-ray episodes
