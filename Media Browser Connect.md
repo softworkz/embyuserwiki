@@ -8,8 +8,9 @@ Normally signing into a server requires three pieces of information - the server
 
 If you're the administrator of a Media Browser server, the Connect feature makes it easier than ever to invite your family and friends to share your media.
 
+### Sending an Invitation
 
-[Sign up for Media Browser Connect](http://mediabrowser.tv/connect/)
+Inviting a friend is easy. Open the server dashboard and navigate to **Users**. Then in the **Guests** section, click the + button to invite a new guest.
 
 ## Guide for Users
 
