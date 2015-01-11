@@ -12,6 +12,8 @@ If you're the administrator of a Media Browser server, the Connect feature makes
 
 Inviting a friend is easy. Open the server dashboard and navigate to **Users**. Then in the **Guests** section, click the + button to invite a new guest.
 
+For a detailed guide on inviting a guest, see [Guests](Guests).
+
 ## Guide for Users
 
 [Sign up for Media Browser Connect](http://mediabrowser.tv/connect/)
