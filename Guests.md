@@ -8,7 +8,9 @@ To invite a guest, click the + button next to the Guests header. You'll then be 
 
 [http://mediabrowser.tv/connect](http://mediabrowser.tv/connect)
 
-![](images/server/users25.png)
+Once the invitation has been sent, they will need to accept it by clicking on a link in the invitation email. The invitation will appear similar to the following:
+
+![](images/server/connect1.png)
 
 ## Configuring Guest Accounts
 
