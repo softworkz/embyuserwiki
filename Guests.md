@@ -4,7 +4,9 @@ Guests are users that you've invited using [Media Browser Connect](Media Browser
 
 ## Inviting a Guest
 
-To invite a guest, click the + button next to the Guests header.
+To invite a guest, click the + button next to the Guests header. You'll then be prompted to enter their Media Browser username or email address. If they have not signed up for Media Browser yet, they can do so here:
+
+[http://mediabrowser.tv/connect](http://mediabrowser.tv/connect)
 
 ![](images/server/users25.png)
 
