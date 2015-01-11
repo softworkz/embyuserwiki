@@ -4,7 +4,7 @@ Normally signing into a server requires three pieces of information - the server
 
 ## Guide for Users
 
-For users, simply [sign up for Media Browser Connect](http://mediabrowser.tv/connect/). Then ask the owner of a Media Browser Server to invite you to use their server.
+Start by [signing up for Media Browser Connect](http://mediabrowser.tv/connect/). Then ask the owner of a Media Browser Server to invite you to use their server.
 
 Once the invitation has been sent, you'll need to accept it by clicking on a link in the invitation email. The invitation will appear similar to the following:
 
