@@ -16,7 +16,7 @@ Once the invitation has been sent, they will need to accept it by clicking on a 
 
 ![](images/server/connect1.png)
 
-As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Media Browser app, including the [online web app](http://app.mediabrowser.tv)
+As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Media Browser app, including the [online web app](http://app.mediabrowser.tv).
 
 ## Configuring Guest Accounts
 
