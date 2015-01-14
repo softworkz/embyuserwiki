@@ -8,4 +8,4 @@ The my plugins tab displays your installed plugins. Clicking the dot menu on a p
 
 The catalog allows you to browse and install new plugins. Some of the available categories are:
 
-* **Channels** - Internet channels provide access to streaming audio or video.
+* **Channels** - Internet channels provide access to streaming audio or video. For  more information, see [Channels](Channels).
