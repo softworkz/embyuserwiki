@@ -23,3 +23,9 @@ The catalog allows you to browse and install new plugins. Some of the available 
 * **Notifications** - Adds new notification targets for use with the notifications feature. For  more information, see [Notifications](Notifications).
 
 * **Social Integration** - Access to social networking features.
+
+## Installing Plugins
+
+To install a plugin, click on one within the plugin catalog. The plugin detail page will then contain an installation button.
+
+![](images/server/plugins2.png)
