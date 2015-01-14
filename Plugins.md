@@ -29,3 +29,5 @@ The catalog allows you to browse and install new plugins. Some of the available 
 To install a plugin, click on one within the plugin catalog. The plugin detail page will then contain an installation button.
 
 ![](images/server/plugins2.png)
+
+Click the Install button install. After the installation has completed, the server will need to be restarted.
