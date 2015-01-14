@@ -17,3 +17,5 @@ The catalog allows you to browse and install new plugins. Some of the available 
 * **Metadata** - Adds new metadata scrapers or filters.
 
 * **Notifications** - Adds new notification targets for use with the notifications feature. For  more information, see [Notifications](Notifications).
+
+* **Social Integration** - Access to social networking features.
