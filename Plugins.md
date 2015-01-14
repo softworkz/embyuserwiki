@@ -2,7 +2,11 @@ Plugins extend the functionality of Media Browser by providing additional featur
 
 ## My Plugins
 
-The my plugins tab displays your installed plugins. Clicking the dot menu on a plugin will allow you to configure it (if applicable), or uninstall it. If a plugin does not require any configuration, there will not be a Settings button within it's command menu.
+The my plugins tab displays your installed plugins. Clicking the dot menu on a plugin will allow you to configure it (if applicable), or uninstall it. 
+
+![](images/server/plugins1.png)
+
+If a plugin does not require any configuration, there will not be a Settings button within it's command menu.
 
 ## Catalog
 
