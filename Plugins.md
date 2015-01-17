@@ -32,4 +32,4 @@ To install a plugin, click on one within the plugin catalog. The plugin detail p
 
 Click the Install button install. After the installation has completed, the server will need to be restarted.
 
-# Channels
+## Channels
