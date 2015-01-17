@@ -10,6 +10,8 @@ To configure the settings for an individual channel, simply click on it within [
 
 There are also settings that can be configured globally for all channels. These are found in the server dashboard by navigating to **Plugins** -> **Channels**.
 
+### Channel Quality
+
 For bandwidth-constrained environments, limiting the channel quality can help ensure a smooth streaming experience. 
 
 ![](images/server/channels1.png)
