@@ -31,3 +31,12 @@ To install a plugin, click on one within the plugin catalog. The plugin detail p
 ![](images/server/plugins2.png)
 
 Click the Install button install. After the installation has completed, the server will need to be restarted.
+
+## Popular Plugins
+
+The plugin catalog has a vast library of plugins available. Below are some of the more popular choices:
+
+* **Cover Art** - Enhance your media images
+* **GameBrowser** - Adds game support to Media Browser.
+* **Trailers** - Stream internet trailers
+* **Trakt** - Provides integration to the trakt service
