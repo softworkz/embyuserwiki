@@ -12,7 +12,7 @@ If a plugin does not require any configuration, there will not be a Settings but
 
 The catalog allows you to browse and install new plugins. Some of the available categories are:
 
-* **Channels** - Internet channels provide access to streaming audio or video. For  more information, see [Channels](#channels).
+* **Channels** - Internet channels provide access to streaming audio or video. For  more information, see [Channels](Channels).
 
 * **Content Providers** - Allows new kinds of media to be added to the library, such as books and games, or allows downloading of related content for existing media.
 
@@ -31,5 +31,3 @@ To install a plugin, click on one within the plugin catalog. The plugin detail p
 ![](images/server/plugins2.png)
 
 Click the Install button install. After the installation has completed, the server will need to be restarted.
-
-## Channels
