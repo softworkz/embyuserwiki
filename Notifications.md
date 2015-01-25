@@ -15,3 +15,5 @@ The bubble shows 0 for no new notifications, and will change color as new ones a
 To install new notification services, navigate to the Plugin Catalog and scroll down to the Notifications section. A number of options are available:
 
 ![](images/server/notifications3.png)
+
+After installation, most notification services will require configuration of accounts. For more information on installing and configuring Plugins, see [plugins](Plugins).
