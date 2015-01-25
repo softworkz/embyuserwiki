@@ -17,3 +17,25 @@ To install new notification services, navigate to the Plugin Catalog and scroll 
 ![](images/server/notifications3.png)
 
 After installation, most notification services will require configuration of accounts. For more information on installing and configuring Plugins, see [plugins](Plugins).
+
+## Configuring Notifications
+
+After choosing the notification services you'd like to use, it's time to configure the individual notifications you'd like to receive. Begin by opening the server dashboard and navigating to **Notifications**.
+
+The page will display the available notifications, as well as their current status:
+
+![](images/server/notifications4.png)
+
+To configure a notification, simply click on it. You'll then be taken to the notification configuration page. There are a number of ways notifications can be customized.
+
+First, you can select whether or not to enable a notification, as well as who to send them to. If a notification involves monitoring users, you can also select which users to monitor:
+
+![](images/server/notifications5.png)
+
+Additionally you can configure which notification services to use:
+
+![](images/server/notifications6.png)
+
+And you can also customize the message title:
+
+![](images/server/notifications7.png)
