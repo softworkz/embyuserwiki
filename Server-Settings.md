@@ -1,7 +1,8 @@
 The server has several settings that can be used to customize how it presents itself to users.
 
-- **Friendly server name**: used to set a custom name for your server. If no friendly name is set, the hostname of the computer will be used instead.
-- **Preferred display language**: used to set the language for the server. Currently, many translations are works in progress. If you wish to contribute, please let us know in the [forums](http://mediabrowser.tv/forums).
+- **Friendly server name**: used to set a custom name for your server. This name will be displayed within Media Browser apps. If no friendly name is set, the computer name will be used instead.
+
+- **Preferred display language**: used to set the language for the server's web interface. 
 
 ## Advanced settings
 
