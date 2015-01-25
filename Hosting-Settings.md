@@ -24,8 +24,17 @@ Most users can leave this blank and rely on the server's automatic detection. If
 
 ![](images/server/hosting3.png)
 ![](images/server/hosting4.png)
+
+## Http vs Https
+
+Media Browser apps use http by default. In order to force them to use https, you can configure the server to report it's default external url as the http url. 
+
 ![](images/server/hosting5.png)
 
+**Note**: Https is a new feature. Some Media Browser apps may require updates before this option can be used.
+
 ## Automatic Port Mapping
+
+By default the server will attempt to automatically map public to local ports by configuring your router. You can disable this as necessary here.
 
 ![](images/server/hosting6.png)
