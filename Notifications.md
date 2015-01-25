@@ -28,7 +28,7 @@ The page will display the available notifications, as well as their current stat
 
 To configure a notification, simply click on it. You'll then be taken to the notification configuration page. There are a number of ways notifications can be customized.
 
-First, you can select whether or not to enable a notification, and who to send them to. If a notification involves monitoring users, you can also select which users to monitor:
+First, you can select whether or not to enable a notification, and who to send them to. If a notification involves monitoring user activity, you can also select which users to monitor:
 
 ![](images/server/notifications5.png)
 
