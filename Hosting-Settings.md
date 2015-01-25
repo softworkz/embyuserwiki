@@ -2,7 +2,6 @@ Hosting settings allow you to configure Media Browser's built-in web server. The
 
 ## Http Port
 
+## Https Port
 
 ## Automatic Port Mapping
-
-## SSL
