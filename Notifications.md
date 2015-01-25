@@ -16,7 +16,7 @@ To install new notification services, open the server dashboard, navigate to the
 
 ![](images/server/notifications3.png)
 
-After installation, most notification services will require configuration of accounts. For more information on installing and configuring Plugins, see [plugins](Plugins).
+Installing a notification service is just like any other Plugin. After installation, most notification services will require configuration of accounts or devices. For more information on installing and configuring Plugins, see [plugins](Plugins).
 
 ## Configuring Notifications
 
