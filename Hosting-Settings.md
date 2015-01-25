@@ -22,7 +22,12 @@ Most users can leave this blank and rely on the server's automatic detection. If
 
 ## Https Port
 
+The local and public https ports can be configured in much the same way as regular http:
+
 ![](images/server/hosting3.png)
+
+In addition you can also supply your own custom SSL certificate. This is highly recommended for https usage. If omitted, the server will create a self-signed certificate.
+
 ![](images/server/hosting4.png)
 
 ## Http vs Https
