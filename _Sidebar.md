@@ -31,6 +31,7 @@
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
+* [Sync](Sync)
 * [Transcoding](Transcoding)
 
 ### Users
