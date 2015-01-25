@@ -12,7 +12,7 @@ The bubble shows 0 for no new notifications, and will change color as new ones a
 
 ![](images/server/notifications2.png)
 
-To install new notification services, navigate to the **Plugin Catalog** and scroll down to the Notifications section. A number of options are available:
+To install new notification services, open the server dashboard, navigate to the **Plugin Catalog** and scroll down to the Notifications section. A number of options are available:
 
 ![](images/server/notifications3.png)
 
