@@ -22,6 +22,10 @@ Most users can leave this blank and rely on the server's automatic detection. If
 
 ## Https Port
 
+![](images/server/hosting3.png)
+![](images/server/hosting4.png)
+![](images/server/hosting5.png)
+
 ## Automatic Port Mapping
 
 ![](images/server/hosting6.png)
