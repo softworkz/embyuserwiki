@@ -30,7 +30,7 @@ In addition you can also supply your own custom SSL certificate. This is highly 
 
 ![](images/server/hosting4.png)
 
-## Http vs Https
+## Requiring Https
 
 Media Browser apps use http by default. In order to force them to use https, you can configure the server to report it's default external url as the http url. 
 
