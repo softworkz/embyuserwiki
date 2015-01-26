@@ -7,7 +7,7 @@ Currently, the apps that support automatic camera upload are:
 
 ## Enabling Camera Upload
 
-First open the server dashboard and navigate to **Sync** -> **Camera Upload**.
+First open the server dashboard and navigate to **Devices** -> **Camera Upload**.
 
 You'll be presented with a screen that allows you to select which devices to enable it for:
 
