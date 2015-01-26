@@ -1,6 +1,8 @@
 ###Theme Songs
  
-Any folder (movie, series, season, game, etc) can have theme songs. There are two supported conventions, theme.ext, or the 'theme-music' sub-folder, where ext is any valid audio extension.
+Any folder (movie, series, season, game, etc) can have theme songs. Media Browser apps will play the songs in the background while browsing through the content.
+
+There are two supported conventions, theme.ext, or the 'theme-music' sub-folder, where ext is any valid audio extension.
 
 ```
 /Movies
@@ -23,7 +25,7 @@ or
  
 ###Theme Videos
 
-Any folder (movie, series, season, game, etc) can have theme videos using a 'backdrops' sub-folder. 
+Any folder (movie, series, season, game, etc) can have theme videos using a 'backdrops' sub-folder. Some Media Browser apps will play the videos in the background while browsing through the content.
 
 ```
 /Movies
