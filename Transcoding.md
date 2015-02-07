@@ -1,3 +1,15 @@
+Media Browser has the ability to convert your media during playback in order to make it compatible with all of your devices. This process is known as transcoding.
+
+In most cases, the server and the apps will automatically select the ideal settings to achieve smooth playback. In some cases though, you may choose to provide your own configuration in order to improve the playback experience.
+
+## App Settings
+
+Every Media Browser app will have a setting known as "Max streaming bitrate". This is the most important setting to configure within the app that you're trying to use. 
+
+# Server Settings
+
+In addition, the server has some transcoding settings that can be configured. These are found by opening the server dashboard and navigating to **Playback** -> **Transcoding**.
+
 ## Temporary Path
 
 The server will need to create temporary files throughout the transcoding process. The location of these files can be configured.
