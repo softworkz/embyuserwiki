@@ -4,7 +4,7 @@ In most cases, the server and the apps will automatically select the ideal setti
 
 ## App Settings
 
-Every Media Browser app will have a setting known as "Max streaming bitrate". This is the most important setting to configure within the app that you're trying to use. 
+Every Media Browser app will have a setting known as "Max streaming bitrate". This is the most important setting to configure within the app that you're trying to use, and will have the greatest effect on image quality. As you increase the bitrate quality will improve, but will require a faster connection between the device and server.
 
 # Server Settings
 
