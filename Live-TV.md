@@ -34,4 +34,8 @@ The status of your tv tuners is also displayed.
 
 In addition, the reset button next to each tuner will allow you to reset the tuner as needed for troubleshooting.
 
+## Settings
+
+If multiple service provider plugins are installed, only one can be utilized at a time. The **Settings** tab allows you to choose the active service.
+
 ![](images/server/livetv4.png)
