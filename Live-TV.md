@@ -4,4 +4,6 @@ The Live TV feature allows for streaming live television and recording managemen
 
 Service providers are available in the plugin catalog. 
 
+![](images/server/livetv5.png)
+
 To browse the catalog, open the server dashboard and navigate to **Plugins** -> **Catalog**.
