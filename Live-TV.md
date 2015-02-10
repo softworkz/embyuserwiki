@@ -26,6 +26,12 @@ There is also the ability to manually refresh Guide data. This is normally run a
 
 ![](images/server/livetv2.png)
 
+## Tuner Status
+
+The status of your tv tuners is also displayed.
+
 ![](images/server/livetv3.png)
+
+In addition, the reset button next to each tuner will allow you to reset the tuner as needed for troubleshooting.
 
 ![](images/server/livetv4.png)
