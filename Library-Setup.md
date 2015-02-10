@@ -42,3 +42,9 @@ To add a library path, click the + button. A popup will be displayed allowing yo
 **Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
 
 ![](images/server/librarysetup4.png)
+
+## Path Substitution
+
+Path substitutions are used for mapping a path on the server to a path that clients are able to access. By allowing clients direct access to media on the server they may be able to play them directly over the network and avoid using server resources to stream and transcode them.
+
+Path substitutions are configured in the **Path Substitution** tab of the library setup area.
