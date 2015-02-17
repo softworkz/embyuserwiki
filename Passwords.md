@@ -2,10 +2,6 @@ By default, users have the ability to change their own passwords.
 
 If you would like to change the password for a user, navigate to the server dashboard -> **Users** -> **Click User** -> **Password**.
 
-![](images/server/users10.png)
-
-Click Configure Password. You will then be taken to the user-facing side of the web interface where you can change or reset the password.
-
 ![](images/server/users11.png)
 
 **Note**: Guest passwords are managed by Media Browser Connect and can only be changed by the user themselves.
