@@ -10,10 +10,10 @@ Click Configure Password. You will then be taken to the user-facing side of the 
 
 **Note**: Guest passwords are managed by Media Browser Connect and can only be changed by the user themselves.
 
-## Local Access
+## Pin Code
 
-If a password is configured, you can choose to allow in-home network access without the use of a password.
+A pin code can be created for apps that support offline access, and for easier in-network sign in with all apps.
 
 ![](images/server/users12.png)
 
-**Note**: Enabling this option may introduce security risks. Incoming ip addresses can be spoofed, therefore there is no way for the server to determine with 100% accuracy that the request is coming from inside your home network.
+**Note**: The local network sign in option may not work correctly if you've configured the server with a reverse proxy. In such a scenario all incoming requests will appear to be local.
