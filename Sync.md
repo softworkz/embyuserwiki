@@ -68,6 +68,8 @@ In addition, each item within the job can be managed as desired:
 
 Administrators can manage all sync jobs for all users and devices by opening the server dashboard and navigating to **Sync**.
 
+From here they'll be able to manage all jobs, job settings and job items:
+
 ![](images/server/sync9.png)
 
 ## User Access
