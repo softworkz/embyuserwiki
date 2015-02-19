@@ -10,6 +10,10 @@ Syncing from detail pages:
 
 ![](images/server/sync3.png)
 
+Just about everything can be synced, including Genres, Collections, and Playlists:
+
+![](images/server/sync10.png)
+
 When creating sync jobs, you'll be able to configure various settings for the job. The settings that are available will differ depending on the content being synced. 
 
 ![](images/server/sync4.png)
