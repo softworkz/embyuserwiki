@@ -64,6 +64,12 @@ In addition, each item within the job can be managed as desired:
 
 ![](images/server/sync7.png)
 
+## Administrative Management
+
+Administrators can manage all sync jobs for all users and devices by opening the server dashboard and navigating to **Sync**.
+
+![](images/server/sync9.png)
+
 ## User Access
 
 Access to the sync feature can be managed individually for each user. 
