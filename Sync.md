@@ -42,6 +42,10 @@ Only unwatched videos will be synced, and videos will be removed from the device
 
 New content added to the folder or category will be automatically synced to the device.
 
+**Item Limit**
+
+The maximum number of items that will be synced to the device at any given time.
+
 ## Managing Sync Jobs
 
 
