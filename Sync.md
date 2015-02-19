@@ -48,6 +48,13 @@ The maximum number of items that will be synced to the device at any given time.
 
 ## Managing Sync Jobs
 
+Individual users can manage their own sync jobs using the main menu of the web interface:
+
+![](images/server/sync5.png)
+
+Their list of sync jobs will be displayed visually:
+
+![](images/server/sync6.png)
 
 ## User Access
 
