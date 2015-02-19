@@ -1,4 +1,4 @@
-Users / [Users](Users)
+### Users / [Users](Users)
 
 Most operations within Media Browser are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
 
