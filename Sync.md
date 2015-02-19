@@ -14,7 +14,7 @@ The feature is coming soon to:
 
 See [Sync jobs](Sync-Jobs)
 
-## AnyTime Access
+## AnyTime
 
 See [AnyTime](AnyTime)
 
