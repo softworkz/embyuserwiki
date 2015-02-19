@@ -10,6 +10,12 @@ The feature is coming soon to:
 * **iOS**
 * **Windows Phone**
 
+## Creating Sync Jobs
+
+
+## Managing Sync Jobs
+
+
 ## User Access
 
 Access to the sync feature can be managed individually for each user. 
