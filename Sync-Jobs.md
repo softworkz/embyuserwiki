@@ -1,5 +1,3 @@
-## Creating Sync Jobs
-
 Sync jobs can be created from a number of areas, including, syncing by categories:
 
 ![](images/server/sync1.png)
