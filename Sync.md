@@ -38,7 +38,7 @@ The desired quality level of the synced content. Higher produces better video qu
 
 Only unwatched videos will be synced, and videos will be removed from the device as they are watched.
 
-### Automatically Sync New Content
+**Automatically Sync New Content**
 
 New content added to the folder or category will be automatically synced to the device.
 
