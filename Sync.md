@@ -24,6 +24,10 @@ Syncing from detail pages:
 
 ![](images/server/sync3.png)
 
+When creating sync jobs, you'll be able to configure various settings for the job. The settings that are available will differ depending on the content being synced. 
+
+![](images/server/sync4.png)
+
 ## Managing Sync Jobs
 
 
