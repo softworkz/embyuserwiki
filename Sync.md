@@ -13,6 +13,7 @@ The feature is coming soon to:
 ## More Info
 
 * [Sync jobs](Sync-Jobs)
+* [AnyTime](AnyTime)
 
 ## User Access
 
