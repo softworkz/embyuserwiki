@@ -2,13 +2,13 @@ The sync feature allows you to copy your content to mobile devices for offline v
 
 The apps that currently support syncing are:
 
-* Windows 8.1
+* **Windows 8.1**
 
 The feature is coming soon to:
 
-* Android
-* iOS
-* Windows Phone
+* **Android**
+* **iOS**
+* **Windows Phone**
 
 ## User Access
 
