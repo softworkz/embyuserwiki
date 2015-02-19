@@ -56,6 +56,14 @@ Their list of sync jobs will be displayed visually:
 
 ![](images/server/sync6.png)
 
+Clicking on a sync job will display the job details and allow you to modify it's settings:
+
+![](images/server/sync8.png)
+
+In addition, each item within the job can be managed as desired:
+
+![](images/server/sync7.png)
+
 ## User Access
 
 Access to the sync feature can be managed individually for each user. 
