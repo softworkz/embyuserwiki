@@ -10,7 +10,7 @@ The feature is coming soon to:
 * **iOS**
 * **Windows Phone**
 
-# Sync Info
+## More Info
 
 * [Sync jobs](Sync-Jobs)
 
