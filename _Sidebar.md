@@ -46,6 +46,7 @@
 
 ### Sync
 * [Sync](Sync)
+* [Sync jobs](Sync-Jobs)
 
 ### Dlna
 * [Play to](Play to)
