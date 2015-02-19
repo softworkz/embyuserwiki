@@ -28,6 +28,20 @@ When creating sync jobs, you'll be able to configure various settings for the jo
 
 ![](images/server/sync4.png)
 
+Some of the settings available are:
+
+### Quality
+
+The desired quality level of the synced content. Higher produces better video quality but will require more storage space on the mobile device. The "Original" option can be used to force the process to utilize the original file, but this may result in the file not being playable on the device. 
+
+### Unwatched Videos Only
+
+Only unwatched videos will be synced, and videos will be removed from the device as they are watched.
+
+### Automatically Sync New Content
+
+New content added to the folder or category will be automatically synced to the device.
+
 ## Managing Sync Jobs
 
 
