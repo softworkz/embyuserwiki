@@ -10,10 +10,13 @@ The feature is coming soon to:
 * **iOS**
 * **Windows Phone**
 
-## More Info
+## Creating Sync Jobs
 
-* [Sync jobs](Sync-Jobs)
-* [AnyTime](AnyTime)
+See [Sync jobs](Sync-Jobs)
+
+## AnyTime Access
+
+See [AnyTime](AnyTime)
 
 ## User Access
 
