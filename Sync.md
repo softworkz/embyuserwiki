@@ -12,8 +12,16 @@ The feature is coming soon to:
 
 ## Creating Sync Jobs
 
+Sync jobs can be created from a number of areas, including, syncing by categories:
+
 ![](images/server/sync1.png)
+
+Syncing from context menus:
+
 ![](images/server/sync2.png)
+
+Syncing from detail pages:
+
 ![](images/server/sync3.png)
 
 ## Managing Sync Jobs
