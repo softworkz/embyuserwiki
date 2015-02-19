@@ -32,7 +32,6 @@
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
-* [Sync](Sync)
 * [Transcoding](Transcoding)
 
 ### Users
@@ -44,6 +43,9 @@
 * [Content access](Content Access)
 * [Device access](Device Access)
 * [Media Browser Connect](Media Browser Connect)
+
+### Sync
+* [Sync](Sync)
 
 ### Dlna
 * [Play to](Play to)
