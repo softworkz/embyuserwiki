@@ -12,6 +12,9 @@ The feature is coming soon to:
 
 ## Creating Sync Jobs
 
+![](images/server/sync1.png)
+![](images/server/sync2.png)
+![](images/server/sync3.png)
 
 ## Managing Sync Jobs
 
