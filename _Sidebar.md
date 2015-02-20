@@ -47,7 +47,7 @@
 ### Sync
 * [Sync](Sync)
 * [Sync jobs](Sync-Jobs)
-* [Offline mode](Offline-Mode)
+* [Offline access](Offline-Access)
 
 ### Dlna
 * [Play to](Play to)
