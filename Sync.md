@@ -14,9 +14,9 @@ The feature is coming soon to:
 
 See [Sync jobs](Sync-Jobs)
 
-## AnyTime Access
+## Offline Access
 
-See [Offline](Offline)
+See [Offline access](Offline-Access)
 
 ## User Access
 
