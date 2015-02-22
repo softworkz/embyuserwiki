@@ -12,6 +12,10 @@ Once the invitation has been sent, you'll need to accept it by clicking on a lin
 
 Once the invitation is accepted, you're ready to start using their server. [Download any Media Browser app](http://mediabrowser.tv/download) and sign in using your Media Browser username or email address. Or try the [online web app](http://app.mediabrowser.tv), which doesn't require any installation.
 
+## Server Not Listed?
+
+If your server isn't listed when you sign in with Connect, then it means you haven't yet linked your server to Media Browser Connect. See the below guide for administrators for details.
+
 ## Guide for Administrators
 
 If you're the administrator of a Media Browser server, the Connect feature makes it easier than ever to invite your family and friends to share your media.
@@ -30,7 +34,3 @@ Inviting a friend is easy. Open the server dashboard and navigate to **Users**. 
 You'll be prompted to enter their Media Browser username or email address. If they don't have one yet that's ok, simply enter their email address and they'll be sent an invitation to signup.
 
 For a detailed guide on inviting a guest, see [Guests](Guests).
-
-## Server Not Listed?
-
-If your server isn't listed when you sign in with Connect, then it means you haven't yet linked your server to Media Browser Connect. See the above guide for administrators for details.
