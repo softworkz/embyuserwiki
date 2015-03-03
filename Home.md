@@ -15,6 +15,8 @@ See the menu on the right-hand side of this page for a complete listing. Some ke
 * [Music naming](Music naming)
 * [Subtitles](Subtitles)
 * [Server installation](Installation)
+* [Users](Users)
+* [Sync](Sync)
 
 ## Community
 
