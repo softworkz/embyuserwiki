@@ -38,6 +38,10 @@ New content added to the folder or category will be automatically synced to the 
 
 The maximum number of items that will be synced to the device at any given time.
 
+## Subtitles
+
+All available text-based subtitles are included with sync jobs, allowing you to enjoy subtitle selection even when offline.
+
 ## Managing Sync Jobs
 
 Individual users can manage their own sync jobs using the main menu of the web interface:
