@@ -48,6 +48,7 @@
 * [Sync](Sync)
 * [Sync jobs](Sync-Jobs)
 * [Offline access](Offline-Access)
+* [Folder sync](Folder Sync)
 
 ### Dlna
 * [Play to](Play to)
