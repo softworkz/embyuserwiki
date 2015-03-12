@@ -18,7 +18,7 @@ To configure the settings for your service provider, simply click on it within [
 
 There are also settings that can be configured globally for Live TV. These are found in the server dashboard by navigating to **Live TV**.
 
-The page will display the current active service provider, as well as it's health status. If it displays an error message it will need to be resolved before Live TV can be utilized.
+The page will display the status of each service provider. If it displays an error message it will need to be resolved before Live TV can be utilized.
 
 ![](images/server/livetv1.png)
 
@@ -36,6 +36,6 @@ In addition, the reset button next to each tuner will allow you to reset the tun
 
 ## Settings
 
-If multiple service provider plugins are installed, only one can be utilized at a time. The **Settings** tab allows you to choose the active service.
+The **Settings** tab allows you to configure how many days of guide data to download and display. More guide data provides a richer experience but may increase loading times.
 
 ![](images/server/livetv4.png)
