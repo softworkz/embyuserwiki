@@ -49,6 +49,7 @@
 * [Sync jobs](Sync-Jobs)
 * [Offline access](Offline-Access)
 * [Folder sync](Folder Sync)
+* [Google Drive](Google Drive)
 
 ### Dlna
 * [Play to](Play to)
