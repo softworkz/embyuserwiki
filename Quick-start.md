@@ -9,11 +9,11 @@ A fully-functioning Media Browser system needs both a Server and at least one Ap
 
 If you have received an invitation to share an existing Media Browser server, then you can skip the server installation process and jump straight to app installation. Choose one of the many apps we have available:
 
-http://mediabrowser.tv/download/
+http://emby.media/download/
 
 Or try the online web app at
 
-http://app.mediabrowser.tv
+http://app.emby.media
 
 ## Prepare your media
 
@@ -40,11 +40,11 @@ Once your installation is up and running and you've completed the startup wizard
 
 Choose one of the many apps we have available:
 
-http://mediabrowser.tv/download/
+http://emby.media/download/
 
 Or try the online web app at
 
-http://app.mediabrowser.tv
+http://app.emby.media
 
 ## Add Users
 

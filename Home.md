@@ -2,7 +2,7 @@
 
 Media Browser is a free and open source personal media server. It is built with a number of other popular open source technologies. To download Media Browser, visit:
 
-http://mediabrowser.tv/
+http://emby.media/
 
 ## Contents
 
@@ -20,4 +20,4 @@ See the menu on the right-hand side of this page for a complete listing. Some ke
 
 ## Community
 
-In addition to what's displayed here, the [community knowledge base](http://mediabrowser.tv/community/index.php?/forum/23-knowledge-base/) is another great place for useful information.
+In addition to what's displayed here, the [community knowledge base](http://emby.media/community/index.php?/forum/23-knowledge-base/) is another great place for useful information.

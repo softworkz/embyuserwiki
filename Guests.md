@@ -10,13 +10,13 @@ To invite a guest, click the + button next to the Guests header. You'll then be 
 
 If they have not signed up for Media Browser yet, they can do so here:
 
-[http://mediabrowser.tv/connect](http://mediabrowser.tv/connect)
+[http://emby.media/connect](http://emby.media/connect)
 
 Once the invitation has been sent, they will need to accept it by clicking on a link in the invitation email. The invitation will appear similar to the following:
 
 ![](images/server/connect1.png)
 
-As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Media Browser app, including the [online web app](http://app.mediabrowser.tv).
+As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Media Browser app, including the [online web app](http://app.emby.media).
 
 ## Configuring Guest Accounts
 
