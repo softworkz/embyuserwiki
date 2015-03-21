@@ -42,7 +42,7 @@
 * [Passwords](Passwords)
 * [Content access](Content Access)
 * [Device access](Device Access)
-* [Media Browser Connect](Media Browser Connect)
+* [Emby Connect](Emby Connect)
 
 ### Sync
 * [Sync](Sync)

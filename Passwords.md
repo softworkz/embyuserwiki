@@ -4,7 +4,7 @@ If you would like to change the password for a user, navigate to the server dash
 
 ![](images/server/users11.png)
 
-**Note**: Guest passwords are managed by Media Browser Connect and can only be changed by the user themselves.
+**Note**: Guest passwords are managed by Emby Connect and can only be changed by the user themselves.
 
 ## Pin Code
 

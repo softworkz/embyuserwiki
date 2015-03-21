@@ -1,4 +1,4 @@
-Camera upload allows automatic uploading of photos taken from mobile devices to your Media Browser Server. It requires Media Browser apps installed on your mobile devices as well as for the app to support the feature.
+Camera upload allows automatic uploading of photos taken from mobile devices to your Emby Server. It requires Emby apps installed on your mobile devices as well as for the app to support the feature.
 
 Currently, the apps that support automatic camera upload are:
 

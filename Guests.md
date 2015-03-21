@@ -1,14 +1,14 @@
-Guests are users that you've invited using [Media Browser Connect](Media Browser Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
+Guests are users that you've invited using [Emby Connect](Emby Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
 
 ![](images/server/users2.png)
 
 ## Inviting a Guest
 
-To invite a guest, click the + button next to the Guests header. You'll then be prompted to enter their Media Browser username or email address. 
+To invite a guest, click the + button next to the Guests header. You'll then be prompted to enter their Emby username or email address. 
 
 ![](images/server/users25.png)
 
-If they have not signed up for Media Browser yet, they can do so here:
+If they have not signed up for Emby yet, they can do so here:
 
 [http://emby.media/connect](http://emby.media/connect)
 
@@ -16,7 +16,7 @@ Once the invitation has been sent, they will need to accept it by clicking on a 
 
 ![](images/server/connect1.png)
 
-As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Media Browser app, including the [online web app](http://app.emby.media).
+As soon as they accept the invitation, they're ready to start using your server. They'll be able to sign in from any Emby app, including the [online web app](http://app.emby.media).
 
 ## Configuring Guest Accounts
 

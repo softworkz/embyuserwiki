@@ -1,4 +1,4 @@
-Various internet video and audio streams can be played back in Media Browser as if they were locally stored on your media center by using STRM files. As long as the format and streaming-method (network-protocol) is supported by Media Browser, stream can be added. These are basic text files that look like <name>.strm and contain a URL to the internet stream
+Various internet video and audio streams can be played back in Emby as if they were locally stored on your media center by using STRM files. As long as the format and streaming-method (network-protocol) is supported by Emby, stream can be added. These are basic text files that look like <name>.strm and contain a URL to the internet stream
  
 ### Usage
 

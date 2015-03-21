@@ -1,6 +1,6 @@
 The server has several settings that can be used to customize how it presents itself to users.
 
-- **Friendly server name**: used to set a custom name for your server. This name will be displayed within Media Browser apps. If no friendly name is set, the computer name will be used instead.
+- **Friendly server name**: used to set a custom name for your server. This name will be displayed within Emby apps. If no friendly name is set, the computer name will be used instead.
 
 - **Preferred display language**: used to set the language for the server's web interface. 
 

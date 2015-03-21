@@ -1,4 +1,4 @@
-Plugins extend the functionality of Media Browser by providing additional features and services. To manage your plugins, open the server dashboard and navigate to **Plugins**.
+Plugins extend the functionality of Emby by providing additional features and services. To manage your plugins, open the server dashboard and navigate to **Plugins**.
 
 ## My Plugins
 
@@ -37,6 +37,6 @@ Click the Install button install. After the installation has completed, the serv
 The plugin catalog has a vast library of plugins available. Below are some of the more popular choices:
 
 * **Cover Art** - Enhance your media images
-* **GameBrowser** - Adds game support to Media Browser.
+* **GameBrowser** - Adds game support to Emby.
 * **Trailers** - Stream internet trailers
 * **Trakt** - Provides integration to the trakt service

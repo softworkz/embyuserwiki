@@ -1,4 +1,4 @@
-Hosting settings allow you to configure Media Browser's built-in web server. These settings are accessed by opening the server dashboard and navigating to **Advanced** -> **Hosting**.
+Hosting settings allow you to configure Emby's built-in web server. These settings are accessed by opening the server dashboard and navigating to **Advanced** -> **Hosting**.
 
 For the purposes of this document we are defining local as within your home network, and external as outside your network away from home.
 
@@ -32,11 +32,11 @@ In addition you can also supply your own custom SSL certificate. This is highly 
 
 ## Requiring Https
 
-Media Browser apps use http by default. In order to force them to use https, you can configure the server to report it's default external url as the http url. 
+Emby apps use http by default. In order to force them to use https, you can configure the server to report it's default external url as the http url. 
 
 ![](images/server/hosting5.png)
 
-**Note**: Https is a new feature. Some Media Browser apps may require updates before this option can be used.
+**Note**: Https is a new feature. Some Emby apps may require updates before this option can be used.
 
 ## Automatic Port Mapping
 

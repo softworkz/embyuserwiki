@@ -1,4 +1,4 @@
-Most operations within Media Browser are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
+Most operations within Emby are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
 
 Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, [Guests](Guests) and [Pending Invitations](Guests).
 
@@ -8,14 +8,14 @@ Local users are displayed under the user heading. These are users that you've cr
 
 ![](images/server/users1.png)
 
-A local user will be displayed with a cloud if it is linked to [Media Browser Connect](Media Browser Connect). 
+A local user will be displayed with a cloud if it is linked to [Emby Connect](Emby Connect). 
 ![](images/server/users6.png)
 
-Linking a user to Media Browser Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Media Browser Connect](Media Browser Connect).
+Linking a user to Emby Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Emby Connect](Emby Connect).
 
 ## Guests
 
-Guests are users that you've invited using [Media Browser Connect](Media Browser Connect).
+Guests are users that you've invited using [Emby Connect](Emby Connect).
 
 For more information, see [Guests](Guests).
 
