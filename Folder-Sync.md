@@ -15,3 +15,7 @@ Then proceed to install it on the installation page.
 ## Add Folders
 
 Once installed, it's time to start adding Folders.
+
+![](images/plugins/foldersync2.png) 
+
+Add a folder by entering the path and giving it a display name. You can also choose whether or not to limit sync access to specific users.
