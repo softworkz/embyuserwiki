@@ -1,4 +1,6 @@
-The sync feature allows you to copy your content to mobile devices for offline viewing. This is done by creating sync jobs using either the server's web interface or en Emby app on a mobile device. The server will then convert the media for the device as necessary. The apps will then sync the content by running a periodic background sync process.
+## Mobile Sync
+
+Mobile sync feature allows you to copy your content to mobile devices for offline viewing. This is done by creating sync jobs using either the server's web interface or en Emby app on a mobile device. The server will then convert the media for the device as necessary. The apps will then sync the content by running a periodic background sync process.
 
 The apps that currently support syncing are:
 
