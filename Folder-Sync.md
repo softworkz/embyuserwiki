@@ -6,4 +6,12 @@ When content is archived in multiple resolutions, Emby apps will automatically c
 
 To install folder sync, open the **Emby Server Dashboard** and navigate to **Sync** -> **Services**. 
 
+Click on Folder Sync underneath **Available Services**.
+
 ![](images/plugins/foldersync1.png)
+
+Then proceed to install it on the installation page.
+
+## Add Folders
+
+Once installed, it's time to start adding Folders.
