@@ -14,7 +14,7 @@ Then proceed to install it on the installation page.
 
 ## Add Folders
 
-Once installed, it's time to start adding Folders.
+Once installed, it's time to start adding Folders. These folders are destinations that you'd like to **sync to**, such as an external hard drive or network share.
 
 ![](images/plugins/foldersync2.png) 
 
