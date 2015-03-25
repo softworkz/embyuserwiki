@@ -18,7 +18,7 @@ The feature is coming soon to:
 
 ## Folder Sync
 
-Folder sync performs the same as cloud sync, but instead the content is synced to a folder or external hard drive. For more information see [Folder Sync](Folder Sync)
+Folder sync performs the same as cloud sync, but instead the content is synced to a folder or external hard drive. For more information see [Folder Sync](Folder Sync).
 
 ## Creating Sync Jobs
 
