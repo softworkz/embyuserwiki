@@ -24,3 +24,6 @@ Once a sync folder has been added, it will then show as as an available destinat
 
 ![](images/plugins/foldersync3.png) 
 
+## Playback
+
+Once synced, Emby apps will automatically use the additional media sources when possible. For example, suppose you have a high bitrate movie that requires transcoding to Roku. By syncing to a folder and selecting a conversion profile that is compatible with Roku, the Roku app can then direct stream the synced version rather than transcoding the original.
