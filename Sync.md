@@ -16,9 +16,21 @@ The feature is coming soon to:
 
 ## Cloud Sync
 
+Cloud sync allows you to copy content to cloud storage accounts, for backup as well as archiving in multiple resolutions.
+
+When content is archived in multiple resolutions, Emby apps will automatically choose the version that is most efficient for them. This will help relieve stress on your internet connection as well as your server's CPU. Apps will browse the content through your Emby Server as normal, but playback will stream from the cloud.
+
+Cloud Sync is currently available for:
+
+* [Google Drive](Google Drive)
+
 ## Folder Sync
 
-Folder sync performs the same as cloud sync, but instead the content is synced to a folder or external hard drive. For more information see [Folder Sync](Folder Sync).
+Folder sync allows you to copy content to folders and external hard drives, for backup as well as archiving in multiple resolutions. 
+
+When content is archived in multiple resolutions, Emby apps will automatically choose the version that is most efficient for them. This will help relieve stress on your server's CPU.
+
+For more information see [Folder Sync](Folder Sync).
 
 ## Creating Sync Jobs
 
