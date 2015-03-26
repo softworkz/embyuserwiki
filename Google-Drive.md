@@ -25,3 +25,13 @@ First you'll need to create a client Id and Secret. To do this, click on the lin
 ### Add Google Drive Accounts
 
 After you're configured the Client Id and Secret, you'll need to add one or more Google Drive accounts. To do this, click the + button next to Google Drive Accounts. You'll then be guided through the process of adding a Google Drive account.
+
+## Ready to Sync
+
+Once a Google Drive account has been added, it will then show as as an available destination when creating sync jobs:
+
+![](images/plugins/foldersync3.png) 
+
+## Playback
+
+Once synced, Emby apps will automatically use the additional media sources when possible. For example, suppose you have a high bitrate movie that requires transcoding to Roku. By syncing to the cloud and selecting a conversion profile that is compatible with Roku, the Roku app can then direct play the synced version rather than transcoding the original.
