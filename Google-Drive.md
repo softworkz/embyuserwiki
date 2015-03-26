@@ -21,3 +21,7 @@ Configuring Google Drive is a two step process.
 ### Create a Client Id and Secret
 
 First you'll need to create a client Id and Secret. To do this, click on the link titled "Create a Google Drive Client Id and Secret". Follow the instructions in the popup message.
+
+### Add Google Drive Accounts
+
+After you're configured the Client Id and Secret, you'll need to add one or more Google Drive accounts. To do this, click the + button next to Google Drive Accounts. You'll then be guided through the process of adding a Google Drive account.
