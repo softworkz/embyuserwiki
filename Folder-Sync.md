@@ -20,6 +20,8 @@ Once installed, it's time to start adding Folders. These folders are destination
 
 Add a folder by entering the path and giving it a display name. You can also choose whether or not to limit sync access to specific users.
 
+## Ready to Sync
+
 Once a sync folder has been added, it will then show as as an available destination when creating sync jobs:
 
 ![](images/plugins/foldersync3.png) 
