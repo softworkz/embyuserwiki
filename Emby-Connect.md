@@ -18,7 +18,7 @@ If your server isn't listed when you sign in with Connect, then it means you hav
 
 ## Guide for Administrators
 
-If you're the administrator of en Emby server, the Connect feature makes it easier than ever to invite your family and friends to share your media.
+If you're the administrator of an Emby server, the Connect feature makes it easier than ever to invite your family and friends to share your media.
 
 The first step to setting up your server with Emby Connect is to link your server account to your Emby account. This is done in four easy steps:
 
