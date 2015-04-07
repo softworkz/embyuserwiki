@@ -23,7 +23,7 @@ If you're the administrator of an Emby server, the Connect feature makes it easi
 The first step to setting up your server with Emby Connect is to link your server account to your Emby account. This is done in four easy steps:
 
 1. Start by [signing up for Emby Connect](http://emby.media/connect/)
-2. Open your server dashboard, navigate to **Users**, then click on your user account. Enter the email address you used to sign up with Emby Connect, and then click Save.
+2. Then open your server dashboard, navigate to **Users**, and click on your user account. In the Emby username/email field, enter the email address you used to sign up with Emby Connect, and then click Save.
 3. An email will be sent to your address with instructions on how to confirm the account link. Simply click the confirm link within the email.
 4. You're now ready to use Emby Connect with your apps. You can easily test this using the [online web app](http://app.emby.media).
 
