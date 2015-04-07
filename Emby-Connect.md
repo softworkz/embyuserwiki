@@ -4,7 +4,7 @@ Normally signing into a server requires three pieces of information - the server
 
 ## Guide for Users
 
-Start by [signing up for Emby Connect](http://emby.media/connect/). Then ask the owner of en Emby Server to invite you to use their server.
+Start by [signing up for Emby Connect](http://emby.media/connect/). Then ask the owner of an Emby Server to invite you to use their server.
 
 Once the invitation has been sent, you'll need to accept it by clicking on a link in the invitation email. The invitation will appear similar to the following:
 
