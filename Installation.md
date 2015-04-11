@@ -38,6 +38,6 @@ On the third page you'll configure your default metadata settings, such as where
 
 ### Add Media Libraries
 
-Finally, you'll add your media libraries.
+Finally, you'll add your media libraries. See [Library Setup](Library Setup) for more information.
 
 ![](images/server/wizard4.png)
