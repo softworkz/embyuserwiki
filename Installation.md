@@ -16,7 +16,10 @@ After Emby Server has been installed, it will attempt to launch the startup wiza
 
 [http://localhost:8096/web/wizardstart.html](http://localhost:8096/web/wizardstart.html)
 
+The first page will ask you to choose a display language. We have been working hard to translate Emby into as many languages as possible, and the available options are displayed on this page.
+
 ![](images/server/wizard1.png)
+
 ![](images/server/wizard2.png)
 ![](images/server/wizard3.png)
 ![](images/server/wizard4.png)
