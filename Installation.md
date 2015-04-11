@@ -16,4 +16,7 @@ After Emby Server has been installed, it will attempt to launch the startup wiza
 
 [http://localhost:8096/web/wizardstart.html](http://localhost:8096/web/wizardstart.html)
 
-.
+![](images/server/wizard1.png)
+![](images/server/wizard2.png)
+![](images/server/wizard3.png)
+![](images/server/wizard4.png)
