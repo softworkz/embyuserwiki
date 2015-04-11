@@ -24,6 +24,10 @@ The first page will ask you to choose a display language. We have been working h
 
 ### Create a User
 
+Next you'll be asked to create an initial user account. You'll have the ability to create more accounts later after the setup process has completed. 
+
+You also have the ability to link the account to [Emby Connect](Emby Connect).
+
 ![](images/server/wizard2.png)
 
 ### Configure Settings
