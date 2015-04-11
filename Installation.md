@@ -41,3 +41,7 @@ On the third page you'll configure your default metadata settings, such as where
 Finally, you'll add your media libraries. See [Library Setup](Library Setup) for more information.
 
 ![](images/server/wizard4.png)
+
+## Completing the Startup Wizard
+
+Once you've completed the above screens, you'll then be taken to the Emby Server Dashboard. You're now ready to explore the features of the server while waiting for your media scan to complete.
