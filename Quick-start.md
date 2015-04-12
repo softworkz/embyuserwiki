@@ -57,3 +57,14 @@ For more information, see [users](Users).
 Installing plugins can further enhance your Emby experience. Cover Art allows you to personalize the artwork this is displayed within your Emby apps, and Trailers provides a library of streaming internet trailers to your media collection. Trakt is also extremely popular.
 
 For more information, see [plugins](Plugins).
+
+## Become an Emby Supporter
+
+Becoming an Emby supporter brings a number of additional benefits and bonus features. As an Emby Supporter you can enjoy:
+
+* Cover Art
+* Mobile Sync
+* Cloud Sync
+* Much more
+
+[Learn more about becoming an Emby Supporter.](http://emby.media/donate).
