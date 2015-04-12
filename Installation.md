@@ -46,6 +46,13 @@ Finally, you'll add your media libraries. See [Library Setup](Library Setup) for
 
 Once you've completed the above screens, you'll then be taken to the Emby Server Dashboard. You're now ready to explore the features of the server while waiting for your media scan to complete.
 
+Be sure to check out:
+
+* [Users](Users)
+* [Sync](Sync)
+* [Live TV](Live TV)
+* [Plugins](Plugins)
+
 ## Become an Emby Supporter
 
 Becoming an Emby supporter brings a number of additional benefits and bonus features. As an Emby Supporter you can enjoy:
