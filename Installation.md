@@ -45,3 +45,14 @@ Finally, you'll add your media libraries. See [Library Setup](Library Setup) for
 ## Completing the Startup Wizard
 
 Once you've completed the above screens, you'll then be taken to the Emby Server Dashboard. You're now ready to explore the features of the server while waiting for your media scan to complete.
+
+## Become an Emby Supporter
+
+Becoming an Emby supporter brings a number of additional benefits and bonus features. As an Emby Supporter you can enjoy:
+
+* Cover Art
+* Mobile Sync
+* Cloud Sync
+* Much more
+
+[Learn more about becoming an Emby Supporter.](http://emby.media/donate).
