@@ -2,7 +2,7 @@ Various internet video and audio streams can be played back in Emby as if they w
  
 ### Usage
 
-Create a normal text-file and rename the .txt extension to .strm then open it up with a text-editor (like Notepad in Microsoft Windows) and input the the direct URL-link of the stream.
+Create a normal text-file and rename the .txt extension to .strm. Then open it up with a text-editor (like Notepad in Microsoft Windows) and input the the direct URL-link of the stream.
 
 This should look like:
 
