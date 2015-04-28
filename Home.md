@@ -24,9 +24,10 @@ In addition to what's displayed here, the [community knowledge base](http://emby
 
 ## Emby Apps
 
-- [Android (Play Store)](https://play.google.com/store/apps/details?id=com.mb.android "Android (Play Store)")
-- [Android (Amazon)](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I "Android (Amazon)")
+- [Android Mobile (Play Store)](https://play.google.com/store/apps/details?id=com.mb.android "Android Mobile (Play Store)")
+- [Android Mobile (Amazon)](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I "Android Mobile (Amazon)")
 - [Android TV](https://play.google.com/store/apps/details?id=tv.emby.embyatv "Android TV")
+- [Amazon Fire TV](http://www.amazon.com/Emby-for-Fire-TV/dp/B00VVJKTW8 "Amazon Fire TV")
 - [HTML5](http://app.emby.media "HTML5")
 - [iPad](https://itunes.apple.com/us/app/media-browser-client/id879475585 "iPad")
 - [iPhone](https://itunes.apple.com/us/app/media-browser-for-ios/id705058087?mt=8 "iPhone")
