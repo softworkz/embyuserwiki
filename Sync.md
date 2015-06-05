@@ -6,11 +6,11 @@ Mobile sync feature allows you to copy your content to mobile devices for offlin
 
 The apps that currently support syncing are:
 
+* **Android**
 * **Windows 8.1**
 
 The feature is coming soon to:
 
-* **Android**
 * **iOS**
 * **Windows Phone**
 
