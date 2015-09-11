@@ -17,7 +17,3 @@ For bandwidth-constrained environments, limiting the channel quality can help en
 ![](images/server/channels1.png)
 
 Please note this setting is only a preference and not a guarantee. Not all channels support multiple-resolutions, and in such cases you'll be limited to what's available.
-
-In addition you can also configure channel content downloading. This allows you to download content ahead of time before viewing, in which case it will be streamed directly from your server instead of the internet. Please note that not all channels support this, and some limit the amount of downloading per day.
-
-![](images/server/channels2.png)
