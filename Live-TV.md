@@ -11,6 +11,14 @@ Out of the box, Emby Server currently supports the following TV Tuners:
 
 Support for additional tuners can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
+## Add a TV Guide Data Source
+
+Out of the box, Emby Server currently supports the following TV Guide data sources:
+
+* Schedules Direct
+
+Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
+
 ## Live TV Status
 
 The status of your tv tuners is also displayed in the server dashboard by navigating to **Live TV**.
