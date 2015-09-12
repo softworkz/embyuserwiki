@@ -51,6 +51,11 @@
 * [Folder sync](Folder Sync)
 * [Google Drive](Google Drive)
 
+### Live TV
+* [Live TV](Live TV)
+* [Live TV Plugins](Live-TV-Providers)
+* [Dlna profiles](Dlna profiles)
+
 ### Dlna
 * [Play to](Play to)
 * [Dlna server](Dlna server)
