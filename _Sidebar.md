@@ -54,7 +54,6 @@
 ### Live TV
 * [Live TV](Live TV)
 * [Live TV Plugins](Live-TV-Providers)
-* [Dlna profiles](Dlna profiles)
 
 ### Dlna
 * [Play to](Play to)
