@@ -9,7 +9,7 @@ Out of the box, Emby Server currently supports the following TV Tuners:
 
 * HDHomerun (Dlna feature required)
 
-Support for additional tuners can be added by installing a [Live TV Plugins](Live-TV-Plugins).
+Support for additional tuners can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
 ## Live TV Status
 
