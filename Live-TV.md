@@ -3,7 +3,7 @@ The Live TV feature allows for streaming live television and managing your DVR w
 * Configure your tuner devices
 * Add a TV Guide data source
 
-## Global Live TV Settings
+## Live TV Status
 
 There are also settings that can be configured globally for Live TV. These are found in the server dashboard by navigating to **Live TV**.
 
