@@ -1,5 +1,9 @@
 Out of the box, Emby Server supports a small selection of TV Tuners that are available on the market. If you need to add support for other kinds of tuners or guide data sources, this can be achieved by installing a Live TV plugin.
 
+Please note that each plugin depends on a standalone application of the same name. For example, the ServerWMC plugin for Emby also requires the standalone ServerWMC application.
+
+Each plugin will list the tuner hardware they support as well as the installation requirements.
+
 ## Install a Live TV Service Provider Plugin
 
 Service providers are available in the plugin catalog. 
