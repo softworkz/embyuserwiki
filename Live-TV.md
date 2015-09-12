@@ -1,4 +1,4 @@
-The Live TV feature allows for streaming live television and managing your DVR within Emby Apps. Live TV is setup in two steps:
+The Live TV feature allows you to stream live television and manage your DVR within Emby Apps. Live TV is setup in two steps:
 
 * Configure your tuner devices
 * Add a TV Guide data source
