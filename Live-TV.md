@@ -11,6 +11,8 @@ Out of the box, Emby Server currently supports the following TV Tuners:
 
 Support for additional tuners can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
+In most cases, Emby Server will automatically discover your HDHomerun on your network with no configuration required. If this does not happen for you, adding a tuner manually is very simple.  Simply open the server dashboard, navigate to **Live TV**, then click **Add** underneath tuner devices.
+
 ## Add a TV Guide Data Source
 
 Out of the box, Emby Server currently supports the following TV Guide data sources:
