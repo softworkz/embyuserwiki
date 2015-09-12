@@ -6,7 +6,7 @@ Each plugin will list the tuner hardware they support as well as the installatio
 
 ## How to Install a Live TV Plugin
 
-Service providers are available in the plugin catalog. 
+Live TV Service providers are available in the plugin catalog. 
 
 ![](images/server/livetv5.png)
 
