@@ -5,7 +5,7 @@ The Live TV feature allows for streaming live television and managing your DVR w
 
 ## Live TV Status
 
-The status of your tv tuners is also displayed.
+The status of your tv tuners is also displayed in the server dashboard by navigating to **Live TV**.
 
 ![](images/server/livetv3.png)
 
