@@ -36,6 +36,7 @@ Click the Install button install. After the installation has completed, the serv
 
 The plugin catalog has a vast library of plugins available. Below are some of the more popular choices:
 
+* **Auto BoxSets** - Automatically create movie collections based on your movie library
 * **Cover Art** - Enhance your media images
 * **GameBrowser** - Adds game support to Emby.
 * **Trailers** - Stream internet trailers
