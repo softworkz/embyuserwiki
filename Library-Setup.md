@@ -25,7 +25,7 @@ Clicking the "Add Media Library" button will open a dialog to add a library. You
 
 Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. 
 
-Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is limited.
+Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is limited. Initially you'll only be able to add one media path when setting up the library, but additional paths can be added after setting it up.
 
 ![](images/server/librarysetup2.png)
 
