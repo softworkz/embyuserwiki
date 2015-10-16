@@ -11,15 +11,15 @@ It's important to first prepare your media. See other sections of the wiki for m
 
 ### Library Setup Page
 
-The configuration will display the media folders you've configured and allow you to add, remove, rename or change the paths they're mapped to. 
+The configuration will display the media libraries you've configured and allow you to add, remove, rename or change the paths they're mapped to. 
 
-> A media folder is a grouping of one or more physical folders on your file system.
+> A media library is a grouping of one or more physical folders on your file system.
 
-The below example screenshot lists four media folders:
+To get started, click the button to add a media library.
 
 ![](images/server/librarysetup1.png)
 
-Clicking the "Add Media Folder" button will open a dialog to add a media folder, where you choose the content type and enter a name. 
+Clicking the "Add Media Library" button will open a dialog to add a library. You'll have to specify a content type, enter a display name, and choose a path to the media.
 
 ### Content Type
 
