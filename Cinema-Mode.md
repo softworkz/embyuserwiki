@@ -16,7 +16,7 @@ A vast library of internet trailers are available for use with cinema mode. The 
 
 This feature has two requirements:
 
-* An [active supporter membership](http://emby.media/donate)
+* An [active Emby Premiere subscription](http://emby.media/donate)
 * Installation of the [Trailer plugin](Plugins), either before or after enabling cinema mode.
 
 ## Local Trailers
