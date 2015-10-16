@@ -31,7 +31,7 @@ Use the unset content type if you'd like to add a media folder that mixes differ
 
 ### Library Paths
 
-Each media folder can have one or more physical library paths. In the below example screenshot, the Movies folder contains two physical paths:
+Each media folder can have one or more physical library paths. When you supply more than one media path, the contents of each will be merged together into one virtual display.
 
 ![](images/server/librarysetup3.png)
 
