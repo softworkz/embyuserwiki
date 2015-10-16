@@ -25,7 +25,7 @@ Clicking the "Add Media Folder" button will open a dialog to add a media folder,
 
 Choosing the right content type is important. See the above guide on media preparation for best practices for Movie, TV and Music sections. 
 
-Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is very limited, and if you're going to go this route, it is highly recommended to use the [metadata manager](Metadata manager) to set the content type of sub-folders after the initial setup is complete.
+Use the unset content type if you'd like to add a media folder that mixes different content. Please note that support for mixed content is .
 
 ![](images/server/librarysetup2.png)
 
