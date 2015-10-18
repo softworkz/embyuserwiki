@@ -10,11 +10,11 @@ Every Emby app will have a setting known as "Max streaming bitrate". This is the
 
 In addition, the server has some transcoding settings that can be configured. These are found by opening the server dashboard and navigating to **Playback** -> **Transcoding**.
 
-There is a transcoding quality preference.
-
 ![](images/server/transcoding1.png)
 
-In the vast majority of cases this should be left to **Auto**. The higher quality options will improve image quality to some extent but will result in higher CPU usage. They are generally only recommended for users with powerful home servers who do not have a need for simultaneous transcoding streams.
+The hardware video decoder setting allows the use of Intel QSV hardware decoding. This should only be enabled if you have the appropriate hardware and may result in errors otherwise. If you're unsure, leave the setting at Auto and the system will attempt to automatically detect this.
+
+The thread count setting allows you to specify how many processors to allocate to each transcoding job. In almost all cases, this should be left to Auto as the system will adapt based on current conditions.
 
 ## Temporary Path
 
