@@ -49,7 +49,7 @@ By allowing Emby apps direct access to media folders on the server, they may be 
 
 Path substitutions are configured in the **Path Substitution** tab of the library setup area.
 
-Example:
+### Example:
 
 You have a Movies library on the server as **D:\Movies**. This folder is also shared on the network as **\\Server\Movies**. You'd like to allow an Emby app on another machine direct access to the shared folder.
 
