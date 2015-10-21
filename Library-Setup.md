@@ -56,6 +56,7 @@ You have a Movies library on the server as **D:\Movies**. This folder is also sh
 To do this, create a path substitution with the following values:
 
 **From**: D:\Movies
+
 **To**: \\Server\Movies
 
 This will allow some Emby apps to access the media directly and avoid having to stream or transcode using Emby Server.
