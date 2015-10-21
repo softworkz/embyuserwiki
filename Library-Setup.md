@@ -45,7 +45,7 @@ To add a library path, click the + button. A popup will be displayed allowing yo
 
 ## Path Substitution
 
-By allowing clients direct access to media on the server they may be able to play them directly over the network and avoid using server resources to stream and transcode them. Path substitution can help achieve this by mapping the path on the server to to a network path that can be accessed by other devices.
+By allowing Emby apps direct access to media folders on the server, they may be able to play them directly over the network and avoid using server resources to stream and transcode. Path substitution can help achieve this by mapping a path on the server to a network path that can be accessed by other devices.
 
 Path substitutions are configured in the **Path Substitution** tab of the library setup area.
 
