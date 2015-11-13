@@ -73,4 +73,4 @@ Please make sure to supply the following information:
 * The Emby Server log
 * The Emby Server transcoding logs
 
-Logs can be accessed directly within the server's web interface by navigating to Help -> Logs.
+Logs can be accessed directly within the server's web interface by navigating to **Help** -> **Logs**.
