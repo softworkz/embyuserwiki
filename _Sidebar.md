@@ -63,7 +63,7 @@
 * [Android Mobile](Android Mobile)
 * [Android TV](Android TV)
 * [Chromecast](Chromecast)
-* [Fire TV](Fire TV)
+* [Amazon Fire TV](Fire TV)
 * [iOS](iOS)
 * [Roku](Roku)
 * [Web Client](Web Client)
