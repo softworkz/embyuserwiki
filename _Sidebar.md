@@ -60,10 +60,10 @@
 * [Dlna profiles](Dlna profiles)
 
 ### Emby Apps
+* [Amazon Fire TV](Fire TV)
 * [Android Mobile](Android Mobile)
 * [Android TV](Android TV)
 * [Chromecast](Chromecast)
-* [Amazon Fire TV](Fire TV)
 * [iOS](iOS)
 * [Roku](Roku)
 * [Web Client](Web Client)
