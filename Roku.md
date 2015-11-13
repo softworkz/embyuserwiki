@@ -1,5 +1,7 @@
 Emby for Roku is available in the [Roku App Store](https://www.roku.com/channels#!details/44191/emby).
 
+There is also a [beta channel](http://emby.media/community/index.php?/topic/8001-emby-for-roku-channel/) available as well as a [zip file for Now TV](http://emby.media/community/index.php?/topic/8001-emby-for-roku-channel/).
+
 Emby for Roku can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). Read below to learn how to direct play your media without transcoding.
 
 # Direct Play Media Formats
