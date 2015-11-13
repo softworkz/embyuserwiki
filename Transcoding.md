@@ -37,9 +37,9 @@ The default value is **2**, meaning the volume will be doubled when converting s
 
 ## Why Is My Media Transcoding?
 
-Emby apps will make every attempt to play your files directly and avoid transcoding. Transcoding will only be used when files are natively supported by the device you're trying to play from, or the bitrate of the content is higher than the application bitrate setting.
+Whenever possible, Emby apps will play your files directly and avoid transcoding. Transcoding will only be used when files are not natively supported by the device you're trying to play from, or the bitrate of the content is higher than the app's bitrate setting.
 
-**How to Reduce Transcoding**
+**Why Is My File Transcoding?**
 
 * First, compare the media format of your file to the format supported by the Emby app. You can find the media info in the Emby Web Client, at the bottom of the detail page:
 
