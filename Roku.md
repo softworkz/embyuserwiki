@@ -1,1 +1,1 @@
-Coming soon.
+Emby for Roku is available in the [Roku App Store](https://www.roku.com/channels#!details/44191/emby).
