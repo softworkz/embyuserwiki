@@ -28,7 +28,6 @@
 * [Hosting settings](Hosting Settings)
 * [Live TV](Live TV)
 * Metadata configuration
-* [Metadata manager](Metadata manager)
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
