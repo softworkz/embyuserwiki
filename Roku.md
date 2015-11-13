@@ -4,6 +4,10 @@ There is also a [beta channel](http://emby.media/community/index.php?/topic/8001
 
 Emby for Roku can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). Read below to learn how to direct play your media without transcoding.
 
+# Setup Guide
+
+A setup guide is available in the [Emby Community](http://emby.media/community/index.php?/topic/6763-emby-for-roku/).
+
 # Direct Play Media Formats
 
 * Video — H.264/AVC (.MKV, .MP4, .MOV), on Roku 4 only: H.265/HEVC (.MKV, .MP4, .MOV); VP9 (.MKV)
