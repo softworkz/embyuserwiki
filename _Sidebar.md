@@ -63,6 +63,7 @@
 ### Emby Apps
 * [Android Mobile](Android Mobile)
 * [Android TV](Android TV)
+* [Chromecast](Chromecast)
 * [Fire TV](Fire TV)
 * [iOS](iOS)
 * [Roku](Roku)
