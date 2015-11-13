@@ -38,3 +38,25 @@ The default value is **2**, meaning the volume will be doubled when converting s
 ## Why Is My Media Transcoding?
 
 Emby apps will make every attempt to play your files directly and avoid transcoding. Transcoding will only be used when files are natively supported by the device you're trying to play from, or the bitrate of the content is higher than the application bitrate setting.
+
+**How to Reduce Transcoding**
+
+* First, compare the media format of your file to the format supported by the Emby app. You can find the media info in the Emby Web Client, at the bottom of the detail page:
+
+![](images/server/mediainfo.png)
+
+If the file is not natively supported, transcoding will be required.
+
+* Next, compare the bitrate of your file, to the bitrate setting in the app. You can find the bitrate of your file by checking the media info in the web interface. If the bitrate of the file is higher than the setting in the app, transcoding will be required. Increasing the bitrate setting in the app can help reduce transcoding, but may impact playback performance if your network connection is not fast enough to handle it. **Important Note**: Emby apps are beginning to support automatic bitrate detection in order to automatically select the highest bitrate possible. Most users will see best results by leaving the bitrate setting on Auto.
+
+* Lastly, are subtitles selected? If subtitles are selected, then this may trigger transcoding if the app does not natively support the subtitle format. Most Emby apps have native support for text-based subtitles (e.g. srt, vtt, etc). Graphical subtitles such as PGS and VobSub are more likely to trigger transcoding.
+
+To learn more about the formats that are natively supported by each Emby app, please visit the wiki section for that app:
+
+* [Android Mobile](Android Mobile)
+* [Android TV](Android TV)
+* [Chromecast](Chromecast)
+* [Fire TV](Fire TV)
+* [iOS](iOS)
+* [Roku](Roku)
+* [Web Client](Web Client)
