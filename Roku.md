@@ -22,4 +22,4 @@ Emby for Roku can handle just about any type of media thanks to [Emby Server tra
 
 * Compare the bitrate of your files to the bitrate setting in the app. You can find the bitrate of your file by checking the media info in the web interface. If the bitrate of the file is higher than the setting in the app, transcoding will be required. Increasing the bitrate setting in the app can help reduce transcoding, but may impact playback performance if your network connection is not fast enough to handle it.
 
-![](images/apps/roku1.png)
+![](images/apps/roku1.jpg)
