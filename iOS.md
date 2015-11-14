@@ -16,7 +16,7 @@ Coming soon.
 
 * Ensure your media meets the above criteria.
 
-* Leave the app's streaming bitrate setting on the default value of Auto, if possible. The will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
+* Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
 
 * If you are customizing the bitrate setting, then you will need to compare the bitrate of your files to the bitrate setting in the app. You can find the bitrate of a file by checking the media info in the web interface. If the bitrate of a file is higher than the setting in the app, transcoding will be required. Increasing the bitrate setting in the app can help reduce transcoding, but may impact playback performance if your network connection is not fast enough to handle it.
 
