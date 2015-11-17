@@ -31,3 +31,7 @@ If this still does not work, then most likely the firewall on the server machine
 If running Windows, most likely you'll need to configure Windows Firewall. See [How to open a port in Windows Firewall](http://www.dummies.com/how-to/content/how-to-open-a-port-in-the-windows-7-firewall.html).
 
 If you're using third party firewall software, you'll need to follow it's instructions to open the port. 
+
+### Run an AntiVirus Scan
+
+If you're certain you've opened the port and are still unable to connect, the next step will be to ensure the server machine is free of viruses and malware. See [AntiVirus software](https://en.wikipedia.org/wiki/Antivirus_software).
