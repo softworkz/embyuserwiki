@@ -6,4 +6,4 @@ In most cases you won't need to do anything to connect to your server from other
 
 Emby apps can automatically discover your Emby Server on your home network, so in most cases, there's nothing more you need to do. But in the event this does not work, you can still connect to your Emby Server by manually entering the server's address.
 
-![](images/server/connectivity2.png)
+![](images/server/connectivity2.jpg)
