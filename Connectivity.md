@@ -17,3 +17,9 @@ This information can then be entered into Emby apps:
 ![](images/server/connectivity3.png)
 
 # Troubleshooting Internal Connections
+
+If the above still does not work, please ensure the machine running Emby Server is turned on, and that the Emby Server application is running.
+
+A useful test is to try to use a web browser on another device, such as another computer, or a smartphone or tablet. You'll need to ensure the other device is connected to the same WIFI network. Try opening a web browser on that device and entering the local address manually:
+
+![](images/server/connectivity4.png)
