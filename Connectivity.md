@@ -37,3 +37,7 @@ If you're using third party firewall software, you'll need to follow it's instru
 ### Run an AntiVirus Scan
 
 If you're certain you've opened the port and are still unable to connect, the next step will be to ensure the server machine is free of viruses and malware. See [AntiVirus software](https://en.wikipedia.org/wiki/Antivirus_software).
+
+# External Connections
+
+Emby Server also allows you to connect when away from home. We call these external connections because they're out of our home network. Before we begin, we'll assume everything covered above in the **In-Network Connections** section is functioning correctly with your Emby Server, and that you're able connect using other devices in your home network. If not, then you'll want to go over that section first.
