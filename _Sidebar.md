@@ -27,7 +27,6 @@
 * [Devices](Devices)
 * [Hosting settings](Hosting Settings)
 * [Live TV](Live TV)
-* Metadata configuration
 * [Notifications](Notifications)
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
