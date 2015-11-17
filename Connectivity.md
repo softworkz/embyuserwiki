@@ -8,4 +8,6 @@ Emby apps can automatically discover your Emby Server on your home network, so i
 
 To locate your server's internal address, simply open the Emby Server Dashboard on the Emby Server machine, typically http://localhost:8096
 
+Your Emby Server's local address is then displayed in the **Local address** field.
+
 ![](images/server/connectivity2.jpg)
