@@ -1,6 +1,8 @@
-Emby for iPhone and iPad is available in the [Apple App Store](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8).
+Emby for Android Mobile is available in multiple ways:
+* [Amazon App Store](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.mb.android)
 
-Emby for iPhone and iPad can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). If you would like to learn how to prepare your media for Direct Play, read below.
+Emby for Android Mobile can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). If you would like to learn how to prepare your media for Direct Play, read below.
 
 # Setup Guide
 
