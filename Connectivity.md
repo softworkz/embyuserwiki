@@ -14,6 +14,6 @@ Your Emby Server's local address is then displayed in the **Local address** fiel
 
 This information can then be entered into Emby apps:
 
-![](images/server/connectivity3.jpg)
+![](images/server/connectivity3.png)
 
 # Troubleshooting Internal Connections
