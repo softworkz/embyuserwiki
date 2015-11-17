@@ -28,7 +28,9 @@ If this still does not work, then most likely the firewall on the server machine
 
 ### Open TCP Port 8096 on your server's firewall
 
-If running Windows, most likely you'll need to configure Windows Firewall. See [How to open a port in Windows Firewall](http://www.dummies.com/how-to/content/how-to-open-a-port-in-the-windows-7-firewall.html). **Important**: Please do not attempt to skip this step by disabling Windows Firewall, as this usually does more harm than good.
+If running Windows, most likely you'll need to configure Windows Firewall. See [How to open a port in Windows Firewall](http://www.dummies.com/how-to/content/how-to-open-a-port-in-the-windows-7-firewall.html). 
+
+**Important**: Please do not attempt to skip this step by disabling Windows Firewall, as this usually does more harm than good.
 
 If you're using third party firewall software, you'll need to follow it's instructions to open the port. **Note**: If you're using third party antivirus software such as Norton Internet Security, it will most likely have it's own firewall that will need to be configured.
 
