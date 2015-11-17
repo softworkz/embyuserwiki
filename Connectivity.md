@@ -24,4 +24,10 @@ A useful test is to try to use a web browser on another device, such as another 
 
 ![](images/server/connectivity4.png)
 
-If this still does not work, then most likely the firewall on the server machine is not allowing access.
+If this still does not work, then most likely the firewall on the server machine is not allowing access. Below are a list of troubleshooting steps that can be taken to resolve this.
+
+### Open TCP Port 8096 on your server's firewall
+
+If running Windows, most likely you'll need to configure Windows Firewall. See [How to open a port in Windows Firewall](http://www.dummies.com/how-to/content/how-to-open-a-port-in-the-windows-7-firewall.html).
+
+If you're using third party firewall software, you'll need to follow it's instructions to open the port. 
