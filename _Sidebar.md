@@ -18,6 +18,7 @@
 ### Server
 
 * [Installation](Installation)
+* [Connectivity](Connectivity)
 * [Library setup](Library Setup)
 * [Server settings](Server Settings)
 * [Auto-Organize](Auto-Organize)
