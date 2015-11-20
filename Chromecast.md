@@ -2,9 +2,9 @@ Emby supports casting to Chromecast in the following apps:
 
 - [Android Mobile (Google Play)](https://play.google.com/store/apps/details?id=com.mb.android "Android Mobile (Play Store)")
 - [Android Mobile (Amazon)](http://www.amazon.com/Emby-Mobile/dp/B017OSA1QS "Android Mobile (Amazon)")
-- [HTML5](http://app.emby.media "HTML5")
 - [iPad](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPad")
 - [iPhone](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPhone")
+- [HTML5](http://app.emby.media "HTML5")
 - Web Client (Chrome only)
 
 To connect to your Chromecast device, simply click the cast icon in the top right corner of the app. You'll then be asked which device you'd like to connect to.
