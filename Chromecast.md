@@ -12,7 +12,9 @@ Emby for Chromecast can handle just about any type of media thanks to [Emby Serv
 
 * Video — MP4, M4V, MKV, WEBM
 * Subtitles - SRT and other text-based formats
-* Audio – AAC, MP3, WAV
+* Audio – AAC, MP3, WAV, FLAC
+
+* FLAC is currently only supported by Chromecast Audio devices. All other Chromecast devices can play FLAC using Emby Server transcoding.
 
 # Best Practices for Direct Play
 
