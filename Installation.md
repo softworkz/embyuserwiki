@@ -26,7 +26,7 @@ The first page will ask you to choose a display language. We have been working h
 
 Next you'll be asked to create an initial user account. You'll have the ability to create more accounts later after the setup process has completed. 
 
-As an option, you also have the ability to link the account to [Emby Connect](Emby Connect). Emby Connect makes it easy to connect to your Emby Server while you're away from home. This is purely an optional step and can be skipped if desired.
+As an option, you also have the ability to link the account to [Emby Connect](Emby Connect). Emby Connect makes it easy to connect to your Emby Server while you're away from home. This is purely an optional step and can be skipped if desired. You can always do this later after completing the startup wizard by visiting the [Users](Users) section of the server's web interface.
 
 ![](images/server/wizard2.png)
 
