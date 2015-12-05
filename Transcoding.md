@@ -63,14 +63,14 @@ To learn more about the formats that are natively supported by each Emby app, pl
 
 **My Files Shouldn't Be Transcoding. How Do I Report This?**
 
-Please report this in our community:
+Start by focusing on a single example. Please report this in our community:
 
 http://emby.media/community/
 
 Please make sure to supply the following information:
 
 * A copy of the media info from the web interface
-* The Emby Server log
-* The Emby Server transcoding logs
+* The Emby Server log from the time you played the content
+* The Emby Server transcoding logs from the same time (if any).
 
 Logs can be accessed directly within the server's web interface by navigating to **Help** -> **Logs**.
