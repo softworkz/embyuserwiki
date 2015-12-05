@@ -61,7 +61,7 @@ To learn more about the formats that are natively supported by each Emby app, pl
 * [Roku](Roku)
 * [Web Client](Web Client)
 
-**My Files Shouldn't Be Transcoding. How Do I Report This?**
+## My Files Shouldn't Be Transcoding. How Do I Report This?
 
 Start by focusing on a single example. Please report this in our community:
 
