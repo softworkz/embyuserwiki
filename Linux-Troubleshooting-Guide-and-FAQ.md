@@ -13,3 +13,5 @@ As of the time of writing, Intel currently official supports QSV on [SLES 12 and
 
 ### If I want Intel QSV no matter what, what can I do:
 Follow the guidelines from [Intel](https://software.intel.com/sites/default/files/media_server_studio_getting_started_guide.pdf) on installing the media sdk on one of the supported platforms. Then follow the [ffmpeg compiling guide](https://github.com/drocon11/ffmpeg-qsv) to enable QSV.
+
+### I can not add media:
