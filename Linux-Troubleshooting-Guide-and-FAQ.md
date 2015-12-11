@@ -4,7 +4,7 @@ Emby on Linux does not have the built in capability to restart itself. So to res
 * Ensure Emby was started via a service manager.
 
 ### Will you support Intel QSV on Linux:
-Intel QSV on Linux is not widely supported. Yes, Intel has made the media sdk opensource, but it is only available for specific distros and kerenls. It would not be fruitful at this time for the Emby development team to dedicate any time on getting QSV working on Linux, once Intel's media sdk is widely available the decision will be revisited. 
+Intel QSV on Linux is not widely supported. Yes, Intel has made the media sdk opensource, but it is only available for specific distros and kerenls. It would not be fruitful at this time for the Emby development team to dedicate any time on getting QSV working on Linux. Once Intel's media sdk is widely available the decision will be revisited. 
 
 ### What distros and kernel version are supported by Intel QSV:
 As of the time of writing, Intel currently official supports QSV on [SLES 12 and Centos 7.1](https://software.intel.com/en-us/intel-mediasdk-supported-versions-server).
