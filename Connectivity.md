@@ -41,3 +41,7 @@ If you're certain you've opened the port and are still unable to connect, the ne
 # External Connections
 
 Emby Server also allows you to connect when away from home. We call these external connections because they're out of our home network. Before we begin, we'll assume everything covered above in the **In-Network Connections** section is functioning correctly with your Emby Server, and that you're able connect using other devices in your home network. If not, then you'll want to go over that section first.
+
+From here, we suggest using the [Emby Connect](Emby Connect) feature as it takes the guesswork out of external connectivity. You only need to read below if you're not using Emby Connect, or you're having trouble connecting.
+
+### Know Your External Address
