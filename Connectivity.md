@@ -45,3 +45,15 @@ Emby Server also allows you to connect when away from home. We call these extern
 From here, we suggest using the [Emby Connect](Emby Connect) feature as it takes the guesswork out of external connectivity. You only need to read below if you're not using Emby Connect, or you're having trouble connecting.
 
 ### Know Your External Address
+
+Your external address is displayed on the front page of the server dashboard, labeled as **Remote access**. This is the address you should use when away from home.
+
+![](images/server/connectivity2.jpg)
+
+### Test Your External Address
+
+The easiest way to test your external address, is to open it in a web browser while away from home, or inside your home using a smart phone or tablet with the wifi connection turned off.
+
+**Important**: Testing your external address inside your home might not work, and this is OK. Some internet routers disable loopback capabilities (going out and coming back in), therefore you might not be able to test this from inside your home network. It's important that you test away from home, or with your smart phone or tablet's wifi connection turned off.
+
+If the external address works in a browser, then you're good to go, and can proceed with connecting from Emby apps.
