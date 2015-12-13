@@ -44,7 +44,7 @@ Emby Server also allows you to connect when away from home. We call these extern
 
 From here, we suggest using the [Emby Connect](Emby Connect) feature as it takes the guesswork out of external connectivity. You only need to read below if you're not using Emby Connect, or you're having trouble connecting.
 
-### Know Your External Address
+### Locate Your External Address
 
 Your external address is displayed on the front page of the server dashboard, labeled as **Remote access**. This is the address you should use when away from home.
 
