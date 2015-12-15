@@ -3,7 +3,7 @@ Emby on Linux does not have the built-in capability to restart itself. So to res
 * Ensure helper script is executable.
 * Ensure Emby was started via a service manager.
 * Ensure permissions of /etc/sudoers.d/emby are 0640
-* Ensure whatever user is running emby-server is part of group emby (usermod -a -G emby $USER_NAME)
+* Ensure whatever user is running emby-server is part of the emby group (usermod -a -G emby $USER_NAME)
 * Ensure /etc/sudoers permissions is 0640
 
 ### Will you support Intel QSV on Linux:
