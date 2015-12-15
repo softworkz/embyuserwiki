@@ -1,2 +1,2 @@
 ###Installation:
-Emby-Server is packaged and supported across on as many platforms and architectures as possible. You can find installation instructions that are distribution specific either [here](/Installation) or on our [OBS project page](https://software.opensuse.org/download.html?project=home%3Aemby&package=emby-server).
+Emby-Server is packaged and supported across on as many platforms and architectures as possible. You can find installation instructions that are distribution specific either [here](./Installation) or on our [OBS project page](https://software.opensuse.org/download.html?project=home%3Aemby&package=emby-server).
