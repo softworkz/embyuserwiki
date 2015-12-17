@@ -15,4 +15,4 @@ After much user feedback we have reworked our Docker images from the ground up. 
 ### Installation:
 Before installing our pre-configured and containerized application it is recommend you install Docker. You can install docker following [these directions](https://docs.docker.com/engine/installation/). Once Docker is installed proceed with the following directions. 
 
-We recommend you install directly from the [docker hub](hub.docker.com). By following our [Docker directions](#Docker Getting Started). 
+We recommend you install directly from the [docker hub](hub.docker.com). By following our [Docker directions](Docker-Getting-Started). 
