@@ -60,6 +60,12 @@ In addition, each item within the job can be managed as desired:
 
 ![](images/server/sync7.png)
 
+## Cancelling Sync Jobs
+
+To cancel a sync job, simply click the dot menu next to a job and then select the Cancel Sync Job option. This will delete the sync job as well as all files that have been synced as part of this job.
+
+Alternatively it's also possible to cancel individual items within a job by opening the sync job edit screen and clicking the dot menu next to a sync job item.
+
 ## Administrative Management
 
 Administrators can manage all sync jobs for all users and devices by opening the server dashboard and navigating to **Sync**.
