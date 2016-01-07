@@ -6,7 +6,7 @@ Emby on Linux does not have the built-in capability to restart itself. So to res
 * Ensure whatever user is running emby-server is part of the emby group (usermod -a -G emby $USER_NAME)
 * Ensure /etc/sudoers permissions is 0640
 
-####Example of troubleshooting on a distribution using systemd:
+####Example of troubleshooting restart on a distribution using systemd:
 
 1. ```sudo systemctl status emby-server``` - Get PID.
 2. Hit restart on web interface
