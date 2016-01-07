@@ -12,7 +12,7 @@ Emby on Linux does not have the built-in capability to restart itself. So to res
 2. Hit restart on web interface
 3. ```sudo systemctl status emby-server``` - Get PID.
 
-If PID differ, restart was successful. Otherwise, check the following:
+If PIDs differ restart was successful. Otherwise, check the following:
 
 1. ```ls -la /usr/lib/restart.sh``` - ensure it is executable.
 2. ```ps -aux | grep emby``` - Take note of PID
