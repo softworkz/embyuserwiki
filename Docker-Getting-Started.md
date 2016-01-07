@@ -64,3 +64,15 @@ docker run -d -v /home/user/embydata:/config emby/emby-server:testing
 ``` 
 All the information from above regarding user UID and GID still applies when executing a docker run command.
  
+###Migrating your data from an existing installation:
+Before proceeding please ensure you have made a backup of your emby data (i.e. ```tar cvf embydata.tar /var/lib/emby-server```). Additionally, please verify that you are mounting your emby data as described above. 
+
+In the following example we will demonstrate how to migrate your database using the default setting that emby is deployed with. By default on Linux distributions Emby Server keeps it's data in ```/var/lib/emby-server```, while the Docker container keeps it's data in ```/config```. That being said one could migrate their database as follows:
+
+```
+docker exec -ti emby-server bash
+s6-svc -d /run/s6/services/emby-server
+migrate_db /config/data/library.db /var/lib/emby-server /config
+s6-svc -u /run/s6/services/emby-server
+exit
+```
