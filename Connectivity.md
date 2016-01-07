@@ -57,3 +57,17 @@ The easiest way to test your external address, is to open it in a web browser wh
 **Important**: Testing your external address inside your home might not work, and this is OK. Some internet routers disable loopback capabilities (going out and coming back in), therefore you might not be able to test this from inside your home network. It's important that you test away from home, or with your smart phone or tablet's wifi connection turned off.
 
 If the external address works in a browser, then you're good to go, and can proceed with connecting from Emby apps.
+
+### Setup Port Forwarding
+
+If you're still unable to connect after testing the above, then you may need to setup port forwarding with your router to allow external connectivity to your Emby Server.
+
+To do this, you'll need to open the web interface for your router, and forward TCP Port 8096 on your router to port 8096 on the Emby Server machine.
+
+The process of doing this will be slightly different for each router model.  Here is a good step by step guide on how to do this:
+
+http://www.wikihow.com/Set-Up-Port-Forwarding-on-a-Router
+
+This Youtube video also explains it pretty well:
+
+https://www.youtube.com/watch?v=Kp-R-eHiQco
