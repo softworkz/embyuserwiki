@@ -15,7 +15,7 @@ docker run -it --rm -v /usr/local/bin:/target -e "APP_USER=username" \
 Above, change username to the name of the user you with to run the daemon as. Afterward, proceed with the service file installation:
 ```
 docker run -it --rm -v /etc/systemd/system:/target \
-   emby/emby-server:testing install_service
+   emby/emby-server:testing instl service
 ```
 If you installed the systemd service file, you can enable Emby server to automatically start when the system boots by executing the following command:
 ```
