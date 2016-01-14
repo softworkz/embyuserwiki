@@ -3,14 +3,14 @@
 We recommend you install directly from the [Docker Hub](hub.docker.com) by issuing the following command from within a terminal:
 ```
 docker run -it --rm -v /usr/local/bin:/target \
-    emby/emby-server:testing install_emby
+    emby/emby-server:testing instl
 ```
 
 Optionally, you can also install a systemd service file to control Emby server using systemctl.
 Before installing the systemd service file, you should specify which user you wish the deamon to run as. You can do this by reinstalling emby with the following command:
 ```
 docker run -it --rm -v /usr/local/bin:/target -e "APP_USER=username" \
-    emby/emby-server:testing install_emby
+    emby/emby-server:testing instl
 ```
 Above, change username to the name of the user you with to run the daemon as. Afterward, proceed with the service file installation:
 ```
