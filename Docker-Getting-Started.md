@@ -48,6 +48,11 @@ docker stop emby-server
 emby-server
 ```
 
+###unRAID:
+
+We officially now house our own templates. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby).
+Please navigate to your Docker settings page on your unRAID server's interface and under repositories add ```https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby```. For more information on adding templates to unRAID please visit the [unRAID forums](https://lime-technology.com/forum/).
+
 ### Technical information:
 Our new image and installation process setups Emby server to run with the permissions of the user executing `emby-server`. So, Emby's data is set to save within the user's home directory under the name `.emby-server`. 
 
