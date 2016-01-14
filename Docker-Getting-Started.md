@@ -52,8 +52,10 @@ emby-server
 Our new image and installation process setups Emby server to run with the permissions of the user executing `emby-server`. So, Emby's data is set to save within the user's home directory under the name `.emby-server`. 
 
 You may overwrite the default settings by passing the appropriate environment variable:
-* EMBYSERVER_USER - user name of the user to run emby as. 
-* EMBYSERVER_CONFIG - the directory which Emby should use to save metadata and configuration.
+* APP_USER - name of user to create within container for purposes of running emby-server, UID, GID are more important. 
+* USER_UID - UID assigned to APP_USER upon creation.
+* USER_GID - GID assigned to APP_USER upon creation. 
+* APP_CONFIG - the directory which Emby should use to save metadata and configuration.
 
 Please read Docker documentation on [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) for more information.
 
