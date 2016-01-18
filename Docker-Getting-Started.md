@@ -68,9 +68,20 @@ echo "0 2 * * * docker exec emby-server update" | sudo tee -a /var/spool/cron/cr
 On unRAID you can add the above line to your `go` file to have the container automatically update.
 
 ##unRAID:
+We officially now host our own templates on GitHub. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby).
 
-We officially now house our own templates. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby).
-Please navigate to your Docker settings page on your unRAID server's interface and under repositories add ```https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby```. For more information on adding templates to unRAID please visit the [unRAID forums](https://lime-technology.com/forum/).
+###Installtion:
+Please navigate to the Docker settings page on unRAID's Web-UI and under repositories add:
+```
+https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby
+```
+For more information on adding templates to unRAID please visit the [unRAID forums](https://lime-technology.com/forum/).
+
+##Rockstor:
+We officially host our [Rock-on App](https://github.com/MediaBrowser/Emby.Build/tree/master/rockstor-plugins/embyserver.json) on GitHub.
+
+###Installation:
+Upload our json file to `/opt/rockstor/rockons-metastore/` and hit update in the Web-UI and install our brand new Rock-On!
 
 ## Technical information:
 Our new image and installation process setups Emby server to run with the permissions of the user executing `emby-server`. So, Emby's data is set to save within the user's home directory under the name `.emby-server`. 
@@ -84,9 +95,9 @@ You may overwrite the default settings by passing the appropriate environment va
 Please read Docker documentation on [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) for more information.
 
 ###Supported Tags and Respective Dockerfile | links:
-* latest (latest/stable [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/stable/Dockerfile)
-* beta (beta [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/beta/Dockerfile)
-* dev (dev [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/dev/Dockerfile)
+* latest (latest/stable [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/stable/Dockerfile))
+* beta (beta [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/beta/Dockerfile))
+* dev (dev [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/dev/Dockerfile))
 
 ###Manual setup:
 Of course you can always run docker image manually. Please be aware that if you wish your data to remain persistent you need to provide a location for the `/config` volume. For example,
