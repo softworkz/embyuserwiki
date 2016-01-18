@@ -1,6 +1,4 @@
-##Description:
-Official Emby Server docker image.
-![Alt text](https://emby.media/wp-content/uploads/logowhite_1881.png "")
+![Alt text](http://i.imgur.com/MHQCm40.png "")
 ##Installation:
 
 ###[Docker Hub](https://hub.docker.com/r/emby/embyserver/):
@@ -84,6 +82,11 @@ You may overwrite the default settings by passing the appropriate environment va
 * APP_CONFIG - the directory which Emby should use to save metadata and configuration.
 
 Please read Docker documentation on [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) for more information.
+
+###Supported Tags and Respective Dockerfile | links:
+* latest (latest/stable [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/stable/Dockerfile)
+* beta (beta [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/beta/Dockerfile)
+* dev (dev [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/dev/Dockerfile)
 
 ###Manual setup:
 Of course you can always run docker image manually. Please be aware that if you wish your data to remain persistent you need to provide a location for the `/config` volume. For example,
