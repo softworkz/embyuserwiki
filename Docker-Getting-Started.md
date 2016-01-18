@@ -1,3 +1,6 @@
+##Description:
+Official Emby Server docker image.
+![Alt text](https://emby.media/wp-content/uploads/logowhite_1881.png "")
 ##Installation:
 
 ###[Docker Hub](https://hub.docker.com/r/emby/embyserver/):
