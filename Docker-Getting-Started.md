@@ -68,12 +68,12 @@ echo "0 2 * * * docker exec emby-server update" | sudo tee -a /var/spool/cron/cr
 On unRAID you can add the above line to your `go` file to have the container automatically update.
 
 ##unRAID:
-We officially now host our own templates on GitHub. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby).
+We officially now host our own templates on GitHub. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/).
 
 ###Installtion:
 Please navigate to the Docker settings page on unRAID's Web-UI and under repositories add:
 ```
-https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/Emby
+https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/
 ```
 For more information on adding templates to unRAID please visit the [unRAID forums](https://lime-technology.com/forum/).
 
