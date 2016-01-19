@@ -4,7 +4,6 @@
 ### [Docker Hub](https://hub.docker.com/r/emby/embyserver/):
 We recommend you install directly from the [Docker Hub](https://hub.docker.com/r/emby/embyserver/). Before starting the install procedure please verify the following prerequisites are fulfilled:
 * ensure the user running installation command can run docker
-* ensure that same user has a valid home directory
 
 Start the installation by issuing the following command from within a terminal:
 ```
@@ -12,13 +11,20 @@ docker run -it --rm -v /usr/local/bin:/target \
     emby/embyserver instl
 ```
 
-Optionally, you can also install a systemd service file to control Emby server using systemctl.
-Before installing the systemd service file, you should specify which user you wish the deamon to run as. You can do this by reinstalling emby with the following command:
+Optionally, you can also install a systemd service file. Before installing the systemd service file, you might want specify which user you wish the deamon to run as, specifically if it differs from the user running the installation. You can do this by reinstalling emby with the following command:
 ```
 docker run -it --rm -v /usr/local/bin:/target -e "APP_USER=username" \
     emby/embyserver instl
 ```
-Above, change username to the name of the user you with to run the daemon as. Afterward, proceed with the service file installation:
+
+If the user you specify does not have a valid home directory you will probably want to specify an alternate location for emby to store its library database, like so:
+```
+docker run -it --rm -v /usr/local/bin:/target \
+    -e "APP_USER=username" \
+    -e "APP_CONFIG=/var/lib/emby" \
+    emby/embyserver instl
+```
+Above, change the `username` to the name of the user you wish to run the daemon as, and adjust `/var/lib/emby` to wherever it is you wish to have emby store the media library database. Afterward, proceed with the service file installation:
 ```
 docker run -it --rm -v /etc/systemd/system:/target \
    emby/embyserver instl service
