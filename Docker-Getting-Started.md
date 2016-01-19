@@ -1,8 +1,12 @@
 ![Alt text](http://i.imgur.com/MHQCm40.png "")
-##Installation:
+## Installation:
 
-###[Docker Hub](https://hub.docker.com/r/emby/embyserver/):
-We recommend you install directly from the [Docker Hub](https://hub.docker.com/r/emby/embyserver/) by issuing the following command from within a terminal:
+### [Docker Hub](https://hub.docker.com/r/emby/embyserver/):
+We recommend you install directly from the [Docker Hub](https://hub.docker.com/r/emby/embyserver/). Before starting the install procedure please verify the following prerequisites are fulfilled:
+* ensure the user that emby-server will runas belongs to `docker` group
+* ensure that same user has a valid home directory
+
+Start the installation by issuing the following command from within a terminal:
 ```
 docker run -it --rm -v /usr/local/bin:/target \
     emby/embyserver instl
@@ -35,7 +39,7 @@ Additionally, you can install the systemd service file after executing the above
 ```
 make service
 ```
-##Set up:
+## Set up:
 
 Once Emby has been installed you can simply execute the binary from a terminal:
 ```
@@ -44,7 +48,7 @@ emby-server
 
 The first time you run the Emby server docker it will prompt you for the locations of your media files. Enter one location per line. This will ensure that the container gets access to the host's file system from within the containerized environment.
 
-##Updating:
+## Updating:
 If you have installed our systemd service file, you can simply update by executing the following command:
 ```
 systemctl restart emby-server.service
@@ -67,7 +71,7 @@ echo "0 2 * * * docker exec emby-server update" | sudo tee -a /var/spool/cron/cr
 ```
 On unRAID you can add the above line to your `go` file to have the container automatically update.
 
-##unRAID:
+## unRAID:
 We officially now host our own templates on GitHub. You can find them [here](https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/emby).
 
 ###Installtion:
@@ -77,10 +81,10 @@ https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/emby
 ```
 For more information on adding templates to unRAID please visit the [unRAID forums](https://lime-technology.com/forum/).
 
-##Rockstor:
+## Rockstor:
 We officially host our [Rock-on App](https://github.com/MediaBrowser/Emby.Build/tree/master/rockstor-plugins/embyserver.json) on GitHub.
 
-###Installation:
+### Installation:
 Upload our json file to `/opt/rockstor/rockons-metastore/` and hit update in the Web-UI and install our brand new Rock-On!
 
 ## Technical information:
@@ -94,19 +98,19 @@ You may overwrite the default settings by passing the appropriate environment va
 
 Please read Docker documentation on [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) for more information.
 
-###Supported Tags and Respective Dockerfile | links:
+### Supported Tags and Respective Dockerfile | links:
 * latest (latest/stable [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/stable/Dockerfile))
 * beta (beta [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/beta/Dockerfile))
 * dev (dev [Dockerfile](https://github.com/MediaBrowser/Emby.Build/blob/master/docker-containers/dev/Dockerfile))
 
-###Manual setup:
+### Manual setup:
 Of course you can always run docker image manually. Please be aware that if you wish your data to remain persistent you need to provide a location for the `/config` volume. For example,
 ```
 docker run -d -v /home/user/embydata:/config emby/embyserver
 ``` 
 All the information from above regarding user UID and GID still applies when executing a docker run command.
  
-##Migrating your data from an existing installation:
+## Migrating your data from an existing installation:
 Before proceeding please ensure you have made a backup of your emby data (i.e. ```tar cvf embydata.tar /var/lib/emby-server```). Additionally, please verify that you are mounting your emby data as described above. 
 
 In the following example we will demonstrate how to migrate your database using the default setting that emby is deployed with. By default on Linux distributions Emby Server keeps it's data in ```/var/lib/emby-server```, while the Docker container keeps it's data in ```/config```. That being said one could migrate their database as follows:
