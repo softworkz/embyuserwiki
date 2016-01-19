@@ -3,7 +3,7 @@
 
 ### [Docker Hub](https://hub.docker.com/r/emby/embyserver/):
 We recommend you install directly from the [Docker Hub](https://hub.docker.com/r/emby/embyserver/). Before starting the install procedure please verify the following prerequisites are fulfilled:
-* ensure the user that emby-server will runas belongs to `docker` group
+* ensure the user running installation command can run docker
 * ensure that same user has a valid home directory
 
 Start the installation by issuing the following command from within a terminal:
