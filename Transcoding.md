@@ -1,6 +1,6 @@
 Emby has the ability to convert your media during playback in order to make it compatible with all of your devices. This process is known as transcoding.
 
-In most cases, the server and the apps will automatically select the ideal settings to achieve smooth playback. In some cases though, you may choose to provide your own configuration in order to improve the playback experience.
+In most cases, the server and the apps will automatically select the ideal settings to achieve smooth playback. This is based on a variety of factors including network performance, media information, device capabilities, and various configuration settings. In some cases though, you may choose to provide your own configuration in order to improve the playback experience.
 
 ## App Settings
 
