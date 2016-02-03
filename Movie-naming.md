@@ -63,9 +63,9 @@ Examples:
 \Movies\Scarface (1983)\Disc 2\VIDEO_TS\VIDEO_TS.IFO
 ```
 
-## Multi-resolution movies
+## Multi-version movies
  
-Multiple resolutions of the same content can be stored in a single movie folder.
+Multiple versions of the same content can be stored in a single movie folder.
 
 ```
 /Movies
