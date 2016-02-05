@@ -31,11 +31,21 @@ In addition you can specify your own custom videos to be used with cinema mode. 
 
 ![](images/server/cinemamode5.png)
 
-## Fine Tuning
+## Custom Intros
 
-There are additional settings to allow you to personalize your Cinema Mode experience, such as dictating the number of trailers that will be played.
+In addition you can specify your own custom videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
 
-![](images/server/cinemamode4.png)
+![](images/server/cinemamode5.png)
+
+Important: Make sure to run a library scan after adding new intro files.
+
+## Codec Intros
+
+In addition you can specify your own custom videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
+
+![](images/server/cinemamode5.png)
+
+Important: Make sure to run a library scan after adding new intro files.
 
 Smart parental control will compare the ratings of trailers against the rating of the movie being played, and filter the trailers based on ratings of an equal or lower value. For example, you might be an adult watching The Goonies with your children. The Goonies is rated PG, so this setting will exclude any trailers with a higher rating than PG. Unrated trailers will also be excluded.
 
