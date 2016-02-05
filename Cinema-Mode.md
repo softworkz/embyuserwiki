@@ -47,9 +47,9 @@ The following fields are used to determine a match:
 Here are some examples:
 
 * Video has h264 video, intro file is named "h264.mp4"
-* Video has ac3 audio, intro file is named "ac3.mp4"
-* Video has DTS-HD MA audio profile, intro file is named "dts-hd ma.mp4"
-* You've added a tag to the video called "waffle", intro file is named "waffle.mp4".
+* Video has ac3 audio, intro file is named "ac3.mkv"
+* Video has DTS-HD MA audio profile, intro file is named "dts-hd ma.avi"
+* You've added a tag to the video called "waffle", intro file is named "waffle.mpg".
 
 Simply create a folder containing the videos, and enter the path in the codec intro field:
 
