@@ -46,10 +46,10 @@ The following fields are used to determine a match:
 
 Here are some examples:
 
-* Video has h264 video, intro file is named "h264.mp4"
-* Video has ac3 audio, intro file is named "ac3.mkv"
-* Video has DTS-HD MA audio profile, intro file is named "dts-hd ma.avi"
-* You've added a tag to the video called "waffle", intro file is named "waffle.mpg".
+* A movie has h264 video, intro file is named "h264.mp4"
+* A movie has ac3 audio, intro file is named "ac3.mkv"
+* A movie has DTS-HD MA audio profile, intro file is named "dts-hd ma.avi"
+* You've added a tag to a movie called "waffle", intro file is named "waffle.mpg".
 
 **Tip**: To review the media information for one of your videos, visit the detail screen in the web interface.
 
