@@ -39,9 +39,18 @@ In addition you can specify your own custom videos to be used with cinema mode. 
 
 Important: Make sure to run a library scan after adding new intro files.
 
-## Codec Intros
+## Media Info Intros
 
-In addition you can specify your own codec videos to be used with cinema mode. Simply create a folder containing the videos, and enter the path in the custom intro field:
+Media info intros allow you to create intros based on the media information of the main feature you are watching. For example, if you're watching a movie with AC3 audio, you can create an ac3 intro called ac3.mp4, and place this in your media info intro path.
+
+The following fields are used to determine a match:
+
+* Video Codec
+* Audio Codec
+* Audio Profile
+* Tags
+
+Simply create a folder containing the videos, and enter the path in the codec intro field:
 
 ![](images/server/cinemamode5.png)
 
