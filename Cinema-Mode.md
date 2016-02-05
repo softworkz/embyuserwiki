@@ -39,9 +39,9 @@ In addition you can specify your own custom videos to be used with cinema mode. 
 
 Important: Make sure to run a library scan after adding new intro files.
 
-## Media Info Intros
+## Codec Intros
 
-Media info intros allow you to create intros based on the media information of the main feature you are watching. For example, if you're watching a movie with AC3 audio, you can create an ac3 intro called ac3.mp4, and place this in your media info intro path.
+Codec intros allow you to create intros based on the media information of the main feature you are watching. For example, if you're watching a movie with AC3 audio, you can create an ac3 intro called ac3.mp4, and place this in your codec intro path.
 
 The following fields are used to determine a match:
 
@@ -49,6 +49,13 @@ The following fields are used to determine a match:
 * Audio Codec
 * Audio Profile
 * Tags
+
+Here are some examples:
+
+* Video has h264 video, intro file is named "h264.mp4"
+* Video has ac3 audio, intro file is named "ac3.mp4"
+* Video has DTS-HD MA audio profile, intro file is named "dts-hd ma.mp4"
+* You've added a tag to the video called "waffle", intro file is named "waffle.mp4".
 
 Simply create a folder containing the videos, and enter the path in the codec intro field:
 
