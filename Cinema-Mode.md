@@ -37,7 +37,7 @@ In addition you can specify your own custom videos to be used with cinema mode. 
 
 ![](images/server/cinemamode5.png)
 
-Important: Make sure to run a library scan after adding new intro files.
+**Important**: Make sure to run a library scan after adding new intro files.
 
 ## Codec Intros
 
@@ -61,7 +61,7 @@ Simply create a folder containing the videos, and enter the path in the codec in
 
 ![](images/server/cinemamode5.png)
 
-Important: Make sure to run a library scan after adding new intro files.
+**Important**: Make sure to run a library scan after adding new intro files.
 
 ## Parental Control
 
