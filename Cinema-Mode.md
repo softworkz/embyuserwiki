@@ -51,6 +51,8 @@ Here are some examples:
 * Video has DTS-HD MA audio profile, intro file is named "dts-hd ma.avi"
 * You've added a tag to the video called "waffle", intro file is named "waffle.mpg".
 
+**Tip**: To review the media information for one of your videos, visit the detail screen in the web interface.
+
 Simply create a folder containing the videos, and enter the path in the codec intro field:
 
 ![](images/server/cinemamode5.png)
