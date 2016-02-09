@@ -38,7 +38,7 @@ Or:
  \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
 ```
 
-### ISO
+### ISOs
 
 Emby Server has basic support for videos stored in ISO format. This includes the ability to catalog the ISO's within Emby Server, and play them in HTPC-based clients such as Emby for Kodi and Emby for Windows Media Center. Other apps will generally only be able to play them with the use of an external player.
 
