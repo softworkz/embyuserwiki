@@ -40,18 +40,14 @@ Or:
 
 ### ISO
 
-Dvd and Blu-ray folder structures are also supported. To be recognized as a dvd structure, the folder must contain either a VIDEO_TS subfolder, or a VIDEO_TS.ifo file. To be recognized as a blu-ray structure, the folder must contain a BDMV subfolder.
+Emby Server has basic support for videos stored in ISO format. This includes the ability to catalog the ISO's within Emby Server, and play them in HTPC-based clients such as Emby for Kodi and Emby for Windows Media Center. Other apps will generally only be able to play them with the use of an external player.
+
+ISOs should be named just like any other video file, with one minor difference. Including ".dvd" or ".bluray" within the file name will allow Emby Server to automatically determine what type of ISO it is. If this is not included, it will be assumed to be DVD.
 
 ```
-\Movies\Alien (1979)\VIDEO_TS.IFO
-\Movies\Léon (1994)\VIDEO_TS.IFO
-\Movies\Scarface (1983)\VIDEO_TS.IFO
-
-Or:
-
- \Movies\Alien (1979)\VIDEO_TS\VIDEO_TS.IFO
- \Movies\Léon (1994)\VIDEO_TS\VIDEO_TS.IFO
- \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
+\Movies\Alien (1979)\Alien (1979).dvd.iso
+\Movies\Léon (1994)\Léon (1994).bluray.iso
+\Movies\Scarface (1983)\Scarface (1983).iso
 ```
 
 ## Split video files (file stacking)
