@@ -38,6 +38,22 @@ Or:
  \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
 ```
 
+### ISO
+
+Dvd and Blu-ray folder structures are also supported. To be recognized as a dvd structure, the folder must contain either a VIDEO_TS subfolder, or a VIDEO_TS.ifo file. To be recognized as a blu-ray structure, the folder must contain a BDMV subfolder.
+
+```
+\Movies\Alien (1979)\VIDEO_TS.IFO
+\Movies\Léon (1994)\VIDEO_TS.IFO
+\Movies\Scarface (1983)\VIDEO_TS.IFO
+
+Or:
+
+ \Movies\Alien (1979)\VIDEO_TS\VIDEO_TS.IFO
+ \Movies\Léon (1994)\VIDEO_TS\VIDEO_TS.IFO
+ \Movies\Scarface (1983)\VIDEO_TS\VIDEO_TS.IFO
+```
+
 ## Split video files (file stacking)
 
 The following are default stacking extensions that can be added to file names. # can be 1 through 9 or A through D. Stacking is supported for video files as well as dvd and blu-ray folder structures.
