@@ -13,7 +13,7 @@ Then select the 3D format:
 
 ## Identify using video file name flags
 
-In order to properly detect 3D, two tags need to be present in the filename. First, a '3D' tag has to be present. Second, one of the following must also be present, hsbs, fsbs, sbs, htab, ftab.
+In order to properly detect 3D, two tags need to be present in the filename. First, a '3D' tag has to be present. Second, one of the following must also be present, hsbs, fsbs, sbs, htab, ftab, or mvc.
 
 Tags need be be surrounded be either a space ( ), hyphen -, dot . or underscore _. Tags are case-insensitive, so both 3d and 3D will work.
 
@@ -23,6 +23,7 @@ Examples:
 * moviename 3d sbs.mkv
 * moviename.3D-HTAB.mkv
 * moviename-3D.sbs-720p.mkv
+* moviename-3D.mvc.mkv
 
 ## Identify using older conventions
 
