@@ -21,13 +21,3 @@ If PIDs differ restart was successful. Otherwise, check the following:
 
 If PIDs differ restart worked.
 
-### Will you support Intel QSV on Linux:
-Intel QSV on Linux is not widely supported. Yes, Intel has made the media sdk opensource, but it is only available for specific distros and kerenls. It would not be fruitful at this time for the Emby development team to dedicate any time on getting QSV working on Linux. Once Intel's media sdk is widely available the decision will be revisited. 
-
-### What distros and kernel version are supported by Intel QSV:
-At the time of writing, Intel officially supports QSV on [SLES 12 and Centos 7.1](https://software.intel.com/en-us/intel-mediasdk-supported-versions-server).
-
-### If I want Intel QSV no matter what, what can I do:
-Follow the guidelines from [Intel](https://software.intel.com/sites/default/files/media_server_studio_getting_started_guide.pdf) on installing the media sdk on one of the supported platforms. Then follow the [ffmpeg compiling guide](https://github.com/drocon11/ffmpeg-qsv) to enable QSV.
-
-### I can not add media:
