@@ -16,7 +16,7 @@ If PIDs differ restart was successful. Otherwise, check the following:
 
 1. ```ls -la /usr/lib/restart.sh``` - ensure it is executable.
 2. ```ps -aux | grep emby``` - Take note of PID
-3. ```su - emby -c "/usr/lib/emby-server/restart.sh"``` - if you are running emby-server as another user other than emby, please adjust command appropriately.
+3. ```sudo -u emby /usr/lib/emby-server/restart.sh``` - if you are running emby-server as another user other than emby, please adjust command appropriately.
 4. ```ps -aux | grep emby``` - Take note of PID
 
 If PIDs differ restart worked.
