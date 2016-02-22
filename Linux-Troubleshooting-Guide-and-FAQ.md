@@ -14,7 +14,7 @@ Emby on Linux does not have the built-in capability to restart itself. So to res
 
 If PIDs differ restart was successful. Otherwise, check the following:
 
-1. ```ls -la /usr/lib/restart.sh``` - ensure it is executable.
+1. ```ls -la /usr/lib/emby-server/restart.sh``` - ensure it is executable.
 2. ```ps -aux | grep emby``` - Take note of PID
 3. ```sudo -u emby /usr/lib/emby-server/restart.sh``` - if you are running emby-server as another user other than emby, please adjust command appropriately.
 4. ```ps -aux | grep emby``` - Take note of PID
