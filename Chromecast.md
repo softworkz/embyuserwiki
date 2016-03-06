@@ -1,7 +1,6 @@
 Emby supports casting to Chromecast in the following apps:
 
 - [Android Mobile (Google Play)](https://play.google.com/store/apps/details?id=com.mb.android "Android Mobile (Play Store)")
-- [Android Mobile (Amazon)](http://www.amazon.com/Emby-Mobile/dp/B017OSA1QS "Android Mobile (Amazon)")
 - [iPad](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPad")
 - [iPhone](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPhone")
 - [Web App (Chrome only)](http://app.emby.media)
