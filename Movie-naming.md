@@ -92,7 +92,7 @@ Alternatively they can be grouped together manually using the server's web inter
 
 ## Movie extras
 
-Special features for movies can be stored in an extras folder under movie folders. Nested folders are not supported.
+Special features for movies can be stored as video files in an extras folder under movie folders. Nested folders are not supported. 
  
 ```
 /Movies
