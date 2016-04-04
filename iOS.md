@@ -4,7 +4,7 @@ Emby for iPhone and iPad can handle just about any type of media thanks to [Emby
 
 # Setup Guide
 
-Coming soon.
+Install the app using one of the above methods, then use the startup wizard to connect to your Emby Server.
 
 # Direct Play Media Formats
 
