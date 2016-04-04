@@ -1,12 +1,13 @@
 Emby for Android Mobile is available in multiple ways:
 * [Amazon App Store](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.mb.android)
+* [APK Download](http://emby.media/emby-for-android-mobile.html)
 
 Emby for Android Mobile can handle just about any type of media thanks to [Emby Server transcoding](Transcoding). If you would like to learn how to prepare your media for Direct Play, read below.
 
 # Setup Guide
 
-Coming soon.
+Install the app using one of the above methods, then use the startup wizard to connect to your Emby Server.
 
 # Direct Play Media Formats
 
