@@ -60,6 +60,7 @@
 * [Dlna profiles](Dlna profiles)
 
 ### Emby Apps
+* [Apple TV](Apple TV)
 * [Amazon Fire TV](Fire TV)
 * [Android Mobile](Android Mobile)
 * [Android TV](Android TV)
