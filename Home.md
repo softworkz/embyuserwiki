@@ -28,6 +28,7 @@ In addition to what's displayed here, the [community knowledge base](http://emby
 - [Android Mobile (Amazon)](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I "Android Mobile (Amazon)")
 - [Android TV](https://play.google.com/store/apps/details?id=tv.emby.embyatv "Android TV")
 - [Amazon Fire TV](http://www.amazon.com/Emby-for-Fire-TV/dp/B00VVJKTW8 "Amazon Fire TV")
+- [Apple TV](http://emby.media/emby-for-appletv.html "Apple TV")
 - [iPad](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPad")
 - [iPhone](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPhone")
 - [Kodi](http://emby.media/download/ "Kodi")
