@@ -9,7 +9,9 @@ Install the app using one of the above methods, the app will then automatically 
 ## Direct Play Media Formats
 Video — m4v,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,mp4,webm 
 Subtitles - srt,vobsub,ssa,ass,sub,vtt
-Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus
+Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital)*, DTS*
+
+* - Android version 6.0+
 ##Best Practices for Direct Play
 Ensure your media meets the above criteria.
 
