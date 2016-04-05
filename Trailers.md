@@ -1,4 +1,4 @@
-For movies and games, trailers can be stored in the same folder as the media and named identically with a -trailer suffix.
+For video files and games, trailers can be stored in the same folder as the media and named identically with a -trailer suffix.
 
 ```
 /Movies
@@ -7,12 +7,12 @@ For movies and games, trailers can be stored in the same folder as the media and
      Home Alone-trailer.mp4
 ```
 
-Alternatively, trailers can also be stored in a trailers sub-folder.
+Alternatively, trailers can also be stored in a trailers sub-folder. Bluray and Dvd folder rip structures must use a trailers sub-folder.
 
 ```
 /Movies
    /Home Alone (1990)
-     Home Alone (1990).mkv
+     /VIDEO_TS
      /trailers
          trailer.mkv
 ```
