@@ -83,7 +83,7 @@ Multiple versions of the same content can be stored in a single movie folder.
 /Movies
   /300
     /300 - 1080p.mkv
-    /300 - 720p.mkv
+    /300 - 720p.mp4
 ```
 
 Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. 
