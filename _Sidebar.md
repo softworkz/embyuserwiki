@@ -33,10 +33,6 @@
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
 
-### Library
-
-* [Collections](Collections)
-
 ### Users
 
 * [Users](Users)
@@ -46,6 +42,10 @@
 * [Content access](Content Access)
 * [Device access](Device Access)
 * [Emby Connect](Emby Connect)
+
+### Library
+
+* [Collections](Collections)
 
 ### Sync
 * [Sync](Sync)
