@@ -4,7 +4,7 @@ Users are managed within the server dashboard by navigating to **Users**. The pa
 
 ## Local Users
 
-Local users are displayed under the user heading. These are users that you've created in the server dashboard.
+Local users are displayed under the user heading. These are users that you've created in the server dashboard, and are privately managed within your personal Emby Server.
 
 ![](images/server/users1.png)
 
