@@ -33,6 +33,10 @@
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
 
+### Library
+
+* [Collections](Collections)
+
 ### Users
 
 * [Users](Users)
