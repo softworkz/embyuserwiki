@@ -25,6 +25,7 @@
 * [Camera upload](Camera upload)
 * [Channels](Channels)
 * [Cinema mode](Cinema-Mode)
+* [Collections](Collections)
 * [Devices](Devices)
 * [Hosting settings](Hosting Settings)
 * [Live TV](Live TV)
@@ -42,10 +43,6 @@
 * [Content access](Content Access)
 * [Device access](Device Access)
 * [Emby Connect](Emby Connect)
-
-### Library
-
-* [Collections](Collections)
 
 ### Sync
 * [Sync](Sync)
