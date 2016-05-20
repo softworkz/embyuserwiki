@@ -6,6 +6,8 @@ Users are managed within the server dashboard by navigating to **Users**. The pa
 
 Local users are displayed under the user heading. These are users that you've created in the server dashboard, and are privately managed within your personal Emby Server.
 
+The Emby Server setup wizard will create a user with administrative access. This screen allows administrators to add, edit and remove additional users.
+
 ![](images/server/users1.png)
 
 A local user will be displayed with a cloud if it is linked to [Emby Connect](Emby Connect). 
