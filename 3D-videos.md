@@ -45,3 +45,7 @@ For example:
    /Home Alone (1990)
      Home Alone [fsbs].mkv
 ```
+
+## Multiple Versions
+
+3D can even be combined with the multi-version video support discussed in the Movie Naming article.
