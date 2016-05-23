@@ -48,4 +48,14 @@ For example:
 
 ## Multiple Versions
 
-3D can even be combined with the multi-version video support discussed in the Movie Naming article.
+3D can even be combined with the multi-version video support discussed in the [Movie Naming](Movie naming) article.
+
+Here's an example of a movie containing multiple versions in a single movie folder, some 3D and others 2D:
+
+/Movies
+  /300
+    /300 - 1080p.mkv
+    /300 - 720p.mp4
+    /300 - 3d-hsbs.mp4
+    /300 - 3d.hsbs.mp4
+```
