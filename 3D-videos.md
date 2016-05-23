@@ -59,5 +59,6 @@ Here's an example of a movie containing multiple versions in a single movie fold
     /300 - 720p.mp4
     /300 - 3d-hsbs.mp4
     /300 - 3d.hsbs.mp4
+    /300 - 3d.mvc.mp4
 
 ```
