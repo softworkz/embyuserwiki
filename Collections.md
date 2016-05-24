@@ -1,4 +1,4 @@
-Collections are personalized groupings of library content, generally movies. 
+Collections are personalized groupings of library content. Collections are generally used to group movies together but can also be used for TV Series and other library content.
 
 ## How to Create a Collection
 
