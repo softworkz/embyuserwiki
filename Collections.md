@@ -18,14 +18,22 @@ When creating a new collection, you can also enable searching the internet for a
 
 An example name of a Collection is "Star Wars Collection".
 
+## Browsing Collections
+
+.
+
 ## Adding Items to a Collection
 
-.
+To add individual items to a collection, use the method discussed above. If you'd like to add multiple items at once, you can do this with the multi-select tool.
+
+To use the multi-select tool, simply click and hold on any poster (or tap and hold). When the multi-select menu appears, use the checkboxes to select the items you'd like to add.
+
+- image
+
+Finally, select to "Add to Collection" within the mutli-select action menu.
+
+- image
 
 ## Removing Items from a Collection
-
-.
-
-## Browsing Collections
 
 .
