@@ -34,6 +34,8 @@ Finally, select to "Add to Collection" within the mutli-select action menu.
 
 ![](images/server/collections4.png)
 
+**Tip**: The multi-select tool can also be used within search results.
+
 ## Removing Items from a Collection
 
 To remove an item from a collection, first browse to the detail screen for that collection. Each item in the collection will have a 3-dot menu. 
