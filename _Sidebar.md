@@ -66,6 +66,7 @@
 * [Android Mobile](Android Mobile)
 * [Android TV](Android TV)
 * [Chromecast](Chromecast)
+* [Emby Theater for Windows](Emby Theater for Windows)
 * [iOS](iOS)
 * [Roku](Roku)
 * [Web Client](Web Client)
