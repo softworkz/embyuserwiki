@@ -24,7 +24,12 @@ Collections are typically used for movies, and Emby apps have sections for Colle
 
 If you would like to your Emby library to display a dedicated Collections menu, this can be enabled in user preferences.
 
-Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can also be enabled in user preferences.
+Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can also be enabled in user preferences. To access user preferences, click your user icon in the main menu:
+![](images/server/userpreferences1.png)
+
+Then select Display Settings:
+
+![](images/server/userpreferences2.png)
 
 As an example, suppose you have a Star Wars Collection, and you have all 7 Star Wars movies. When browsing your movie list, by default you'll see all 7 titles. If instead you'd just like to see the Collection in place of all 7 movies, this can be enabled using the collection grouping setting.
 
