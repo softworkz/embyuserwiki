@@ -28,11 +28,11 @@ To add individual items to a collection, use the method discussed above. If you'
 
 To use the multi-select tool, simply click and hold on any poster (or tap and hold). When the multi-select menu appears, use the checkboxes to select the items you'd like to add.
 
-- image
+![](images/server/collections3.png)
 
 Finally, select to "Add to Collection" within the mutli-select action menu.
 
-- image
+![](images/server/collections4.png)
 
 ## Removing Items from a Collection
 
