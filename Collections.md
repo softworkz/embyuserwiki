@@ -8,11 +8,11 @@ To create a collection, start with a Movie, Series, or any other item in your Em
 * Use the 3-Dot menu on the detail screen
 * Mouse over the poster and use the 3-Dot menu
 
-- image
+![](images/server/collections1.png)
 
 When the context menu appears, select "Add to Collection". You'll then be presented with a popup where you can add the item to an existing collection, or create a new one.
 
-- image
+![](images/server/collections2.png)
 
 When creating a new collection, you can also enable searching the internet for artwork related to that collection. TheMovieDb.Org has artwork for Movie Collections, and if you give your collections the same name, then Emby server can automatically download Collection artwork.
 
@@ -40,4 +40,4 @@ To remove an item from a collection, first browse to the detail screen for that 
 
 To remove an item, click the 3-dot menu, then select "Remove from Collection".
 
-- image
+![](images/server/collections5.png)
