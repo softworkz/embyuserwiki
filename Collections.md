@@ -18,7 +18,11 @@ When creating a new collection, you can also enable searching the internet for a
 
 An example name of a Collection is "Star Wars Collection".
 
-## Adding and Removing Items
+## Adding Items to a Collection
+
+.
+
+## Removing Items from a Collection
 
 .
 
