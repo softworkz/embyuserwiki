@@ -36,4 +36,8 @@ Finally, select to "Add to Collection" within the mutli-select action menu.
 
 ## Removing Items from a Collection
 
-.
+To remove an item from a collection, first browse to the detail screen for that collection. Each item in the collection will have a 3-dot menu. 
+
+To remove an item, click the 3-dot menu, then select "Remove from Collection".
+
+- image
