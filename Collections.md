@@ -1,5 +1,13 @@
 Collections are personalized groupings of library content, generally movies. 
 
-# How to Create a Collection
+### How to Create a Collection
+
+.
+
+### Adding and Removing Items
+
+.
+
+### Browsing Collections
 
 .
