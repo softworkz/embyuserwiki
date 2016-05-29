@@ -1,11 +1,14 @@
 The Emby Web Client is the main interface between you and your Emby Server, it is from this web interface you can edit all your server settings, share content with friends and view media content. All these features are documented navigation to your right. 
 
 # Setup Guide
-• Emby Web Client is installed for you and configured with default settings during installation of your Emby Server to access it all you need to do it go to: http://{your server ip}:8086.
-• During first setup it is recommended that you sign up for Emby Connect to enable you to access your server from anywhere.  
+Emby Web Client is installed for you and configured with default settings during installation of your Emby Server to access it all you need to do it go to: http://{your server ip}:8086.
+
+During first setup it is recommended that you sign up for Emby Connect to enable you to access your server from anywhere.  
 
 # Server Management
-Emby Web interface is an convenient place to manage all aspects of your Emby Server, be it library, users or Plugins it a one stop    for everything. Mangment features are only available to users who are tagged as server administers and can be accessed from to top    left hand menu and ”Manage Server”.   
+The Emby Web interface is a convenient place to manage all aspects of your Emby Server, be it library, users or Plugins it a one stop for everything. 
+
+Mangment features are only available to users who are tagged as server administers and can be accessed from to top    left hand menu and ”Manage Server”.   
 
 # Media Player
 From Emby Web Client you can both view media directly in your browser or you can remote control any active Emby Client. This includes Emby Theater for Windows or the Emby app for either Android or iOS. 
