@@ -8,8 +8,6 @@ To access it just open a web browser and visit: http://{your server ip}:8086.
 # Server Management
 The Emby Web App is a convenient place to manage all aspects of your Emby Server, including the [Library](Library Setup), [Users](Users), [Dlna](Dlna Server), [Plugins](Plugins), and more.
 
-Mangment features are only available to users who are tagged as server administers and can be accessed from to top    left hand menu and ”Manage Server”.   
-
 # Media Player
 From Emby Web Client you can both view media directly in your browser or you can remote control any active Emby Client. This includes Emby Theater for Windows or the Emby app for either Android or iOS. 
 
@@ -17,7 +15,7 @@ The app supports casting to Chromecast devices. To connect to your Chromecast de
 Once connected, any content you play will be sent to the Chromecast device. You're able to play individual files, entire folders, shuffle, instant mix, queue, and more. For more information, see Chromecast.
 
 # Direct Play Media Formats
-Direct Play highly dependent your browser codec support, please refer to your browser documentation for codec support. 
+The Emby Web app can direct play media to your browser when the browser supports the format natively. Please check your web browser of choice for it's supported media formats.
 
 # Best Practices for Direct Play
 Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
