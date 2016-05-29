@@ -6,7 +6,7 @@ The Emby Web App is included with your installation of Emby Server.
 To access it just open a web browser and visit: http://{your server ip}:8086.  
 
 # Server Management
-The Emby Web App is a convenient place to manage all aspects of your Emby Server, including the Library, [Users](Users), Dlna, [Plugins](Plugins), and more.
+The Emby Web App is a convenient place to manage all aspects of your Emby Server, including the [Library](Library Setup), [Users](Users), [Dlna](Dlna Server), [Plugins](Plugins), and more.
 
 Mangment features are only available to users who are tagged as server administers and can be accessed from to top    left hand menu and ”Manage Server”.   
 
