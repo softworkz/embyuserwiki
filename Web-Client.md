@@ -1,5 +1,4 @@
-# Emby Web Client
-Emby Web Client is main interface between you and your Emby Server, it is from this web interface you can edit all your server settings, share content with friends and view media content. All these features are documented navigation to your right. 
+The Emby Web Client is the main interface between you and your Emby Server, it is from this web interface you can edit all your server settings, share content with friends and view media content. All these features are documented navigation to your right. 
 
 # Setup Guide
 •	Emby Web Client is installed for you and configured with default settings during installation of your Emby Server to access it all you need to do it go to: http://{your server ip}:8086.
