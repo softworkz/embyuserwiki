@@ -12,6 +12,8 @@ Install the app using one of the above methods, then use the startup wizard to c
 * Subtitles - SRT and other text-based formats
 * Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,flac
 
+In many cases, even when direct play is not possible, a simple audio-only conversion can be performed without having to convert the video. 
+
 # Best Practices for Direct Play
 
 * Ensure your media meets the above criteria.
