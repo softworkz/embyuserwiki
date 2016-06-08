@@ -8,13 +8,21 @@ The recommended folder structure for music is Artist\Album\Song
           2- Song.mp3
 ```
 
-This is not a requirement and other structures will also work, but this is the most common method. Other supported structures are Album\Song:
+This is not a requirement and other structures will also work, but this is the most common method. Some other examples of supported structures are Album\Song:
 
 ```
  \Music
     \Album Name
           1- Song.mp3
           2- Song.mp3
+```
+
+Or even a flat library of song files:
+
+```
+ \Music
+    1- Song.mp3
+    2- Song.mp3
 ```
 
 Any naming convention for audio files is acceptable. Track numbers are retrieved using embedded ID3 tag information. 
