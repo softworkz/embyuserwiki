@@ -9,7 +9,7 @@ Emby Theater for Windows is a Windows Modern app, built for Windows 7, 8 and 10 
  Install the app using one of the above methods, the app will then automatically find your local Emby Server(s). If it cannot find your server or you are attempting to connect to a remote server, the app will present you with options to connect manually or use Emby Connect.
 
 # Direct Play Media Formats
-Direct Play highly dependent on your Windows system. Most formats are supported in newer versions of Windows, if not natively supported they are usually just a codec away.
+Emby Theater can direct play a wide range of media formats thanks to Windows broad codec support.
 
 # Best Practices for Direct Play
 Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
