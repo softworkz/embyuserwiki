@@ -9,6 +9,17 @@ All video files can have external subtitles. The file name must match the video 
       Home Alone.spanish.srt
 ```
 
+## Default Subtitles
+
+External subtitles can be marked as default using either ".default".
+```
+/Movies
+   /Home Alone (1990)
+      Home Alone.mkv
+      Home Alone.srt
+      Home Alone.spa.default.srt
+```
+
 ## Forced Subtitles
 
 External subtitles can be marked as forced using either ".forced" or ".foreign".
