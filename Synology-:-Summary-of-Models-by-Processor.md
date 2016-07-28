@@ -1,5 +1,3 @@
-# Testing
-
 ## Intel 
 
 __x86-64__
