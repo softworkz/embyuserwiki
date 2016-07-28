@@ -1,5 +1,3 @@
-## Synology : How to Send us Support Logs
-
 If requested by support to send your log files, you can do so by following this procedure:-
 
 * SSH to your Synology NAS and login as 'admin'.
