@@ -1,5 +1,3 @@
-## Synology : A Few Important Points to Consider
-
 * SSH access to your NAS is not required for normal installation or use of Emby Server.
 
 * We will never ask you to login to your NAS as 'root' via SSH.
