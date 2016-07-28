@@ -1,6 +1,4 @@
-## Synology : Summary of Models by Processor
-
-### Intel 
+## Intel 
 
 __x86-64__
 
