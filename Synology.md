@@ -10,3 +10,5 @@
 
 * [How to Run Diagnostics](Synology-How-to-Run-Diagnostics)
 
+* [Notes on Package Updates](Synology-Notes-on-Package-Updates)
+
