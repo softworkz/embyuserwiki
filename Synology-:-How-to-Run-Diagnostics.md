@@ -1,5 +1,3 @@
-## Synology : How to Run Diagnostics
-
 If requested by support to run diagnostics, you can do so by following this procedure:-
 
 * SSH to your Synology NAS and login as 'admin'.
