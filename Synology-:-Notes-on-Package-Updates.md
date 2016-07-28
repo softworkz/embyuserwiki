@@ -1,5 +1,3 @@
-## Synology : Notes on Package Updates
-
 When an update to Emby Server becomes available, it will be published as an update via DSM's Package Center. All updates are fully self-contained and can be applied by simply clicking on the '_Update_' button. Details of the changes contained in the update will be displayed under the '_What's New_' section.
 
 ![Synology : Example Package Update Screen](images/synology/Synology-Notes-on-Package-Updates-Example-Screen.png "Synology : Example Package Update Screen")
