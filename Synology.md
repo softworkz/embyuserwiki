@@ -2,7 +2,7 @@
 
 ![Synology: Help and Support](images/synology/Synology-Help-and-Support-Masthead.png "Synology: Help and Support")
 
-* [Summary of Models by Processor](wiki/Synology-:-Summary-of-Models-by-Processor)
+* [Summary of Models by Processor](wiki/Synology : Summary of Models by Processor)
 
 * [Setting Up Your Media Library Share](Synology-:-Setting-Up-Your-Media-Library-Share)
 
