@@ -22,7 +22,7 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS214play
 
-### Marvell
+## Marvell
 
 &nbsp;&nbsp;__Armada 38x__
 
@@ -62,13 +62,13 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x07__ : DS107+ DS207+ CS407 RS407
 
-### ST Microelectronics
+## ST Microelectronics
 
 &nbsp;&nbsp;__STiH412__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x16__ : DS216play 
 
-### Annapurna Labs
+## Annapurna Labs
 
 &nbsp;&nbsp;__Alpine AL-212__
 
@@ -80,13 +80,13 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x15__ : DS715 DS1515 DS2015xs
 
-### MindSpeed 
+## MindSpeed 
 
 &nbsp;&nbsp;__Comcerto 2000__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS414j
 
-### Freescale
+## Freescale
 
 &nbsp;&nbsp;__QorIQ P1022__
 
