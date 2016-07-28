@@ -1,5 +1,3 @@
-## Synology : Setting Up Your Media Library Share
-
 The media library is a key component of your Emby Server setup, the following is a step-by-step guide for a reference setup.
 
 _However you decide to setup your library, making sure Emby Server has read/write access to it, is critical._
