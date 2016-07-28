@@ -1,5 +1,3 @@
-## Synology: Help and Support
-
 ![Synology: Help and Support](images/synology/Synology-Help-and-Support-Masthead.png "Synology: Help and Support")
 
 * [Summary of Models by Processor](../wiki/Synology-:-Summary-of-Models-by-Processor)
