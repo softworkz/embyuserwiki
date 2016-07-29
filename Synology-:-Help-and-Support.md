@@ -12,3 +12,5 @@
 
 * [Notes on Package Updates](../wiki/Synology-:-Notes-on-Package-Updates)
 
+* [Accessing Beta and Development Releases](../wiki/Synology-:-Accessing-Beta-and-Development-Releases)
+
