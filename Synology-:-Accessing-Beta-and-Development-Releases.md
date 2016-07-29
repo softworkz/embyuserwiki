@@ -6,7 +6,7 @@ __NOTE: Only install beta versions if you are participating in the development o
 
 * If you want to access the beta package repository, please send me a PM @solabc16. This repository contains both stable and beta releases, to see the beta releases you will still need to tick the 'Yes, I want to see beta versions!' in Package Center's settings. Once you have installed a beta release, you will need to wait until a stable release with the same or higher number version becomes available, before you can switch back to a stable release.
 
-* The reason for not making the beta releases via the default package source is as follows:-
+The reason for not making the beta releases via the default package source is as follows:-
 
 `Package Center's handling of beta channels is at best limited, which has been a long standing concern with regard to introducing beta and/or dev releases of Emby Server via this mechanism. The worst scenario for us, is 'end users' (i.e. not testers or developers) accidently installing or updating to a dev or beta release and suffering a poor experience as a result.`
  
