@@ -1,4 +1,4 @@
-__NOTE: Only install beta versions if you are participating in the development or test communities for Emby Server, if you are a regular user stick with the stable releases!__
+__NOTE: Only install beta versions if you are participating in the development or test communities for Emby Server, if you are a regular user stick with the stable releases! We appreciate you being a part of the test team, however we make no promises of stability if you choose to use beta releases in your production environment.__
 
 --------
 
