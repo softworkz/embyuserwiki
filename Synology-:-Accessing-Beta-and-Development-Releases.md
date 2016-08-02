@@ -4,9 +4,13 @@ __NOTE: Only install beta versions if you are participating in the development o
 
 ![Synology: Accessing Beta and Development Releases](images/synology/Synology-Accessing-Beta-and-Development-Releases-Masthead.png "Synology: Accessing Beta and Development Releases")
 
+Details:-
+
 * We currently have full Synology package support for beta releases of Emby Server, which are made available through a dedicated repository. The framework is in place to support development releases, but Mono development builds are not available at this time.
 
-* If you want to access the beta package repository, please send me a PM @solabc16. This repository contains both stable and beta releases, to see the beta releases you will still need to tick the 'Yes, I want to see beta versions!' in Package Center's settings. Once you have installed a beta release, you will need to wait until a stable release with the same or higher number version becomes available, before you can switch back to a stable release.
+* If you want to access the beta package repository, please send me a PM @solabc16. This repository contains both stable and beta releases, to see the beta releases you will still need to tick the 'Yes, I want to see beta versions!' in Package Center's settings.
+
+* Once you have installed a beta release, you will need to wait for a stable release with a version number that is the same or higher than the beta you have installed, before you can switch back to a stable release.
 
 The reason for not making the beta releases via the default package source is as follows:-
 
