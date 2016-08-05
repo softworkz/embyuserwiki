@@ -114,7 +114,7 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x01__ : DS-101g+
 
-[Back to Synology : Help and Support](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
 
 
 
