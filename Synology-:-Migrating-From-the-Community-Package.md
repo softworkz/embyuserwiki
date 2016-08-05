@@ -13,11 +13,13 @@ __Step 2:__ The 'embysvr' user that is created as part of the package installati
 _Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions_
 
 e.g.
+
 ![Step 2a](images/synology/Synology-Migrating-From-the-Community-Package-Step2a.png "Synology : Migrating From the Community Package - Step 2a")
 
 _Control Panel -> User -> 'embysvr' -> Edit -> Permissions_
 
 e.g.
+
 ![Step 2b](images/synology/Synology-Migrating-From-the-Community-Package-Step2b.png "Synology : Migrating From the Community Package - Step 2b")
 
 __Step 3:__ Run the migration utility using the following commands...
@@ -29,4 +31,5 @@ __Step 3:__ Run the migration utility using the following commands...
 * Run the package migration utility, using 'sudo ./pkgmigrate'.
 
 e.g.
+
 ![Step 3](images/synology/Synology-Migrating-From-the-Community-Package-Step3.png "Synology : Migrating From the Community Package - Step 3")
