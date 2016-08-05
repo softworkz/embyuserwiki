@@ -45,3 +45,5 @@ __Step 9 :__ You should now be able to browse your media in Metadata Manager, yo
 __Step 10 :__ The end result, your media displayed in the client application and ready to go. _(in this case the Web UI, with CoverArt applied)_
 
 ![Step 10](images/synology/Synology-Setting-Up-Your-Media-Library-Share-Step-10.png "Synology : Setting Up Your Media Library Share - Step 10")
+
+[Back to Synology : Help and Support](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
