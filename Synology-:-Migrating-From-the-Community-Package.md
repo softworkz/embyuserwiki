@@ -10,11 +10,11 @@ __Step 1:__ Make sure you have the Emby package for Synology successfully instal
 
 __Step 2:__ The 'embysvr' user that is created as part of the package installation __must__ be granted read/write (R/W) access to the libraries you currently have configured in the community package installation of Emby Server. You can do this in DSM from a couple of places:-
 
-Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions
+&nbsp;&nbsp;&nbsp;&nbsp;_Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions_
 
-Control Panel -> User -> 'embysvr' -> Edit -> Permissions
+&nbsp;&nbsp;&nbsp;&nbsp;_Control Panel -> User -> 'embysvr' -> Edit -> Permissions_
 
-__Step 3:__ Run the migration utility using the following commands
+__Step 3:__ Run the migration utility using the following commands...
 
 * SSH to your Synology NAS and login as 'admin'.
 
