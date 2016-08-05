@@ -2,6 +2,8 @@ The new Emby Server package for Synology includes a migration utility, this util
 
 __Note:__ The new package is entirely self contained and can be safely installed alongside the community package.
 
+--------
+
 To migrate your configuration, follow the three steps below:-
 
 __Step 1:__ Make sure you have the Emby package for Synology successfully installed and running. You do not need to complete the initial setup wizard, but it doesn't matter if you have already done this. If you need them, the instructions for installing the package can be found under the Synology section [here](https://emby.media/nas-server.html).
