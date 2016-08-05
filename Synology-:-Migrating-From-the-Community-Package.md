@@ -8,7 +8,7 @@ To migrate your configuration, follow the three steps below:-
 
 __Step 1:__ Make sure you have the Emby package for Synology successfully installed and running. You do not need to complete the initial setup wizard, but it doesn't matter if you have already done this. If you need them, the instructions for installing the package can be found under the Synology section [here](https://emby.media/nas-server.html).
 
-__Step 2:__ The 'embysvr' user that is created as part of the package installation __must__ be granted read/write (R/W) access to the libraries you currently have configured in the community package for Emby Server. You can do this in DSM from a couple of places:-
+__Step 2:__ The 'embysvr' user that is created as part of the package installation __must__ be granted read/write (R/W) access to the libraries you currently have configured in the community package installation of Emby Server. You can do this in DSM from a couple of places:-
 
 Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions
 
