@@ -10,13 +10,15 @@ __Step 1:__ Make sure you have the Emby package for Synology successfully instal
 
 __Step 2:__ The 'embysvr' user that is created as part of the package installation __must__ be granted read/write (R/W) access to the libraries you currently have configured in the community package installation of Emby Server. You can do this in DSM from a couple of places:-
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions_
+_Control Panel -> Shared Folder -> 'your folder' -> Edit -> Permissions_
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Step 2a](images/synology/Synology-Migrating-From-the-Community-Package-Step2a.png "Synology : Migrating From the Community Package - Step 2a")
+e.g.
+![Step 2a](images/synology/Synology-Migrating-From-the-Community-Package-Step2a.png "Synology : Migrating From the Community Package - Step 2a")
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Control Panel -> User -> 'embysvr' -> Edit -> Permissions_
+_Control Panel -> User -> 'embysvr' -> Edit -> Permissions_
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Step 2b](images/synology/Synology-Migrating-From-the-Community-Package-Step2b.png "Synology : Migrating From the Community Package - Step 2b")
+e.g.
+![Step 2b](images/synology/Synology-Migrating-From-the-Community-Package-Step2b.png "Synology : Migrating From the Community Package - Step 2b")
 
 __Step 3:__ Run the migration utility using the following commands...
 
@@ -26,4 +28,5 @@ __Step 3:__ Run the migration utility using the following commands...
 
 * Run the package migration utility, using 'sudo ./pkgmigrate'.
 
+e.g.
 ![Step 3](images/synology/Synology-Migrating-From-the-Community-Package-Step3.png "Synology : Migrating From the Community Package - Step 3")
