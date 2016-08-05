@@ -10,4 +10,4 @@ __Example__
 
 ![Synology : How to Send us Support Logs](images/synology/Synology-How-to-Send-us-Support-Logs.png "Synology : How to Send us Support Logs")
 
-[Back to Synology : Help and Support](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
