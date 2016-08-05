@@ -6,4 +6,4 @@
 
 * Any procedures we might ask you to run via SSH will be documented here, not on the forum.
 
-[Back to Synology : Help and Support](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
