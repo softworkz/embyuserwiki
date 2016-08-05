@@ -24,3 +24,5 @@ Package Center will also give you the opportuntity to opt-in to automatic update
 
 ![Synology : Automatic Updates Opt In](images/synology/Synology-Notes-on-Package-Updates-Opt-In.png "Synology : Automatic Updates Opt In")
 
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
+
