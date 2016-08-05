@@ -14,3 +14,4 @@
 
 * [Accessing Beta and Development Releases](../wiki/Synology-:-Accessing-Beta-and-Development-Releases)
 
+* [Migrating From the Community Package](../wiki/Synology-:-Migrating-From-the-Community-Package)
