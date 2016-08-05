@@ -33,3 +33,5 @@ __Step 3:__ Run the migration utility using the following commands...
 e.g.
 
 ![Step 3](images/synology/Synology-Migrating-From-the-Community-Package-Step3.png "Synology : Migrating From the Community Package - Step 3")
+
+[>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
