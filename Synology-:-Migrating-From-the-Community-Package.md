@@ -1,4 +1,4 @@
-The new Emby Server package for Synology includes a migration utility, this utility allows you to transfer your settings from the community package to the new Emby supported package. The new package is entirely self contained and can be safely installed alongside the community package.
+The new Emby Server package for Synology includes a migration utility, this utility allows you to transfer your settings from the community package to the new Emby supported package. The new package is entirely self contained and can be safely installed alongside the existing community package.
 
 --------
 
