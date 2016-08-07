@@ -46,17 +46,23 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x13__ : DS213air DS213 DS413j
 
-&nbsp;&nbsp;&nbsp;&nbsp;__x12__ : DS112+ DS112 DS212 DS212+ RS212 RS812 DS112j DS212j
+&nbsp;&nbsp;&nbsp;&nbsp;__x12__ : DS112+ DS112 DS212 DS212+ RS212 RS812
 
-&nbsp;&nbsp;&nbsp;&nbsp;__x11__ : DS111 DS211 DS211+ DS411 DS411slim RS411 DS211j DS411j
-
-&nbsp;&nbsp;&nbsp;&nbsp;__x10__ : DS110j DS210j DS410j
-
-&nbsp;&nbsp;&nbsp;&nbsp;__x09__ : DS109 DS209 DS409 DS409Slim RS409
+&nbsp;&nbsp;&nbsp;&nbsp;__x11__ : DS111 DS211 DS211+ DS411 DS411slim RS411
 
 &nbsp;&nbsp;__Armada XP__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS214 DS214+ DS414 RS814
+
+&nbsp;&nbsp;__Kirkwood__
+
+&nbsp;&nbsp;&nbsp;&nbsp;__x12__ : DS112j DS212j
+
+&nbsp;&nbsp;&nbsp;&nbsp;__x11__ : DS211j DS411j
+
+&nbsp;&nbsp;&nbsp;&nbsp;__x10__ : DS110j DS210j DS410j
+
+&nbsp;&nbsp;&nbsp;&nbsp;__x09__ : DS109 DS209 DS409 DS409Slim RS409
 
 &nbsp;&nbsp;__88F5281__
 
