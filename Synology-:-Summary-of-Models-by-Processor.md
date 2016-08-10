@@ -64,10 +64,6 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x09__ : DS109 DS209 DS409 DS409Slim RS409
 
-&nbsp;&nbsp;__88F5281__
-
-&nbsp;&nbsp;&nbsp;&nbsp;__x07__ : DS107+ DS207+ CS407 RS407
-
 ## ST Microelectronics
 
 &nbsp;&nbsp;__STiH412__
