@@ -62,8 +62,6 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x10__ : DS110j DS210j DS410j
 
-&nbsp;&nbsp;&nbsp;&nbsp;__x09__ : DS109 DS209 DS409 DS409Slim RS409
-
 ## ST Microelectronics
 
 &nbsp;&nbsp;__STiH412__
