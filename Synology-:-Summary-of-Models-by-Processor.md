@@ -80,7 +80,7 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x15__ : DS715 DS1515 DS2015xs
 
-## MindSpeed 
+## MACOM
 
 &nbsp;&nbsp;__Comcerto 2000__
 
