@@ -86,7 +86,7 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS414j
 
-## Freescale
+## NXP Semiconductors
 
 &nbsp;&nbsp;__QorIQ P1022__
 
