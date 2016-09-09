@@ -42,6 +42,10 @@ __x86-64__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x13__ : DS213j
 
+&nbsp;&nbsp;__Armada XP__
+
+&nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS214 DS214+ DS414 RS814
+
 &nbsp;&nbsp;__Armada 300__
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x13__ : DS213air DS213 DS413j
@@ -49,10 +53,6 @@ __x86-64__
 &nbsp;&nbsp;&nbsp;&nbsp;__x12__ : DS112+ DS112 DS212 DS212+ RS212 RS812
 
 &nbsp;&nbsp;&nbsp;&nbsp;__x11__ : DS111 DS211 DS211+ DS411 DS411slim RS411
-
-&nbsp;&nbsp;__Armada XP__
-
-&nbsp;&nbsp;&nbsp;&nbsp;__x14__ : DS214 DS214+ DS414 RS814
 
 &nbsp;&nbsp;__Kirkwood__
 
