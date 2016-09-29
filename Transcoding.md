@@ -6,6 +6,11 @@ In most cases, the server and the apps will automatically select the ideal setti
 
 Every Emby app will have a setting known as "Max streaming bitrate". This is the most important setting to configure within the app that you're trying to use, and will have the greatest effect on image quality. As you increase the bitrate quality will improve, but will require a faster connection between the device and server.
 
+**Ineligible formats for transcode**
+* [Dvd and Blu-ray](Movie%20naming#dvd-and-blu-ray)
+* [ISOs](Movie%20naming#isos)
+* [3D videos](Movie%20naming#3d-videos)
+
 # Server Settings
 
 In addition, the server has some transcoding settings that can be configured. These are found by opening the server dashboard and navigating to **Playback** -> **Transcoding**.
