@@ -71,3 +71,7 @@ http://www.wikihow.com/Set-Up-Port-Forwarding-on-a-Router
 This Youtube video also explains it pretty well:
 
 https://www.youtube.com/watch?v=Kp-R-eHiQco
+
+### Verify Public Port
+
+To test that your public port is accessible over the internet, try testing it from [canyouseeme.org](http://www.canyouseeme.org/)
