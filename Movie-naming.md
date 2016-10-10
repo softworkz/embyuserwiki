@@ -91,7 +91,7 @@ Each version must begin with the folder name, followed by " - ". If this require
 
 **Note**: The above example includes a 3D version, which is discussed in the [3D Video](3D-Videos) naming guide.
 
-Alternatively they can be grouped together manually using the server's web interface.  
+The above configuration will present your movie as a single item in Emby and each app will choose the version that is best suited for it.  If, instead, you would like to see them as separate items, you can create separate videos and they can be grouped together manually using the server's Collection feature.  
 
 ## Movie extras
 
