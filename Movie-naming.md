@@ -105,7 +105,7 @@ Special features for movies can be stored as video files in an extras folder und
          deleted-scenes.mkv 
 ```
 
-**Note**: Be sure the movie file has been put in place and properly recognized by the server before adding extras to avoid the extras being mis-identified as movies themselves.
+**Note**: Be sure the movie file has been put in place at the same time as or before adding extras to avoid the extras being mis-identified as movies themselves.
 
 ## Video images
 
