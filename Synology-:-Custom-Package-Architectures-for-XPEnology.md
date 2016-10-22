@@ -1,4 +1,4 @@
-To make sure we get the best out of both Synology and XPEnology based Emby Server installations, we optimise the packages for their target architecture. This presents a challenge when it comes to XPEnology, which is discussed in more detail in the '[XPEnology Users Read Me](https://emby.media/community/index.php?/topic/40411-xpenology-users-read-me/)' post.
+To make sure we get the best out of both Synology and XPEnology based Emby Server installations, we optimise the packages for their target architecture. This presents a challenge when it comes to XPEnology, which is discussed in more detail in the post '[XPEnology Users Read Me](https://emby.media/community/index.php?/topic/40411-xpenology-users-read-me/)'.
 
 The default package source that should be used for XPEnology is:-
 
@@ -22,6 +22,7 @@ To use the alternate package architecture, you simply need to add it to the pack
 
     https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586&package_architecture=xpen-core2-sse41
 
+*Need Help?
 Don't worry if you don't know what type of processor you have or don't see your processor architecture listed, take a look at the forum post above and drop us a line on the forum.
 
 [>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
