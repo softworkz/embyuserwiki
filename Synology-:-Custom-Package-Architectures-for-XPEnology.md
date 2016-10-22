@@ -20,7 +20,7 @@ e.g. Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
 
 To use the alternate package architecture, you simply need to add it to the package source you configure in Package Center. Here's an example:-
 
-https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586&package_architecture=xpen-core2-sse41
+    https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586&package_architecture=xpen-core2-sse41
 
 Don't worry if you don't know what type of processor you have, take a look at the forum post above and drop us a line on the forum.
 
