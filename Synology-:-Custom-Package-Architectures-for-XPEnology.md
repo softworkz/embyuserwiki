@@ -10,10 +10,11 @@ __Alternate Architectures__
 
 The following alternate package architectures are currently available:-
 
-|Name|Description|Example|
-|xpen-core2-sse41|Intel(R) Core(TM)2 Duo + SSE41|Intel(R) Core(TM)2 Duo CPU E7200  @ 2.53GHz
-|xpen-core2|Baseline Intel(R) Core(TM)2 Duo|Intel(R) Pentium(R) Dual-Core CPU T4500 @ 2.30GHz
-|xpen-sandybridge|Intel Sandy Bridge based Processors|Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+| Name | Description | Example |
+| ---- | ----------- | ------- |
+| xpen-core2-sse41 | Intel(R) Core(TM)2 Duo + SSE41 | Intel(R) Core(TM)2 Duo CPU E7200  @ 2.53GHz |
+| xpen-core2 | Baseline Intel(R) Core(TM)2 Duo | Intel(R) Pentium(R) Dual-Core CPU T4500 @ 2.30GHz |
+| xpen-sandybridge | Intel Sandy Bridge based Processors | Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz |
 
 To use the alternate package architecture, you simply need to add it to the package source you configure in Package Center. Here's an example:-
 
