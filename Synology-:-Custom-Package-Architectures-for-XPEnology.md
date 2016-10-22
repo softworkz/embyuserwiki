@@ -10,7 +10,7 @@ __Alternate Architectures__
 
 The following alternate package architectures are currently available:-
 
-| Name | Description | Example |
+| :Name | Description | Example |
 | ---- | ----------- | ------- |
 | xpen-core2-sse41 | Intel(R) Core(TM)2 Duo + SSE41 | Intel Core2 Duo CPU E7200 @ 2.53GHz |
 | xpen-core2 | Baseline Intel(R) Core(TM)2 Duo | Intel Pentium Dual-Core CPU T4500 @ 2.30GHz |
