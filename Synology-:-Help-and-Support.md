@@ -15,3 +15,5 @@
 * [Accessing Beta and Development Releases](../wiki/Synology-:-Accessing-Beta-and-Development-Releases)
 
 * [Migrating From the Community Package](../wiki/Synology-:-Migrating-From-the-Community-Package)
+
+* [Custom Package Architectures for XPEnology](../wiki/Synology-:-Custom-Package-Architectures-for-XPEnology)
