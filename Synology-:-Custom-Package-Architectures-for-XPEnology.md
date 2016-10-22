@@ -22,7 +22,7 @@ To use the alternate package architecture, you simply need to add it to the pack
 
     https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586&package_architecture=xpen-core2-sse41
 
-*Need Help?
+## Need Help?
 Don't worry if you don't know what type of processor you have or don't see your processor architecture listed, take a look at the forum post above and drop us a line on the forum.
 
 [>> Back to Synology : Help and Support <<](https://github.com/MediaBrowser/Wiki/wiki/Synology-:-Help-and-Support)
