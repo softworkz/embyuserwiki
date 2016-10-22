@@ -1,6 +1,10 @@
 To make sure we get the best out of both Synology and XPEnology based Emby Server installations, we optimise the packages for their target architecture. This presents a challenge when it comes to XPEnology, which is discussed in more detail in the '[XPEnology Users Read Me](https://emby.media/community/index.php?/topic/40411-xpenology-users-read-me/)' post.
 
-The default package source that should be used for XPEnology is https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586. However, if you find that Emby Server does not start after the install compeltes, it is likely you will need to use an alternate package architecture for your system.
+The default package source that should be used for XPEnology is:-
+
+    https://synology.emby.media/?package_repository=360efc6e-de72-4073-b603-2bfbd7001586
+
+However, if you find that Emby Server does not start after the install compeltes, it is likely you will need to use an alternate package architecture for your system.
 
 The following alternate package architectures are currently available:-
 
