@@ -6,6 +6,8 @@ The default package source that should be used for XPEnology is:-
 
 However, if you find that Emby Server does not start after the install compeltes, it is likely you will need to use an alternate package architecture for your system.
 
+__Alternate Architectures__
+
 The following alternate package architectures are currently available:-
 
 xpen-core2-sse41 - Intel(R) Core(TM)2 Duo + SSE41
