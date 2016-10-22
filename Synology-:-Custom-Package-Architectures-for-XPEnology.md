@@ -1,4 +1,4 @@
-To make sure we get the best out of both Synology and XPEnology based Emby Server installations, we optimise the packages for their target architecture. This presents a challenge when it comes to XPEnology, which is discussed in more detail in the post '[XPEnology Users Read Me](https://emby.media/community/index.php?/topic/40411-xpenology-users-read-me/)'.
+To make sure we get the best out of both Synology and XPEnology based Emby Server installations, we optimise the packages for the hardware on which they will run. This presents a challenge when it comes to XPEnology, which is discussed in more detail in the post '[XPEnology Users Read Me](https://emby.media/community/index.php?/topic/40411-xpenology-users-read-me/)'.
 
 The default package source that should be used for XPEnology is:-
 
