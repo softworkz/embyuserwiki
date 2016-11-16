@@ -109,7 +109,7 @@ Special features for movies can be stored as video files in an extras folder und
 
 ## Video images
 
-Images are supported in video folders. Below is a table of the supported image file names. Supported image extensions are **jpg**, **jpeg**, **png** and **tbn**.
+Images are supported in video folders. Below is a table of the supported image file names. Supported image extensions are **jpg**, **jpeg**, **png**, **gif** and **tbn**.
 
 Several image types support multiple file names. They are listed in the order that they're checked for.
 
