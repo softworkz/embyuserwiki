@@ -2,7 +2,6 @@
 ![Alt text](http://i.imgur.com/MHQCm40.png "")
 - [Introduction](#introduction)
   - [Supported Tags](#supported-tags)
-  - [Contributing](#contributing)
   - [Issues](#issues)
 - [Getting started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -25,8 +24,9 @@
      - [Adjusting Variables](#adjusting-variables)
   - [Volumes](#volumes)
 - [Manual Run and Installation](#manual-run-and-installation)
+- [Migrating your data from an existing installation](#migrating-your-data-from-an-existing-installation)
 - [License](#license)
-- [Donation](#donation)
+
 
 
 # Introduction:
@@ -47,14 +47,6 @@ This subfolder contains all necessary files to build a [Docker](https://www.dock
 * dev  - latest dev release  
 * armv7 - latest stable release for armv7 or armhf  
 * aarch64 - latest stable release for armv8 or aarch64  
-
-## Contributing:
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
 
 ## Issues:
 
@@ -281,14 +273,17 @@ can be override by the end user.
 ## Environment Variables:
 
 You can adjust some of the default settings set for container/application by
-passing any or all of the following environment variable:
-* APP_USER     - Name of user the service will run as.\[4\]
-* APP_UID      - UID assigned to APP_USER upon creation, or will query APP_USER's ID.\[3\]
-* APP_GID      - GID assigned to APP_USER upon creation, or will query APP_USER's GID.\[3\]
-* APP_CONFIG   - Location where application will store settings and database on host.\[1\]
-* APP_GCONFIG  - Location where application will store settings and database within guest.\[4\]
-* UMASK        - umask assigned to service, default set to 002.\[4\]
-* EDGE         - Update the containerized service, default set to 0(Off).\[4\]
+passing any or all of the following environment variable:  
+
+| ENV VAR      | Definition                                                                     |
+| ------------ | ------------------------------------------------------------------------------ |
+| APP_USER     | Name of user the service will run as.\[4\]                                     |
+| APP_UID      | UID assigned to APP_USER upon creation, or will query APP_USER's ID.\[3\]      |
+| APP_GID      | GID assigned to APP_USER upon creation, or will query APP_USER's GID.\[3\]     |
+| APP_CONFIG   | Location where application will store settings and database on host.\[1\]      |
+| APP_GCONFIG  | Location where application will store settings and database within guest.\[4\] |
+| UMASK        | umask assigned to service, default set to 002.\[4\]                            |
+| EDGE         | Update the containerized service, default set to 0(Off).\[4\]                  |
 
 \[1\]: Variable is applicable only during install.  
 \[2\]: Variable is applicable during install, when invoking installed wrapper script or systemd service.  
