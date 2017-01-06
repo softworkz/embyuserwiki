@@ -26,3 +26,4 @@ This document will list all of the supported keys that are recognized. Please no
 # Video Playback
 * spacebar: toggle play/pause
 * control-shift-a: cycle through audio tracks
+* control-p: toggle play/pause
