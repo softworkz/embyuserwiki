@@ -71,4 +71,4 @@
 * [iOS](iOS)
 * [Roku](Roku)
 * [Web Client](Web Client)
-* [Keyboard Commands](Keyboard Commands)
+* [Keyboard and Remote Support](Keyboard and Remote Support)
