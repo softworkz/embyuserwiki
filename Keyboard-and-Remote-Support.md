@@ -41,3 +41,26 @@ This document will list all of the supported keys that are recognized. Please no
 * F8: toggle mute
 * F9: volume down
 * F10: volume up
+
+# Windows Media Keys
+
+The following special keys on Windows keyboards are supported:
+
+* search/find: launch app search function
+* favorites: navigate to favorites
+* home: navigate to home
+* back
+* forward
+* toggle mute
+* volume up
+* volume down
+* channel up
+* channel down
+* rewind
+* fast forward
+* next track
+* previous track
+* record
+* pause
+* play
+* stop
