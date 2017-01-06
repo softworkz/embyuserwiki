@@ -14,3 +14,7 @@ https://emby.media/download.html
 
 # Device Support
 This document will list all of the supported keys that are recognized. Please note, not all devices have all of these keys available.
+
+# General Navigation
+
+# Video Playback
