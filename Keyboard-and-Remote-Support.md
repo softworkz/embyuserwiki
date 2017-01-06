@@ -49,6 +49,7 @@ The following special keys on Windows keyboards are supported:
 * search/find: launch app search function
 * favorites: navigate to favorites
 * home: navigate to home
+* menu/info: show menu or info for selected content (if available)
 * back
 * forward
 * toggle mute
