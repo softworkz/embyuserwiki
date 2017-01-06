@@ -16,5 +16,11 @@ https://emby.media/download.html
 This document will list all of the supported keys that are recognized. Please note, not all devices have all of these keys available.
 
 # General Navigation
+* alt-left: navigate back
+* alt-right: navigate forward
+* page-up: scroll forward in list
+* page-down: scroll backward in list
+* end: scroll to end of list
+* home: return to app home screen
 
 # Video Playback
