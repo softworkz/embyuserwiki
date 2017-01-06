@@ -27,6 +27,7 @@ This document will list all of the supported keys that are recognized. Please no
 * control-g: Nagivate to Live TV Guide
 * control-r: Record - works when highlighting a program or on program detail screen
 * control-o: Navigate to Recorded TV
+* control-d: show menu or info for selected content (if available)
 
 # Video Playback
 * spacebar: toggle play/pause
