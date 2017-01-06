@@ -17,13 +17,27 @@ This document will list all of the supported keys that are recognized. Please no
 
 # General Navigation
 * alt-left: navigate back
+* alt-b: navigate back
 * alt-right: navigate forward
 * page-up: scroll forward in list
 * page-down: scroll backward in list
 * end: scroll to end of list
 * home: return to app home screen
+* control-t: Nagivate to Live TV
+* control-g: Nagivate to Live TV Guide
+* control-r: Record - works when highlighting a program or on program detail screen
+* control-o: Navigate to Recorded TV
 
 # Video Playback
 * spacebar: toggle play/pause
 * control-shift-a: cycle through audio tracks
 * control-p: toggle play/pause
+* control-shift-p: play selected media
+* control-shift-s: stop
+* control-shift-f: skip forward
+* control-f: next chapter or track
+* control-shift-b: skip backward
+* control-b: previous chapter or track
+* F8: toggle mute
+* F9: volume down
+* F10: volume up
