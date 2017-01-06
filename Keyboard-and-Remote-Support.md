@@ -24,3 +24,4 @@ This document will list all of the supported keys that are recognized. Please no
 * home: return to app home screen
 
 # Video Playback
+* space: toggle play/pause
