@@ -68,4 +68,4 @@ Emby Premiere brings a number of additional benefits and bonus features. With Em
 * Cloud Sync
 * and much more
 
-[Learn more about Emby Premiere.](http://emby.media/donate).
+[Learn more about Emby Premiere.](http://emby.media/donate)
