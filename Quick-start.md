@@ -58,13 +58,14 @@ Installing plugins can further enhance your Emby experience. Cover Art allows yo
 
 For more information, see [plugins](Plugins).
 
-## Become an Emby Supporter
+## Get Emby Premiere
 
-Becoming an Emby supporter brings a number of additional benefits and bonus features. As an Emby Supporter you can enjoy:
+Emby Premiere brings a number of additional benefits and bonus features. With Emby Premiere you can enjoy:
 
+* Emby DVR
 * Cover Art
-* Mobile Sync
+* Offline Media
 * Cloud Sync
-* Much more
+* and much more
 
-[Learn more about becoming an Emby Supporter.](http://emby.media/donate).
+[Learn more about Emby Premiere.](http://emby.media/donate).
