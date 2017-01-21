@@ -5,6 +5,7 @@ Emby Server is available on the following platforms:
 * Linux
 * BSD
 * NAS Devices - Asustor, FreeNAS, Open Media Vault, QNAP, [Synology](../wiki/Synology-:-Help-and-Support).
+* Docker
 
 To install Emby Server, begin by visiting the download page and following the instructions for your operating system:
 
