@@ -19,6 +19,7 @@ In most cases, Emby Server will automatically discover your HDHomerun on your ne
 Out of the box, Emby Server currently supports the following TV Guide data sources:
 
 * Schedules Direct
+* Xml TV
 
 Support for additional sources can be added by installing a [Live TV Plugin](Live-TV-Plugins).
 
