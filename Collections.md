@@ -22,22 +22,13 @@ An example name of a Collection is "Star Wars Collection".
 
 Collections are typically used for movies, and Emby apps have sections for Collections as part of their Movie views. No additional configuration is required to enable his.
 
-If you would like to your Emby library to display a dedicated Collections menu, this can be enabled in user preferences.To access user preferences, click your user icon in the main menu:
-![](images/server/userpreferences1.png)
-
-Then select Home Screen Settings
-
-![](images/server/userpreferences2.png)
+If you would like to your Emby library to display a dedicated Collections menu, this can be enabled in server display settings.To access server display settings, open the server dashboard, then navigate to **Library** -> **Display**.
 
 Then enable the option to display a Collections view:
 
 ![](images/server/collections6.png)
 
-Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can also be enabled in user preferences. 
-
-From user preferences, select Display Settings:
-
-![](images/server/userpreferences2.png)
+Additionally if you'd like movies to be automatically grouped into their Collections when browsing your movie list, this can be enabled in server display settings.
 
 Then enable the option to group movies into Collections:
 
