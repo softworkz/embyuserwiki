@@ -3,8 +3,7 @@ Camera upload allows automatic uploading of photos taken from mobile devices to 
 Currently, the apps that support automatic camera upload are:
 
 * Android
-* Windows 8.1 Store App
-* Windows Phone
+* Ember for Emby (third party app)
 
 ## Enabling Camera Upload
 
