@@ -7,7 +7,7 @@ Currently, the apps that support automatic camera upload are:
 
 ## Enabling Camera Upload
 
-To enable camera upload for an Emby app, open the app's settings and enable it from within the sync menu.
+To enable camera upload for an Emby app, you'll need to first enable it within the app's settings menu.
 
 ## Customizing the Upload Location
 
