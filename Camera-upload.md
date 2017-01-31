@@ -13,7 +13,7 @@ To enable camera upload for an Emby app, you'll need to first enable it within t
 
 There are a few options that allow you to control where the uploaded photos are saved to. By default, they are saved to an internal data folder, and all devices upload to the same folder. You can easily change the upload folder to a custom path, and/or you can also have a sub-folder created for each device.
 
-To access these settings, open the Emby Server dashboard and navigate to Sync -> Camera Upload.
+To access these settings, open the Emby Server dashboard and navigate to Devices -> Camera Upload.
 
 ![](images/server/cameraupload2.png)
 
