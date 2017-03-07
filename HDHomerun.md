@@ -6,6 +6,6 @@ In most cases, Emby Server will automatically discover your HDHomerun on your ne
 
 On the HD Homerun setup screen, you'll need to enter the IP Address of your HDHomerun Network Tuner.
 
-There are also additional options, such as the ability to allow hardware video transcoding by the tuner, if it supports that.
-
 ![](images/server/hdhomerunsetup.png)
+
+There are also additional options, such as the ability to allow hardware video transcoding by the tuner, if it supports that. In most cases, trusting the default settings will be the best option.
