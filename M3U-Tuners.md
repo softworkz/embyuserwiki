@@ -5,4 +5,12 @@ See examples of m3u files at http://xmtvplayer.com/build-m3u-file
 To add an M3U tuner, simply open the Emby Server dashboard, navigate to Live TV, then click Add underneath tuner devices.
 
 ![](images/server/livetvtuneradd.png)
+
+On the M3U Tuner setup screen, you'll need to enter the path to an M3U file.
+
 ![](images/server/m3utunersetup.png)
+
+Emby will accept either:
+
+* A file path to an M3U file
+* U url to an M3U file that can be downloaded
