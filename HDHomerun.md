@@ -4,4 +4,6 @@ In most cases, Emby Server will automatically discover your HDHomerun on your ne
 
 ![](images/server/livetvtuneradd.png)
 
+On the HD Homerun setup screen, you'll need to enter the IP Address of your HDHomerun Network Tuner.
+
 ![](images/server/hdhomerunsetup.png)
