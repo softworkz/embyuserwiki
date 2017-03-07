@@ -9,3 +9,5 @@ On the Xml TV setup screen, you need to enter the path to your Xml TV. Emby will
 ![](images/server/xmltv.png)
 
 XML TV uses categories to indicate types of programs. You can configure these categories in Emby to allow certain programs to appear as movies, sports, kid's programs, etc.
+
+Additionally, you can also configure which tuners will use this guide data source. Emby allows you to add as many tuners and guide data sources as you like, and you can choose which the data source for each tuner.
