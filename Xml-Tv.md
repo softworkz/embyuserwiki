@@ -7,3 +7,5 @@ On the Xml TV setup screen, you need to enter the path to your Xml TV. Emby will
 * A url to ax XML TV file that can be downloaded
 
 ![](images/server/xmltv.png)
+
+XML TV uses categories to indicate types of programs. You can configure these categories in Emby to allow certain programs to appear as movies, sports, kid's programs, etc.
