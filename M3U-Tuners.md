@@ -13,4 +13,4 @@ On the M3U Tuner setup screen, you'll need to enter the path to an M3U file.
 Emby will accept either:
 
 * A file path to an M3U file
-* U url to an M3U file that can be downloaded
+* A url to an M3U file that can be downloaded
