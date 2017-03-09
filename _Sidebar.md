@@ -50,9 +50,6 @@
 * [Live TV](Live TV)
 * [Live TV Plugins](Live-TV-Plugins)
 
-### Offline Downloading
-* [Offline access](Offline-Access)
-
 ### Emby Apps
 * [Apple TV](Apple TV)
 * [Amazon Fire TV](Fire TV)
@@ -64,6 +61,9 @@
 * [Roku](Roku)
 * [Web Client](Web Client)
 * [Keyboard and Remote Support](Keyboard and Remote Support)
+
+### Offline Downloading
+* [Offline access](Offline-Access)
 
 ### Dlna
 * [Play to](Play to)
