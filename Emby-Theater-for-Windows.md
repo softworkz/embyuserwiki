@@ -15,3 +15,16 @@ Emby Theater can direct play a wide range of media formats thanks to Windows bro
 Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
 
 * If you are customizing the bitrate setting, then you will need to compare the bitrate of your files to the bitrate setting in the app. You can find the bitrate of a file by checking the media info in the web interface. If the bitrate of a file is higher than the setting in the app, transcoding will be required. Increasing the bitrate setting in the app can help reduce transcoding, but may impact playback performance if your network connection is not fast enough to handle it.
+
+# Emby in Windows Store
+
+Emby Theater is also available in the Windows Store:
+
+https://www.microsoft.com/en-us/store/p/emby-theater/9nblggh4t70l
+
+This app runs on:
+
+* Windows Desktop
+* Xbox One
+* Windows Tablets
+* Windows Phone
