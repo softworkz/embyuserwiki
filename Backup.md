@@ -1,4 +1,4 @@
-This guide will go over how to migrate your settings from Emby Server from one machine to another.
+This guide will go over how to migrate your settings from Emby Server from one machine to another. There are two methods to backing up Emby Server settings and we'll go over them here.
 
 ## Use the Emby Backup Plugin
 
