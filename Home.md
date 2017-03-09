@@ -17,6 +17,7 @@ See the menu on the right-hand side of this page for a complete listing. Some ke
 * [Server installation](Installation)
 * [Users](Users)
 * [Sync](Sync)
+* [Backup](Backup)
 
 ## Community
 
