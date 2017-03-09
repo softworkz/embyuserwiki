@@ -46,12 +46,12 @@
 * [Device access](Device Access)
 * [Emby Connect](Emby Connect)
 
-### Offline Downloading
-* [Offline access](Offline-Access)
-
 ### Live TV
 * [Live TV](Live TV)
 * [Live TV Plugins](Live-TV-Plugins)
+
+### Offline Downloading
+* [Offline access](Offline-Access)
 
 ### Emby Apps
 * [Apple TV](Apple TV)
