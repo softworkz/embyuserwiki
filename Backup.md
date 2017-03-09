@@ -18,17 +18,13 @@ If you prefer to backup manually, read on....
 
 The following instructions will detail how to manually backup or migrate an Emby Server installation.
 
-Locate Emby's program data folder
+### Locate Emby's program data folder
 
 Open the server dashboard and expand the System Paths section. Locate the program data folder by referring to the outline in this screenshot.
 
 From now on this guide will refer to this path as /ProgramData.
 
-5414e6667ba2c_Untitled.png
-
-
-
-Review Paths on the Old Setup
+### Review Paths on the Old Setup
 
 Take a look at the configuration on your old server instance. Review any paths you've configured into the server such as cache folders, channel download folders, transcoding folders, as well as any paths configured within plugins. The new server will need to be able to reach these paths, and generally will require write access. If this isn't the case, then various components of the new server may have problems. If you're in doubt, revert these settings to their defaults before proceeding.
 
