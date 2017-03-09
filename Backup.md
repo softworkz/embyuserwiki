@@ -45,7 +45,7 @@ Additionally, backup the library database file, but put it into a separate place
 /ProgramData/data/library.db
 This will backup saved configurations, installed plugins, collections you've created, playlists, display preferences and the user database.
 
-**Note:  Unless you use a custom Metadata path you will want to backup your /ProgramData/metadata folder to preserve your People images.  The only two folder in metadata you don't need are library and views.
+**Note**:  Unless you use a custom Metadata path you will want to backup your /ProgramData/metadata folder to preserve your People images.  The only two folder in metadata you don't need are library and views.
 
 ### Install Emby Server on the new machine
 
