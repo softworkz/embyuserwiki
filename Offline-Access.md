@@ -2,9 +2,10 @@ The offline downloading feature allows you to copy your content to mobile device
 
 The apps that currently support syncing are:
 
-* **Android**
-* **Windows 8.1**
+* [Android Mobile](Android Mobile)
+* [Emby for Windows Store](Emby Theater for Windows)
+* Ember for Emby (third party app)
 
 The feature is coming soon to:
 
-* **iOS**
+* [iOS](iOS)
