@@ -46,21 +46,12 @@
 * [Device access](Device Access)
 * [Emby Connect](Emby Connect)
 
-### Sync
-* [Sync](Sync)
-* [Sync jobs](Sync-Jobs)
+### Offline Downloading
 * [Offline access](Offline-Access)
-* [Folder sync](Folder Sync)
-* [Google Drive](Google Drive)
 
 ### Live TV
 * [Live TV](Live TV)
 * [Live TV Plugins](Live-TV-Plugins)
-
-### Dlna
-* [Play to](Play to)
-* [Dlna server](Dlna server)
-* [Dlna profiles](Dlna profiles)
 
 ### Emby Apps
 * [Apple TV](Apple TV)
@@ -73,3 +64,14 @@
 * [Roku](Roku)
 * [Web Client](Web Client)
 * [Keyboard and Remote Support](Keyboard and Remote Support)
+
+### Dlna
+* [Play to](Play to)
+* [Dlna server](Dlna server)
+* [Dlna profiles](Dlna profiles)
+
+### Sync
+* [Sync](Sync)
+* [Sync jobs](Sync-Jobs)
+* [Folder sync](Folder Sync)
+* [Google Drive](Google Drive)
