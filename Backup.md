@@ -22,6 +22,8 @@ The following instructions will detail how to manually backup or migrate an Emby
 
 Open the server dashboard and expand the System Paths section. Locate the program data folder by referring to the outline in this screenshot.
 
+![](images/server/programdatapath.png)
+
 From now on this guide will refer to this path as /ProgramData.
 
 ### Review Paths on the Old Setup
