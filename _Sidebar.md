@@ -34,6 +34,7 @@
 * [Plugins](Plugins)
 * [Scheduled tasks](Scheduled tasks)
 * [Transcoding](Transcoding)
+* [Backing up Emby Server](Backup)
 
 ### Users
 
