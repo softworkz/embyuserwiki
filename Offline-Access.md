@@ -8,4 +8,4 @@ The apps that currently support offline downloading are:
 
 The feature is coming soon to:
 
-* [iOS](iOS)
+* [Emby for iOS](iOS)
