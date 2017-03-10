@@ -2,7 +2,7 @@ The offline downloading feature allows you to copy your content to mobile device
 
 The apps that currently support offline downloading are:
 
-* [Android Mobile](Android Mobile)
+* [Emby for Android Mobile](Android Mobile)
 * [Emby for Windows Store](Emby Theater for Windows)
 * Ember for Emby (third party app)
 
