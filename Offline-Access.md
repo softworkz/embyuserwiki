@@ -21,7 +21,7 @@ Apps that support offline downloading will display "Make Available Offline" opti
 
 To get started with a download, click "Make Available Offline". You'll then be displayed with a dialog allowing you to select your desired download quality. Emby Server will convert media so that it can be downloaded in a compatible format for the device. You can choose between several quality options, as well as forcing original quality.
 
-**Note**: Forcing original quality may result in a video th
+**Note**: Forcing original quality may result in a download that is not playable on the device.
 
 ![](images/apps/offlinedownload2.png)
 
