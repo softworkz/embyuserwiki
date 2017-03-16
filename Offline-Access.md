@@ -14,3 +14,7 @@ The feature is also available in the following third party apps:
 * Ember for Emby (third party app)
 
 # How it Works
+
+Apps that support offline downloading will display "Make Available Offline" options on media detail screens.
+
+![](images/apps/offlinedownload1.png)
