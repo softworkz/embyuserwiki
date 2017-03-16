@@ -12,3 +12,5 @@ The feature is coming soon to:
 The feature is also available in the following third party apps:
 
 * Ember for Emby (third party app)
+
+# How it Works
