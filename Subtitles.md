@@ -38,3 +38,4 @@ External subtitles can be marked as forced using either ".forced" or ".foreign".
 * srt
 * ssa
 * sub/idx
+* vtt
