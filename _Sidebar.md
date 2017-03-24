@@ -5,7 +5,7 @@
 
 ### Media organization
 * [Movie naming](Movie naming)
-* [TV naming](TV naming)
+* [TV naming](TV%20naming)
 * [Music naming](Music naming)
 * [3D videos](3D videos)
 * [Excluding files](Excluding files & folders)
