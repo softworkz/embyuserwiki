@@ -4,9 +4,9 @@ Setting up the library is handled within the startup wizard and also within the 
 
 It's important to first prepare your media. See other sections of the wiki for more information:
 
-* [Movie naming](Movie naming)
-* [TV naming](TV naming)
-* [Music naming](Music naming)
+* [Movie naming](Movie%20naming)
+* [TV naming](TV%20naming)
+* [Music naming](Music%20naming)
 * [Subtitles](Subtitles)
 
 ### Library Setup Page
