@@ -39,7 +39,7 @@ On the third page you'll configure your default metadata settings, such as where
 
 ### Add Media Libraries
 
-Finally, you'll add your media libraries. See [Library Setup](Library Setup) for more information.
+Finally, you'll add your media libraries. See [Library Setup](Library%20Setup) for more information.
 
 ![](images/server/wizard4.png)
 
@@ -51,7 +51,7 @@ Be sure to check out:
 
 * [Users](Users)
 * [Sync](Sync)
-* [Live TV](Live TV)
+* [Live TV](Live%20TV)
 * [Plugins](Plugins)
 
 ## Get Emby Premiere
