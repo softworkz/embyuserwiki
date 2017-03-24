@@ -101,9 +101,9 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ## Music Videos
 
-To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie naming).
+To add music videos, setup a library with the type "Music Videos". The naming conventions for music videos are identical to [movies](Movie%20naming).
 
-To identify the artists and albums of music videos, use the [metadata manager](Metadata manager). Simply edit a music video:
+To identify the artists and albums of music videos, use the [metadata manager](Metadata%20manager). Simply edit a music video:
 
 ![](images/server/musicvideos1.png)
 
