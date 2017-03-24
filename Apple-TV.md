@@ -11,5 +11,5 @@ Video — m4v,mp4
 Subtitles - srt,vobsub,ssa,ass,sub,vtt
 Audio – aac,ac3 (Dolby Digital),mp3
 
-##Best Practices for Direct Play
+## Best Practices for Direct Play
 Ensure your media meets the above criteria.
