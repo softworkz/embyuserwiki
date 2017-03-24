@@ -16,7 +16,7 @@ The catalog allows you to browse and install new plugins. Some of the available 
 
 * **Content Providers** - Allows new kinds of media to be added to the library, such as books and games, or allows downloading of related content for existing media.
 
-* **Live TV** - Provides access to live tv channels. For  more information, see [Live TV](Live TV).
+* **Live TV** - Provides access to live tv channels. For  more information, see [Live TV](Live%20TV).
 
 * **Metadata** - Adds new metadata scrapers or filters.
 
