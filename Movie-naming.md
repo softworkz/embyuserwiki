@@ -161,15 +161,15 @@ For backdrops, X represents a number, and you can have any amount of numbered ba
 
 ## 3D videos
 
-3D video files are supported. See [3D videos](3D Videos).
+3D video files are supported. See [3D videos](3D%20Videos).
 
 ## Media stubs
 
-Media stubs are supported. See [media stubs](Media stubs).
+Media stubs are supported. See [media stubs](Media%20stubs).
 
 ## Strm files
 
-Strm files are supported. See [strm files](Strm files).
+Strm files are supported. See [strm files](Strm%20files).
 
 ## Subtitles
 
