@@ -50,7 +50,7 @@ It's also possible to have a sub-folder group multiple shows together in an othe
           \Season 1
 
 ```
-For more information on setting up the library, see [Library Setup](Library Setup).
+For more information on setting up the library, see [Library Setup](Library%20Setup).
 
 ### Dvd and Blu-ray episodes
 
@@ -228,15 +228,15 @@ For example:
 
 ## 3D episodes
 
-3D episodes files are supported. See [3D videos](3D Videos).
+3D episodes files are supported. See [3D videos](3D%20Videos).
 
 ## Media stubs
 
-Media stubs are supported as episodes. See [media stubs](Media stubs).
+Media stubs are supported as episodes. See [media stubs](Media%20stubs).
 
 ## Strm files
 
-Strm files are supported as episodes. See [strm files](Strm files).
+Strm files are supported as episodes. See [strm files](Strm%20files).
 
 ## Subtitles
 
