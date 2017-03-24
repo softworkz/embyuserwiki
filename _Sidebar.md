@@ -40,38 +40,38 @@
 
 * [Users](Users)
 * [Guests](Guests)
-* [Parental controls](Parental controls)
+* [Parental controls](Parental%20controls)
 * [Passwords](Passwords)
-* [Content access](Content Access)
-* [Device access](Device Access)
-* [Emby Connect](Emby Connect)
+* [Content access](Content%20Access)
+* [Device access](Device%20Access)
+* [Emby Connect](Emby%20Connect)
 
 ### Live TV
-* [Live TV](Live TV)
+* [Live TV](Live%20TV)
 * [Live TV Plugins](Live-TV-Plugins)
 
 ### Emby Apps
-* [Apple TV](Apple TV)
-* [Amazon Fire TV](Fire TV)
-* [Android Mobile](Android Mobile)
-* [Android TV](Android TV)
+* [Apple TV](Apple%20TV)
+* [Amazon Fire TV](Fire%20TV)
+* [Android Mobile](Android%20Mobile)
+* [Android TV](Android%20TV)
 * [Chromecast](Chromecast)
-* [Emby Theater for Windows](Emby Theater for Windows)
+* [Emby Theater for Windows](Emby%20Theater%20for%20Windows)
 * [iOS](iOS)
 * [Roku](Roku)
-* [Web Client](Web Client)
-* [Keyboard and Remote Support](Keyboard and Remote Support)
+* [Web App](Web%20Client)
+* [Keyboard and Remote Support](Keyboard%20and%20Remote%20Support)
 
 ### Offline Downloading
 * [Offline access](Offline-Access)
 
 ### Dlna
-* [Play to](Play to)
-* [Dlna server](Dlna server)
-* [Dlna profiles](Dlna profiles)
+* [Play to](Play%20to)
+* [Dlna server](Dlna%20server)
+* [Dlna profiles](Dlna%20profiles)
 
 ### Sync
 * [Sync](Sync)
 * [Sync jobs](Sync-Jobs)
-* [Folder sync](Folder Sync)
-* [Google Drive](Google Drive)
+* [Folder sync](Folder%20Sync)
+* [Google Drive](Google%20Drive)
