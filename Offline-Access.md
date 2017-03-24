@@ -2,8 +2,8 @@ The offline downloading feature allows you to copy your content to mobile device
 
 The Emby apps that currently support offline downloading are:
 
-* [Emby for Android Mobile](Android Mobile)
-* [Emby for Windows Store](Emby Theater for Windows)
+* [Emby for Android Mobile](Android%20Mobile)
+* [Emby for Windows Store](Emby%20Theater%20for%20Windows)
 
 The feature is coming soon to:
 
