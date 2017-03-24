@@ -1,4 +1,4 @@
-Guests are users that you've invited using [Emby Connect](Emby Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
+Guests are users that you've invited using [Emby Connect](Emby%20Connect). By default Guests have limited permissions but administrators can easily control this to give them access to various features as desired.
 
 ![](images/server/users2.png)
 
