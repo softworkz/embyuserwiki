@@ -22,5 +22,5 @@ If the device supports camera upload, you can also customize the path in which i
 
 **Note**: When using a custom upload path, you will need to add that path to the server library.
 
-For more information, please see [camera upload](Camera upload).
+For more information, please see [camera upload](Camera%20upload).
 
