@@ -1,7 +1,7 @@
 ### Getting started
 * [Wiki home](home)
-* [Quick start](Quick start)
-* [System requirements](System requirements)
+* [Quick start](Quick%20start)
+* [System requirements](System%20requirements)
 
 ### Media organization
 * [Movie naming](Movie%20naming)
