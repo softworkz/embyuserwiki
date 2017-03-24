@@ -66,13 +66,13 @@ If the file is not natively supported, transcoding will be required.
 
 To learn more about the formats that are natively supported by each Emby app, please visit the wiki section for that app:
 
-* [Amazon Fire TV](Fire TV)
-* [Android Mobile](Android Mobile)
-* [Android TV](Android TV)
+* [Amazon Fire TV](Fire%20TV)
+* [Android Mobile](Android%20Mobile)
+* [Android TV](Android%20TV)
 * [Chromecast](Chromecast)
 * [iOS](iOS)
 * [Roku](Roku)
-* [Web Client](Web Client)
+* [Web Client](Web%20Client)
 
 ## My Files Shouldn't Be Transcoding. How Do I Report This?
 
