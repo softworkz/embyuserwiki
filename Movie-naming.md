@@ -177,7 +177,7 @@ Subtitles are supported. See [subtitles](Subtitles).
 
 ## Theme songs & videos
 
-Theme songs & videos are supported. See [theme songs & videos](Theme songs & videos).
+Theme songs & videos are supported. See [theme songs & videos](Theme%20songs%20&%20videos).
 
 ## Trailers
 
