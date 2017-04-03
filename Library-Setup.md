@@ -37,14 +37,14 @@ Each media folder can have one or more physical library paths. When you supply m
 
 To add a library path, click the + button. A popup will be displayed allowing you to browse to the location in a visual manner.
 
->**Important**: If you are going to use one of the HTPC apps (Classic, Theater, or Kodi) it is very important to use the Path Substitution feature to translate the server's local paths to network ones or define your media locations with network UNC paths that those machines can see.
+>**Important**: If you are going to use one of the HTPC apps (Classic, Theater, or Kodi) it is very important to use the Optional Network Path feature to translate the server's local paths to network ones or define your media locations with network UNC paths that those machines can see.
 
 **Note**: On some networks the visual browser may fail to display network devices. If this occurs you can still complete the dialog by typing in the path manually and clicking OK.
 
 ![](images/server/librarysetup4.png)
 
-## Path Substitution
+## Optional Network Paths
 
-By allowing Emby apps direct access to media folders on the server, they may be able to play them directly over the network and avoid using server resources to stream and transcode. Path substitution can help achieve this by mapping a path on the server to a network path that can be accessed by other devices.
+By allowing Emby apps direct access to media folders on the server, they may be able to play them directly over the network and avoid using server resources to stream and transcode. Network Paths can help achieve this by mapping a path on the server to a network path that can be accessed by other devices.
 
-To learn more, see [Path Substitution](Path Substitution).
+To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
