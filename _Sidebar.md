@@ -20,7 +20,7 @@
 * [Installation](Installation)
 * [Connectivity](Connectivity)
 * [Library setup](Library%20Setup)
-* [Path substitution](Path%20Substitution)
+* [Optional Network Paths](Optional%20Network%20Paths)
 * [Server settings](Server%20Settings)
 * [Auto-Organize](Auto-Organize)
 * [Camera upload](Camera%20upload)
