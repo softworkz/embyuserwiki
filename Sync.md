@@ -9,7 +9,7 @@ When content is archived in multiple resolutions, Emby apps will automatically c
 Cloud Sync is currently available for:
 
 * Drop box
-* [Google Drive](Google Drive)
+* [Google Drive](Google%20Drive)
 * OneDrive
 
 ## Folder Sync
