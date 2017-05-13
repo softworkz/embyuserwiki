@@ -10,7 +10,6 @@ Cloud Sync is currently available for:
 
 * Drop box
 * [Google Drive](Google%20Drive)
-* OneDrive
 
 ## Folder Sync
 
