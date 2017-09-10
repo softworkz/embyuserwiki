@@ -106,6 +106,7 @@ In addition to extras, several other sub-folder names are supported:
 * behind the scenes
 * deleted scenes
 * interviews
+* trailers
  
 ```
 /Movies
