@@ -96,6 +96,16 @@ The above configuration will present your movie as a single item in Emby and eac
 ## Movie extras
 
 Special features for movies can be stored as video files in an extras folder under movie folders. Nested folders are not supported. 
+
+In addition to extras, several other sub-folder names are supported:
+* extras
+* specials
+* shorts
+* scenes
+* featurettes
+* behind the scenes
+* deleted scenes
+* interviews
  
 ```
 /Movies
@@ -103,6 +113,10 @@ Special features for movies can be stored as video files in an extras folder und
       Home Alone (1990).mkv
       /extras
          deleted-scenes.mkv 
+      /behind the scenes
+         video1.mkv 
+      /interviews
+         video1.mkv 
 ```
 
 **Note**: Be sure the movie file has been put in place at the same time as or before adding extras to avoid the extras being mis-identified as movies themselves.
