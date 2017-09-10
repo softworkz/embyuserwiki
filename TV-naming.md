@@ -123,7 +123,13 @@ The following conventions are supported:
 
 ## Specials
 
-Specials should be named using 0 as the season number. For example:
+Specials should be named using one of the following season folder names:
+
+* Season 0
+* Season 00
+* Specials
+
+For example:
 
 ```
  \TV
