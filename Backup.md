@@ -4,6 +4,13 @@ This guide will go over how to migrate your settings from Emby Server from one m
 
 We recommend using the Emby Backup plugin, which is designed to make this process really painless by doing the work for you. Emby Backup requires Emby Premiere and can be found in our plugin catalog.
 
+The Emby Backup plugin can help you backup and restore the following:
+
+* Users
+* User data (playstates, favorites, etc).
+* Installed plugins
+* Plugin settings
+
 To backup and restore using the Emby Backup plugin, simply do the following:
 * Install the plugin into your existing Emby Server
 * Configure the Backup plugin by setting a folder to save the backups within.
