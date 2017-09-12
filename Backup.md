@@ -11,6 +11,8 @@ The Emby Backup plugin can help you backup and restore the following:
 * Installed plugins
 * Plugin settings
 
+This will not backup library contents and metadata. To keep a permanent copy of metadata, we suggest enabling saving of local metadata to media folders.
+
 ## How to use the Emby Backup Plugin
 * Install the plugin into your existing Emby Server
 * Configure the Backup plugin by setting a folder to save the backups within.
