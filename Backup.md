@@ -11,7 +11,7 @@ The Emby Backup plugin can help you backup and restore the following:
 * Installed plugins
 * Plugin settings
 
-To backup and restore using the Emby Backup plugin, simply do the following:
+## How to use the Emby Backup Plugin
 * Install the plugin into your existing Emby Server
 * Configure the Backup plugin by setting a folder to save the backups within.
 By default, this process will run every 12 hours and will retain at most 3 backups. You can monitor your folder to see that backups are created.
