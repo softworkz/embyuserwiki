@@ -6,10 +6,12 @@ We recommend using the Emby Backup plugin, which is designed to make this proces
 
 The Emby Backup plugin can help you backup and restore the following:
 
+* Server configuration
 * Users
 * User data (playstates, favorites, etc).
 * Installed plugins
 * Plugin settings
+* Playlists
 
 This will not backup library contents and metadata. To keep a permanent copy of metadata, we suggest enabling saving of local metadata to media folders.
 
