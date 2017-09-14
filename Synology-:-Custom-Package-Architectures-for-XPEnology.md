@@ -17,6 +17,7 @@ The following alternate package architectures are currently available:-
 | xpen-sandybridge | Intel Sandy Bridge based Processors | Intel Core i5-4570S CPU @ 2.90GHz |
 | xpen-barcelona | AMD Family 10h (or K10) based Processors | AMD Phenom(tm) II X6 1090T Processor |
 | xpen-westmere | Intel Westmere based Processors | Intel Xeon X5690 @ 3.46GHz Processor |
+| xpen-haswell| Intel Haswell based Processors | Intel Xeon X5690 @ 3.46GHz Processor |
 
 To use the alternate package architecture, you simply need to add it to the package source you configure in Package Center. Here's an example:-
 
