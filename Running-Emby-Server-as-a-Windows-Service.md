@@ -8,6 +8,8 @@ Follow [this guide](http://nssm.cc/usage) to create your Windows Service, but in
 * **Startup directory**: folder containing mediabrowser.serverapplication.exe
 * **Arguments**: -service
 
-Then, on the exit actions tab, make sure to configure the restart action like the following:
+Then, on the exit actions tab, make sure to configure the exit action to **not** automatically restart:
 
 ![](images/server/nssm1.jpg)
+
+This is important because without this, using the **Shutdown** button inside Emby Server will cause NSSM to automatically restart Emby Server.
