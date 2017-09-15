@@ -7,7 +7,7 @@ Follow [this guide](http://nssm.cc/usage) to create your Windows Service, but in
 * **Application path**: path to mediabrowser.serverapplication.exe
 * **Startup directory**: folder containing mediabrowser.serverapplication.exe
 * **Arguments**: -service
-* **Service Name**: Emby Server (or other name of your choice)
+* **Service name**: Emby Server (or other name of your choice)
 
 Then, on the exit actions tab, make sure to configure the exit action to **not** automatically restart:
 
