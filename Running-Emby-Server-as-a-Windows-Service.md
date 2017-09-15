@@ -9,3 +9,5 @@ Follow [this guide](http://nssm.cc/usage) to create your Windows Service, but in
 * **Arguments**: -service
 
 Then, on the exit actions tab, make sure to configure the restart action like the following:
+
+![](images/server/nssm1.jpg)
