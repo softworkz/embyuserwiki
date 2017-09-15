@@ -35,7 +35,7 @@
 * [Scheduled tasks](Scheduled%20tasks)
 * [Transcoding](Transcoding)
 * [Backing up Emby Server](Backup)
-* [Running Emby Server as a Windows Service](Running%20Emby%20Server%20as%20a%20Windows%20Service)
+* [Emby Server as a Windows Service](Running%20Emby%20Server%20as%20a%20Windows%20Service)
 
 ### Users
 
