@@ -44,6 +44,10 @@ This document will list all of the supported keys that are recognized. Please no
 * F8: toggle mute
 * F9: volume down
 * F10: volume up
+* F: toggle full-screen
+* M: toggle mute
+* PageUp: unpause
+* PageDown: pause
 
 # Windows Media Keys
 
