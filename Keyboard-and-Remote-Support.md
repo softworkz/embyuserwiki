@@ -41,6 +41,8 @@ This document will list all of the supported keys that are recognized. Please no
 * control-b: previous chapter or track
 * left: rewind, if on-screen display is not showing
 * right: fast-forward, if on-screen display is not showing
+* Shift+Left arrow: rewind
+* Shift+Right arrow: fast-forward
 * F8: toggle mute
 * F9: volume down
 * F10: volume up
