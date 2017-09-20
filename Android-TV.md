@@ -15,7 +15,7 @@ Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital), DT
 
 *DTS HD and TrueHD require compatible hardware (Nvidia Shield)*
 
-##Best Practices for Direct Play
+##Best Practices for Direct Play 
 Ensure your media meets the above criteria.
 
 Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
