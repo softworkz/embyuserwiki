@@ -10,7 +10,7 @@ Install the app using one of the above methods, the app will then automatically 
 Video — m4v,3gp,ts,mpegts,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,m2v,avi,mpg,mpeg,mp4,webm 
 Subtitles - srt,vobsub,ssa,pgs,pgssub,ass,sub,vtt 
 Audio – flac,aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,ac3 (Dolby Digital)
-##Best Practices for Direct Play
+## Best Practices for Direct Play
 Ensure your media meets the above criteria.
 
 Leave the app's streaming bitrate setting on the default value of Auto, if possible. The app will perform bandwidth tests with your Emby Server to determine the maximum playable bitrate.
