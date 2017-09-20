@@ -7,13 +7,13 @@ Emby for Android TV can handle just about any type of media thanks to Emby Serve
 Install the app using one of the above methods, the app will then automatically find your local Emby Server(s).  If it cannot find your server or you are attempting to connect to a remote server, the app will present you with options to connect manually or use Emby Connect.
 
 ## Direct Play Media Formats
-Video — m4v,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,mp4,webm 
+Video — m4v,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,mp4,webm  
 Subtitles - srt,dvdsub,ssa,ass,sub,vtt,pgs  
-Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital), DTS, DTS-HD MA, TrueHD
+Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital), DTS, DTS-HD MA, TrueHD  
 
-*Dolby Digital and DTS direct play requres Android version 6.0+*
+*Dolby Digital and DTS direct play requres Android version 6.0+*  
 
-*DTS HD and TrueHD require compatible hardware (Nvidia Shield)*
+*DTS HD and TrueHD require compatible hardware (Nvidia Shield)*  
 
 ##Best Practices for Direct Play 
 Ensure your media meets the above criteria.
