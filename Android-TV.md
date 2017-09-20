@@ -14,6 +14,7 @@ Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital), DT
 *Dolby Digital and DTS direct play requres Android version 6.0+*
 
 *DTS HD and TrueHD require compatible hardware (Nvidia Shield)*
+
 ##Best Practices for Direct Play
 Ensure your media meets the above criteria.
 
