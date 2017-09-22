@@ -32,7 +32,7 @@ This document will list all of the supported keys that are recognized. Please no
 # Video Playback
 * spacebar: toggle play/pause
 * control-shift-a: cycle through audio tracks
-* control-shift-u: cycle through subtitle tracks
+* control-u: cycle through subtitle tracks
 * control-p: toggle play/pause
 * control-shift-p: play selected media
 * control-shift-s: stop
