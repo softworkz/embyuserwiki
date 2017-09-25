@@ -8,7 +8,7 @@ Install the app using one of the above methods, then use the startup wizard to c
 
 # Direct Play Media Formats
 
-* Video — H.264/AVC (.MP4, .MOV, .M4V)
+* Video — H.264/AVC/HEVC (.MP4, .MOV, .M4V)
 * Subtitles - SRT and other text-based formats
 * Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,flac
 
