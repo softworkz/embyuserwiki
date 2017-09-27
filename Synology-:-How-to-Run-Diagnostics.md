@@ -6,7 +6,7 @@ __DSM6__
 
 * Change to utilities directory, using 'cd /var/packages/EmbyServer/scripts/utilities'.
 
-* Send the logs, using 'sudo ./rundiags'.
+* Run the diagnostics, using 'sudo ./rundiags'.
 
 __DSM5__
 
@@ -14,7 +14,7 @@ __DSM5__
 
 * Change to utilities directory, using 'cd /var/packages/EmbyServer/scripts/utilities'.
 
-* Send the logs, using './rundiags'.
+* Run the diagnostics, using './rundiags'.
 
 __Example__
 
