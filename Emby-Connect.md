@@ -34,3 +34,7 @@ Inviting a friend is easy. Open the server dashboard and navigate to **Users**. 
 You'll be prompted to enter their Emby username or email address. If they don't have one yet that's ok, simply enter their email address and they'll be sent an invitation to signup.
 
 For a detailed guide on inviting a guest, see [Guests](Guests).
+
+### Does This Mean My Streaming is Passing Through the Cloud
+
+No, all connections are direct from your devices to your Emby Server. The sole purpose of the Emby Connect feature is to help your devices locate your Emby Server.
