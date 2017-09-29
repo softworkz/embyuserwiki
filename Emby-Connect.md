@@ -37,4 +37,4 @@ For a detailed guide on inviting a guest, see [Guests](Guests).
 
 ## Does This Mean My Streaming is Passing Through the Cloud?
 
-No, all connections are direct from your devices to your Emby Server. The sole purpose of the Emby Connect feature is to help your devices locate your Emby Server.
+No, all connections are direct from your devices to your Emby Server. The sole purpose of the Emby Connect feature is to help your devices locate your Emby Server so that you don't have to set it up yourself.
