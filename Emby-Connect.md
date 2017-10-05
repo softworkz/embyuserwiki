@@ -1,4 +1,4 @@
-Emby Connect makes it easy to sign into your apps when away from home, and manage connections to multiple servers.
+Emby Connect is a free service that makes it easy to sign into your apps when away from home, and manage connections to multiple servers.
 
 Normally signing into a server requires three pieces of information - the server ip address, along with a username and password. With Emby Connect you no longer need to know a server's ip address in order to connect.
 
