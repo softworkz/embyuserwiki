@@ -1,4 +1,4 @@
-Emby for Roku is available in the [Roku App Store](https://www.roku.com/channels#!details/44191/emby).  It is compatible with any Roku model running at least version 7.5 4099 of the Roku firmware.
+Emby for Roku is available in the [Roku App Store](https://www.roku.com/channels#!details/44191/emby).  It is compatible with any Roku model running at least version 7.5 4099 of the Roku firmware.  If you have an older model that is not capable of running that firmware version, our old app may still work for you.  It can be downloaded as a [zip file from the old repository.](https://github.com/MediaBrowser/Emby.Roku)
 
 There is also a [beta channel](http://emby.media/community/index.php?/topic/8001-emby-for-roku-channel/) available as well as a [zip file for Now TV](http://emby.media/community/index.php?/topic/8001-emby-for-roku-channel/).
 
