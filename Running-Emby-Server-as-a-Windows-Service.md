@@ -6,6 +6,7 @@ To setup a Windows Service, we'll be using a program called [NSSM](http://nssm.c
 
 * Download [NSSM](http://nssm.cc/).
 * Copy nssm.exe to C:\Windows\system32
+* Alternatively, if you'd prefer not to put it in system32, you can put it anywhere and then add it to the system PATH variable.
 * Open command prompt as admin and type "nssm install" to open the NSSM user interface.
 
 Follow [this guide](http://nssm.cc/usage) to create your Windows Service, but incorporate the following changes:
