@@ -11,8 +11,8 @@ To setup a Windows Service, we'll be using a program called [NSSM](http://nssm.c
 
 Follow [this guide](http://nssm.cc/usage) to create your Windows Service, but incorporate the following changes:
 
-* **Application path**: path to mediabrowser.serverapplication.exe
-* **Startup directory**: folder containing mediabrowser.serverapplication.exe
+* **Application path**: path to EmbyServer.exe or mediabrowser.serverapplication.exe
+* **Startup directory**: folder containing the above executable
 * **Arguments**: -service
 * **Service name**: Emby Server (or other name of your choice)
 
