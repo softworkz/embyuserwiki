@@ -3,6 +3,11 @@ _The skill for English UK and German is being worked on. This page will be updat
 
 [Emby skill (US)](http://alexa.amazon.com/spa/index.html#skills/dp/B071GP8C3F/?ref=skill_dsk_skb_sr_0)
 
+### Table of contents
+1. [What is Alexa?](Alexa#what-is-alexa)
+2. [Get started](Alexa#get-started)
+3. [AWS Server status](Alexa#aws-server-status)
+
 ### What is Alexa?  
 Amazon Alexa is a cloud-based voice service, so it is always getting smarter. Ask Alexa to play music, hear the news, check weather, control your smart home, and more.
  
