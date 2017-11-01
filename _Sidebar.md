@@ -53,6 +53,7 @@
 
 ### Emby Apps
 * [Apple TV](Apple%20TV)
+* [Amazon Alexa](Alexa)
 * [Amazon Fire TV](Fire%20TV)
 * [Android Mobile](Android%20Mobile)
 * [Android TV](Android%20TV)
