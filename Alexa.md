@@ -1,5 +1,5 @@
 # Emby with Amazon Alexa
-_The skill for English UK and German is being worked on. This page will be updated when the skill is in the Amazon Skills Store._
+_The skill for English UK and German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
 
 [Emby skill (US)](http://alexa.amazon.com/spa/index.html#skills/dp/B071GP8C3F/?ref=skill_dsk_skb_sr_0)
 
