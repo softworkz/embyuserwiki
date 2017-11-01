@@ -38,7 +38,7 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 `Settings > Under General > History > Did Alexa do what you wanted?`
 
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#">↥ back to top</a></b>
 </div>
 ## Commands
 ### Understanding Alexa
