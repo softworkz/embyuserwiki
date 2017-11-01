@@ -23,6 +23,9 @@ In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/sp
 `Skills > Your Skills > Emby > Link Account`
 
 ![Skills screenshot](https://emby.media/community/uploads/inline/4388/58fd8d3a8680b_Instructions_small.jpg)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 ## Training Alexa
 Alexa may have difficulty understanding the word Emby at first. There are ways to improve this situation.
@@ -36,7 +39,6 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 
 `Home > Cards regarding Emby > More > Did Alexa understand you?`  
 `Settings > Under General > History > Did Alexa do what you wanted?`
-
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
@@ -47,9 +49,16 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 
 ### Navigation
 You can navigate your interface by saying the movement or action related to what you want to do.
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ***
 
 ### AWS Server status  
 http://status.aws.amazon.com/  
 **North America**: AWS Lambda (N. Virginia)  
 **Europe**: AWS Lambda (Ireland)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
