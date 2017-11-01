@@ -40,6 +40,7 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
 ## Commands
 ### Understanding Alexa
 * Every command will need to start with Alexa, tell/ask Emby to {insert command} OR you can start an Emby session: Alexa, start/begin/open Emby. The benefit of using an Emby session is Alexa knows anything you say will be directed to Emby. This improves the listening session.
