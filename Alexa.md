@@ -1,11 +1,12 @@
 # Emby with Amazon Alexa
 _The skill for English UK and German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
 
-[Emby skill (US)](http://alexa.amazon.com/spa/index.html#skills/dp/B071GP8C3F/?ref=skill_dsk_skb_sr_0)
+[Emby skill (US)](http://alexa.amazon.com/spa/index.html#skills/dp/B071GP8C3F/?ref=skill_dsk_skb_sr_0)  
 
-### Table of contents
 1. [What is Alexa?](Alexa#what-is-alexa)
 2. [Get started](Alexa#get-started)
+    * [Amazon Alexa account linking](Alexa#amazon-alexa-account-linking)
+    * [My server is not available to be selected](Alexa#my-server-is-not-available-to-be-selected-what-do-i-do)
 3. [Training Alexa](Alexa#training-alexa)
 3. [Commands](Alexa#commands)
 4. [AWS Server status](Alexa#aws-server-status)
@@ -18,11 +19,18 @@ The Emby Skill enables users to get information about and control playback of th
 ## Get started  
 The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Alexa. Emby with Alexa also requires Emby premiere.
 
+#### Amazon Alexa account linking
 In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/spa/index.html), navigate to the following:
 
 `Skills > Your Skills > Emby > Link Account`
 
 ![Skills screenshot](https://emby.media/community/uploads/inline/4388/58fd8d3a8680b_Instructions_small.jpg)
+#### My server is not available to be selected, what do I do?
+If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
+* In your server dashboard, `Users > Select the Emby user with Emby connect (green cloud icon)`
+* Remove the username or email from the Emby connect field, hit save.
+* Re-add the information to recreate the Emby connect link.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
@@ -44,7 +52,7 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 </div>
 
 ## Commands
-### Understanding Alexa
+### Tips to using Alexa
 * Every command will need to start with Alexa, tell/ask Emby to {insert command} OR you can start an Emby session: Alexa, start/begin/open Emby. The benefit of using an Emby session is Alexa knows anything you say will be directed to Emby. This improves the listening session.
 
 ### Navigation
