@@ -30,9 +30,9 @@ In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/sp
 ![Skills screenshot](https://emby.media/community/uploads/inline/4388/58fd8d3a8680b_Instructions_small.jpg)
 #### My server is not available to be selected, what do I do?
 If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
-* In your server dashboard, `Users > Select the Emby user with Emby connect (green cloud icon)`
-* Remove the username or email from the Emby connect field, hit save.
-* Re-add the information to recreate the Emby connect link.
+1. In your server dashboard, Users > Select the Emby user with Emby connect (green cloud icon)
+2. Remove the username or email from the Emby connect field, hit save.
+3. Re-add the information to recreate the Emby connect link.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
