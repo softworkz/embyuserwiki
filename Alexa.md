@@ -9,7 +9,8 @@ _The skill for English UK and German is being worked on. This page will be updat
     * [My server is not available to be selected](Alexa#my-server-is-not-available-to-be-selected-what-do-i-do)
 3. [Training Alexa](Alexa#training-alexa)
 3. [Commands](Alexa#commands)
-    * [Tips to using Alexa](Alexa#tips-to-using-alexa)
+    * [How to use Alexa](Alexa#how-to-use-alexa)
+    * [Navigation](Alexa#navigation)
 4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
@@ -54,14 +55,19 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 </div>
 
 ## Commands
-### Tips to using Alexa
+### How to use Alexa
 * Every command needs to start with: **Alexa, tell/ask Emby to {insert command}.**
 * Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
 * You can to stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
+* Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).
 
 #### Navigation
 You can navigate your interface by saying the movement or action related to what you want to do.
+* move up/down/left/right
+* page up/down
+* go home
+* go to the next/previous letter
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
