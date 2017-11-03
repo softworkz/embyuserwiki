@@ -68,6 +68,7 @@ You can navigate your interface by saying the movement or action related to what
 * page up/down
 * go home
 * go to the next/previous letter
+* show/display/bring up the context menu
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
