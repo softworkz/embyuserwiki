@@ -84,14 +84,14 @@ Multiple versions of the same content can be stored in a single movie folder.
   /300
     /300 - 1080p.mkv
     /300 - 720p.mp4
+    /300 - extended edition.mp4
+    /300 - directors cut.mp4
     /300 - 3D.hsbs.mp4
 ```
 
 Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. 
 
 **Note**: The above example includes a 3D version, which is discussed in the [3D Video](3D-Videos) naming guide.
-
-The above configuration will present your movie as a single item in Emby and each app will choose the version that is best suited for it.  If, instead, you would like to see them as separate items, you can create separate videos and they can be grouped together manually using the server's [Collection](Collections) feature.  
 
 ## Movie extras
 
