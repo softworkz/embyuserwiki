@@ -89,7 +89,7 @@ Multiple versions of the same content can be stored in a single movie folder.
     /300 - 3D.hsbs.mp4
 ```
 
-Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. 
+Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. The text following the dash can be anything you want.
 
 **Note**: The above example includes a 3D version, which is discussed in the [3D Video](3D-Videos) naming guide.
 
