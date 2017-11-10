@@ -71,6 +71,10 @@ To be recognized as a dvd structure, the folder must contain either a VIDEO_TS s
 
 ```
 
+## Mixed Content Libraries
+
+TV series are supported in mixed content libraries using the Unset content type, but season sub-folders are required in this scenario.
+
 ## Episode naming conventions
 
 A number of naming conventions are supported:
