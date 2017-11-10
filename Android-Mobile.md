@@ -11,7 +11,7 @@ Install the app using one of the above methods, then use the startup wizard to c
 
 # Direct Play Media Formats
 
-* Video — m4v,3gp,ts,mpegts,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,m2v,avi,mpg,mpeg,mp4,webm
+* Video — m4v,3gp,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,m2v,avi,mpg,mpeg,mp4,webm
 * Subtitles - srt,vobsub,pgs,ssa,ass,sub,vtt
 * Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,flac
 
