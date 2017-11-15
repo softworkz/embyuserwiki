@@ -11,7 +11,7 @@ _The skill for English UK and German is being worked on. This page will be updat
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
     * [Navigation](Alexa#navigation)
-4. [Change Emby connect account](Alexa#Change-Emby-account-linked-to-Alexa)
+4. [Change Emby connect account](Alexa#change-emby-account-linked-to-alexa)
 4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
