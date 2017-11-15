@@ -11,7 +11,7 @@ _The skill for English UK and German is being worked on. This page will be updat
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
     * [Navigation](Alexa#navigation)
-4. [Change Emby connect account](Alexa#change-emby-account-linked-to-alexa)
+4. [Change Emby connect account](Alexa#change-emby-connect-account)
 4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
@@ -96,8 +96,8 @@ You can navigate your interface by saying the movement or action related to what
 
 ***
 
-### Change Emby account linked to Alexa
-You will need to disable the Emby skill first. Then, once re-enabled, go though the account linking process again.
+### Change your Emby connect account
+You can easily replace the Emby connect account linked to Alexa. First, you will need to disable the Emby skill. Then, once re-enabled, go though the account linking process again.
 
 ### AWS Server status  
 http://status.aws.amazon.com/  
