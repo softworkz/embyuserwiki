@@ -173,7 +173,7 @@ Transfer will stop playback first. Copy will simply resume playback where you le
 * switch/copy the stream/playback (to {player}) (from {player})
 ##### For example
 * Transfer the playback from chrome to theater.
-* Copy playback to iphone. _omitting the origins of the playback will automatically grab it from your default player_
+* Copy playback to iphone. _omitting the origin of the playback will automatically grab it from your default player_
 
 ### Help
 If you are ever uncertain what commands the player supports, ask Emby for:
