@@ -62,13 +62,19 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).
 
+#### Which player?
+You can set a player as default. If a device/player name is not included at the end of your command, all commands will be automatically routed to your default player.
+
 #### Navigation
 You can navigate your interface by saying the movement or action related to what you want to do.
 * move up/down/left/right
 * page up/down
+* select
+* mute/unmute
 * go home
 * go to the next/previous letter
-* show/display/bring up the context menu
+* show/display/bring up the context menu/TV guide/search/player menu (osd)/settings
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
