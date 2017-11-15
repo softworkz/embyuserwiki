@@ -10,7 +10,20 @@ _The skill for English UK and German is being worked on. This page will be updat
 3. [Training Alexa](Alexa#training-alexa)
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
+    * [Select a player](Alexa#which-player)
+    * [Select an Emby user](Alexa#which-emby-user)
+    * [Additional users](Alexa#additional-users)
     * [Navigation](Alexa#navigation)
+    * [Playback](Alexa#playback)
+    * [Media playback](Alexa#media-playback)
+    * [Suggestion to watch](Alexa#suggestions)
+    * [Play random content](Alexa#play-random-content)
+    * [Play random music](Alexa#play-random-music)
+    * [Recently added](Alexa#recently-added)
+    * [Next up](Alexa#next-up)
+    * [Continue playing](Alexa#continue-playing)
+    * [Item modification](Alexa#item-modification)
+    * [Help with commands](Alexa#help)
 4. [Change Emby connect account](Alexa#change-your-emby-connect-account)
 4. [AWS Server status](Alexa#aws-server-status)
 
@@ -67,18 +80,18 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 
 #### Which player?
 You can set a player as default. If a device/player name is not included at the end of your command, it will be automatically directed at your default player.
-* Change the player {to {player or device name}}
-* Change my player to Living Room TV
+* change the player {to {player or device name}}
+* change my player to Living Room TV
 
 #### Which Emby user?
 By default, the skill will use the same Emby user used to link Alexa to Emby. But it can be changed with the following:
-* Who is the active user
-* Change the user (to {Emby username})
+* who is the active user
+* change the user (to {Emby username})
 #### Additional users
 Share the watch status of currently playing content by adding other Emby users to your session.
-* Who is in the session
-* Add {user name} to my session
-* Remove {username} and {username 2} from my session
+* who is in the session
+* add {user name} to my session
+* remove {username} (and {username 2}) from my session
 
 #### Navigation
 You can navigate your interface by saying the movement or action related to what you want to do.
@@ -89,6 +102,83 @@ You can navigate your interface by saying the movement or action related to what
 * go home
 * go to the next/previous letter
 * show/display/bring up the context menu/TV guide/search/player menu (osd)/settings
+
+#### Playback
+* pause, previous, next, play (the selected content), **stop playback**
+* set the volume (to {percent})
+* change the audio (to {language})
+* change/enable/disable subtitles
+* change the subtitles (to {language})
+* seek to {time} or start from the beginning
+* seek to (plus/minus) {time}
+* jump to chapter {number}
+* go to the next/previous chapter
+
+#### Media Playback
+By default, Alexa is set to search video content when the content type is not specified. This means, for any other types, you need to include the content type to yield proper results.
+* play (the movie) {movie}
+* player (the show) {series}
+* resume the episode from {series}
+* play the artist {Artist}
+* play the song {song} (from {Album}, by {Artist})
+* play the audiobook {title}
+* tune in channel {name}
+##### Here are a few examples
+* put on season 2 of Game of Thrones
+* play Supernatural, season 5, episode 12
+* play the new episode of Gotham
+* watch the next episode of Orange is the new black
+
+#### Suggestions
+Reply to the suggestion with a yes or a no.
+* give me a suggestion
+* suggest me a ({genre}) {content type, i.e. movie}
+* I don't know what ({episode}) to watch
+* what's good?
+
+#### Play random content
+* play something
+* play a ({genre}) movie
+* play an episode of {series}
+* play **a few** episodes
+
+#### Play random music
+* drop the beat
+* put on some ({genre}) music
+* play ({genre}) songs
+* play songs by {Artist}
+* play songs from the album {Album}
+
+#### Recently added
+* what's new
+* what's been recently added?
+* what {content type, i.e. movie} is newly added
+
+#### Next Up
+* what's next
+* what is up next
+
+#### Continue playing
+* what can I keep watching?
+* what (show/movie/audio book) was I in the middle of?
+
+#### Item modification
+* add {content type, i.e. movie} {title} to my favorites
+* I love the {media type, i.e. music video} {music video}
+* set/mark {media type, i.e. movie} {title} as watched/unwatched
+
+#### Transfer or Copy playback between devices
+Transfer will stop playback first. Copy will simply resume playback where you left off, on the device of your choice. By default, it will fill in the missing information with your default player.
+* transfer/copy the stream/playback (from {player}) (to {player})
+* switch/copy the stream/playback (to {player}) (from {player})
+##### For example
+* Transfer the playback from chrome to theater.
+* Copy playback to iphone. _omitting the origins of the playback will automatically grab it from your default player_
+
+### Help
+If you are ever uncertain what commands the player supports, ask Emby for:
+* the available commands
+* help
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
