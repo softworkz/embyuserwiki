@@ -11,6 +11,7 @@ _The skill for English UK and German is being worked on. This page will be updat
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
     * [Navigation](Alexa#navigation)
+4. [Change Emby connect account](Alexa#Change-Emby-account-linked-to-Alexa)
 4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
@@ -60,10 +61,24 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 * Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
-* Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).
+* Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
+* To direct a command to a specific player, append **on {player name}** to the end of your command.
+* **Parts of commands in parenthesis given below are optional**
 
 #### Which player?
 You can set a player as default. If a device/player name is not included at the end of your command, it will be automatically directed at your default player.
+* Change the player {to {player or device name}}
+* Change my player to Living Room TV
+
+#### Which Emby user?
+By default, the skill will use the same Emby user used to link Alexa to Emby. But it can be changed with the following:
+* Who is the active user
+* Change the user (to {Emby username})
+#### Additional users
+Share the watch status of currently playing content by adding other Emby users to your session.
+* Who is in the session
+* Add {user name} to my session
+* Remove {username} and {username 2} from my session
 
 #### Navigation
 You can navigate your interface by saying the movement or action related to what you want to do.
@@ -80,6 +95,9 @@ You can navigate your interface by saying the movement or action related to what
 </div>
 
 ***
+
+### Change Emby account linked to Alexa
+You will need to disable the Emby skill first. Then, once re-enabled, go though the account linking process again.
 
 ### AWS Server status  
 http://status.aws.amazon.com/  
