@@ -1,7 +1,8 @@
 # Emby with Amazon Alexa
-_The skill for English UK and German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
+_The skill for German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
 
-[Emby skill (US)](http://alexa.amazon.com/spa/index.html#skills/dp/B071GP8C3F/?ref=skill_dsk_skb_sr_0)  
+[Emby skill (US)](https://www.amazon.com/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836893&sr=1-1&keywords=emby)
+[Emby skill (UK)](https://www.amazon.co.uk/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836813&sr=1-1&keywords=emby)
 
 1. [What is Alexa?](Alexa#what-is-alexa)
 2. [Get started](Alexa#get-started)
