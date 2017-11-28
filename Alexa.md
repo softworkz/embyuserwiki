@@ -81,7 +81,7 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 
 #### Which player?
 You can set a player as default. If a device/player name is not included at the end of your command, it will be automatically directed at your default player.
-* change the player {to {player or device name}}
+* change the player (to {player or device name})
 * change my player to Living Room TV
 
 #### Which Emby user?
