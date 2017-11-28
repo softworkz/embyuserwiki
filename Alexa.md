@@ -64,7 +64,7 @@ If Alexa is set to English US, you have access to voice training. Using this, Al
 The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self-correct, by marking these cards positively or negatively depending on if Alexa understood you or not. In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/spa/index.html), navigate to the either:
 
 `Home > Cards regarding Emby > More > Did Alexa understand you?`  
-`Settings > Under General > History > Did Alexa do what you wanted?`
+`Settings > General > History > Did Alexa do what you wanted?`
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
