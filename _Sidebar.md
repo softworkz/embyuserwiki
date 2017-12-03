@@ -77,3 +77,6 @@
 * [Sync jobs](Sync-Jobs)
 * [Folder sync](Folder%20Sync)
 * [Google Drive](Google%20Drive)
+
+### Emby Premiere
+* [Emby Premiere](Emby%20Premiere)
