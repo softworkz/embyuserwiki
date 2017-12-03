@@ -82,6 +82,7 @@
 * [Emby Premiere](Emby%20Premiere)
 * [How do I purchase?](How%20do%20I%20purchase%20Emby%20Premiere%3F)
 * [Membership Options](What%20Emby%20Premiere%20membership%20options%20are%20there%3F)
+* [Feature Matrix](Emby-Premiere-Feature-Matrix)
 * [How do I get my key?](How-is-the-Emby-Premiere-key-delivered-to-me%3F)
 * [What if I lose my key?](What-if-I-lose-my-Emby-Premiere-key%3F)
 * [How do I upgrade my membership?](How-do-I-upgrade-my-Emby-Premiere-membership%3F)
