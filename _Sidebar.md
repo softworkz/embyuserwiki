@@ -80,3 +80,5 @@
 
 ### Emby Premiere
 * [Emby Premiere](Emby%20Premiere)
+* [How do I purchase Emby Premiere?] (How-do-I-purchase-Emby-Premiere%3F)
+* [What membership options are there?] (What-Emby-Premiere-membership-options-are-there%3F)
