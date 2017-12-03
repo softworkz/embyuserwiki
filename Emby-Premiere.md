@@ -2,6 +2,6 @@ An Emby Premiere subscription allows you to enjoy additional features in both th
 
 For more information on the features of Emby Premiere as well as the purchase options, please see the web site [Emby Premiere page](https://emby.media/premiere.html).
 
-For more information on what is offered by Emby Premiere vs. the individual app unlocks (available only in some apps), please see: .
+For more information on what is offered by Emby Premiere vs. the individual app unlocks (available only in some apps), please see: [Emby Premiere Feature Matrix](https://github.com/MediaBrowser/Wiki/wiki/Emby-Premiere-Feature-Matrix).
 
 For answers to common questions about Emby Premiere, please find your question in the side bar to the right.  If you cannot find your question or answer in these documents, please post a new question in the [Emby Premiere section](https://emby.media/community/index.php?/forum/157-emby-premiere-support/) of the community forum.
