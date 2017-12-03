@@ -4,6 +4,8 @@ The only subscription level you should ever need to cancel is the Monthly one as
 * **Pay with card** - Click on the subscription shown in the Emby Premiere page on your server dashboard and follow the instructions (see below).  An email will be sent to the key owner with a link to click to perform the actual cancellation.
 * **Within an app** - Log in to the store account for the app that was used and you should be able to manage the recurring payment from there.  Exact steps depend on the store involved.
  
+When you cancel, it just cancels the auto recurring payment going forward.  Your Premiere features will remain in effect until the expiration date of your last subscription.
+
 Your subscription status as well as the status of the Premiere device limit can be seen in the "Emby Premiere" page of the server dashboard:
 
 ![Premiere Status](https://emby.media/community/uploads/inline/3/59a318565a9bc_monthlycancancel.png)
