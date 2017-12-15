@@ -6,7 +6,14 @@ When setting up the library, make sure to select **Books** as the content type.
 
 ### Supported Media Types
 
-When setting up the library, make sure to select **Books** as the content type.
+For electronic books, the following types are supported:
+
+* pdf
+* epub
+* mobi
+* cbr
+* cbz
+* azw3
 
 ### File Naming
 
@@ -23,8 +30,4 @@ Examples:
 \Books\Avatar (2009)-cd2.pdf
 \Books\Avatar (2009)\somefilename.pdf
 \Books\The Usual Suspects (1995)\somefilename.pdf
-\Books\The Usual Suspects (1995)\somefilename-cd1.pdf
-\Books\The Usual Suspects (1995)\somefilename-cd2.pdf
-\Books\Avatar (2009)\Avatar (2009)-cd1.mkv
-\Books\Avatar (2009)\Avatar (2009)-cd2.pdf
 ```
