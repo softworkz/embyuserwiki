@@ -4,6 +4,13 @@ This file naming guide applies to books, both electronic and audio books.
 
 When setting up the library, make sure to select **Books** as the content type.
 
+### Supported Media Types
+
+When setting up the library, make sure to select **Books** as the content type.
+
+### File Naming
+
+When setting up the library, make sure to select **Books** as the content type.
 For **books**, it is recommended to have only the **title** and **year**, followed by the extension. To improve matching add the year within parenthesis to the end of the file or folder name (before the extension, if file name). This naming standard will generally yield the best results.
 
 Examples:
