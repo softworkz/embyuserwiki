@@ -2,7 +2,7 @@ Before setting up a Windows Service, you'll need to [install Emby Server from th
 
 To setup a Windows Service, we'll be using a program called [NSSM](http://nssm.cc/) that can turn any app into a Windows Service. To begin:
 
-* Download [NSSM](http://nssm.cc/).
+* Download [NSSM](http://nssm.cc/). Make sure to choose the 64-bit or 32-bit version of NSSM to match the architecture of your Windows installation.
 * Copy nssm.exe to C:\Windows\system32
 * Alternatively, if you'd prefer not to put it in system32, you can put it anywhere and then add it to the system PATH variable.
 * Open command prompt as admin and type "nssm install" to open the NSSM user interface.
