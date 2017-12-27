@@ -6,6 +6,7 @@ _The skill for German is being worked on. This page will be updated when the ski
 
 1. [What is Alexa?](Alexa#what-is-alexa)
 2. [Get started](Alexa#get-started)
+    * [Why is Emby connect required?](Alexa#why-is-emby-connect-required)
     * [Amazon Alexa account linking](Alexa#amazon-alexa-account-linking)
     * [My server is not available to be selected](Alexa#my-server-is-not-available-to-be-selected-what-do-i-do)
 3. [Training Alexa](Alexa#training-alexa)
@@ -34,9 +35,12 @@ Amazon Alexa is a cloud-based voice service, so it is always getting smarter. As
 The Emby Skill enables users to get information about and control playback of their media library on any Emby compatible device. Once you have succesfully linked your Emby account to Alexa, you can start playing your favorite movies, TV shows on your devices with your voice.
 
 ## Get started  
-The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html).  
+The first step is to add [Emby with Alexa](Alexa#emby-with-amazon-alexa) to your Amazon account. Once this is done, you will need [Emby Connect](Emby%20Connect) to link your Emby account to Alexa. Emby with Alexa also requires [Emby premiere](https://emby.media/premiere.html). 
 
-Alexa requests are sent from outside your network. You will need to ensure your Emby server is accessible remotely.
+Alexa requests are sent from outside your network. You will need to ensure your Emby server is accessible remotely. 
+
+#### Why is Emby connect required?
+Emby connect is used to provide your server information to Alexa over a secure connection.
 
 #### Amazon Alexa account linking
 In the Amazon Alexa app or the [Amazon Alexa web app](http://alexa.amazon.com/spa/index.html), navigate to the following:  
@@ -77,6 +81,7 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
 * To direct a command to a specific player, append **on {player name}** to the end of your command.
+* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook.
 * **Parts of commands in parenthesis given below are optional**
 
 #### Which player?
