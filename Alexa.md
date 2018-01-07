@@ -27,6 +27,7 @@ _The skill for German is being worked on. This page will be updated when the ski
     * [Item modification](Alexa#item-modification)
     * [Help with commands](Alexa#help)
 4. [Change Emby connect account](Alexa#change-your-emby-connect-account)
+5. [Frequently asked questions](Alexa#FAQs)
 4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
@@ -194,6 +195,12 @@ If you are ever uncertain what commands the player supports, ask Emby for:
 
 ### Change your Emby connect account
 You can easily replace the Emby connect account linked to Alexa. First, you will need to disable the Emby skill. Then, once re-enabled, go though the account linking process again.
+
+### FAQs
+- **Alexa can't find any players.**  
+    Make sure your Emby player is up and running under the same Emby user Alexa is connected to. At this time, playing on the Alexa device is not supported.
+- **Why can't I play on the Alexa device directly?**  
+    Amazon Alexa requires content to be accessed over a secured connection. At this time, this option has not yet been implemented. Once it is, only Emby servers using HTTPS will be able to use this feature.
 
 ### AWS Server status  
 http://status.aws.amazon.com/  
