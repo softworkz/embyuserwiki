@@ -43,7 +43,7 @@ Any user can be granted administrative access which will allow them to utilize t
 
 ![](images/server/users18.png)
 
-Other features can also be granted or denied, such as the ability to sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a guest user who can browse the library but not play anything.
+Other features can also be granted or denied, such as the ability to delete media, sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a guest user who can browse the library but not play anything.
 
 ![](images/server/users21.png)
 
