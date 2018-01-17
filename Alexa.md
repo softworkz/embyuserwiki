@@ -82,7 +82,7 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
 * To direct a command to a specific player, append **on {player name}** to the end of your command.
-* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook.
+* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel.
 * **Parts of commands in parenthesis given below are optional**
 
 #### Which player?
