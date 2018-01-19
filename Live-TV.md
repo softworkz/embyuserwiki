@@ -8,6 +8,7 @@ The Live TV feature allows you to stream live television and manage your DVR wit
 Out of the box, Emby Server currently supports the following TV Tuners:
 
 * [HDHomerun Network Tuner](HDHomerun)
+* Hauppauge TV Tuners (on Emby Server for Windows)
 * [M3U files (or urls)](M3U%20Tuners). See examples of m3u files at http://xmtvplayer.com/build-m3u-file
 
 Support for additional tuners can be added by installing a [Live TV Plugin](Live-TV-Plugins).
