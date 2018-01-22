@@ -87,9 +87,10 @@ Multiple versions of the same content can be stored in a single movie folder.
     /300 - extended edition.mp4
     /300 - directors cut.mp4
     /300 - 3D.hsbs.mp4
+    /300 [720p].mp4
 ```
 
-Each version must begin with the folder name, followed by " - ". If this requirement is not met, they will be treated as separate videos. The text following the dash can be anything you want and will be what you see when Emby apps give you the option to select a specific version.
+Each version must begin with the folder name, followed by " - " or brackets " [720p] ". If this requirement is not met, they will be treated as separate videos. The text following the dash can be anything you want and will be what you see when Emby apps give you the option to select a specific version.
 
 **Note**: The above example includes a 3D version, which is discussed in the [3D Video](3D-Videos) naming guide.
 
