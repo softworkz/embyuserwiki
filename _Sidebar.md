@@ -86,6 +86,7 @@
 * [Feature Matrix](Emby-Premiere-Feature-Matrix)
 * [How do I get my key?](How-is-the-Emby-Premiere-key-delivered-to-me%3F)
 * [What if I lose my key?](What-if-I-lose-my-Emby-Premiere-key%3F)
+* [My Emby Key Says it is Invalid or Missing](https://github.com/MediaBrowser/Wiki/wiki/My-Emby-Key-Says-it-is-Invalid-or-Missing)
 * [How do I upgrade my membership?](How-do-I-upgrade-my-Emby-Premiere-membership%3F)
 * [Is there a limit to Premiere?](Is-there-a-limit-to-Emby-Premiere%3F)
 * [Why is the price different in the App store?](Why-is-the-Emby-Premiere-price-different-in-the-app-stores%3F)
