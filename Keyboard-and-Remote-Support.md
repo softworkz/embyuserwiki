@@ -51,6 +51,8 @@ This document will list all of the supported keys that are recognized. Please no
 * M: toggle mute
 * PageUp: unpause
 * PageDown: pause
+* Channel up: Next channel (or next track if not playing live tv)
+* Channel down: Previous channel (or previous track if not playing live tv)
 
 # Windows Media Keys
 
