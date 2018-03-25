@@ -60,6 +60,7 @@
 * [Android TV](Android%20TV)
 * [Chromecast](Chromecast)
 * [Emby Theater for Windows](Emby%20Theater%20for%20Windows)
+* [Google Home](Google%20Home)
 * [iOS](iOS)
 * [Roku](Roku)
 * [Web App](Web%20Client)
