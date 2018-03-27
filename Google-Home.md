@@ -1,7 +1,7 @@
 # Emby with Google Home
 
 1. [What is Google Home?](Google%20Home#what-is-google-home)
-2. [Get started](Alexa#get-started)
+2. [Get started](Google%20Home#get-started)
     * [Why is Emby connect required?](Google%20Home#why-is-emby-connect-required)
     * [Google Home account linking](Google%20Home#google-home-account-linking)
     * [My server is not available to be selected](Google%20Home#my-server-is-not-available-to-be-selected-what-do-i-do)
