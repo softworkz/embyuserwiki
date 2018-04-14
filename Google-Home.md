@@ -38,7 +38,7 @@ Google Home requests are sent from outside your network. You will need to ensure
 Emby connect is used to provide your server information to Google Home over a secure connection.
 
 #### Google Home account linking
-Coming soon.
+The first time you invoke Emby Home, you will be asked to link your Emby account. Enter your Emby connect credentials and select your server. This will enable the skill and work across all your Google Home devices linked to your Google Account.
 
 #### My server is not available to be selected, what do I do?
 If you don't have an Emby account, follow the steps [here](Emby%20Connect), otherwise:
@@ -51,7 +51,7 @@ If you don't have an Emby account, follow the steps [here](Emby%20Connect), othe
 </div>
 
 ## Commands
-### How to use Alexa
+### How to use Google Home
 * Every command needs to start with: **Alexa, tell/ask Emby to {insert command}.**
 * Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
@@ -98,7 +98,7 @@ You can navigate your interface by saying the movement or action related to what
 * go to the next/previous chapter
 
 #### Media Playback
-By default, Alexa is set to search video content when the content type is not specified. This means, for any other types, you need to include the content type to yield proper results.
+By default, Google Home is set to search video content when the content type is not specified. This means, for any other types, you need to include the content type to yield proper results.
 * play (the movie) {movie}
 * player (the show) {series}
 * resume the episode from {series}
@@ -121,7 +121,7 @@ Reply to the suggestion with a yes or a no.
 
 #### Play random content
 * play something
-* play a ({genre}) movie
+* play a movie genre {genre i.e. horror}
 * play an episode of {series}
 * play **a few** episodes
 
@@ -146,9 +146,8 @@ Reply to the suggestion with a yes or a no.
 * what (show/movie/audio book) was I in the middle of?
 
 #### Item modification
-* add {content type, i.e. movie} {title} to my favorites
-* I love the {media type, i.e. music video} {music video}
-* set/mark {media type, i.e. movie} {title} as watched/unwatched
+* add/remove to/from my favorites  {content type, i.e. movie} {title}
+* set/mark as watched/unwatched {media type, i.e. movie} {title}
 
 #### Transfer or Copy playback between devices
 Transfer will stop playback first. Copy will simply resume playback where you left off, on the device of your choice. By default, it will fill in the missing information with your default player.
