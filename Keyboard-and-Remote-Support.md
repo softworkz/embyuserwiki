@@ -49,8 +49,8 @@ This document will list all of the supported keys that are recognized. Please no
 * F10: volume up
 * F: toggle full-screen
 * M: toggle mute
-* PageUp: unpause
-* PageDown: pause
+* PageUp: Next chapter in video
+* PageDown: Previous chapter in video
 * Channel up: Next channel (or next track if not playing live tv)
 * Channel down: Previous channel (or previous track if not playing live tv)
 
