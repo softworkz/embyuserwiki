@@ -110,7 +110,7 @@ By default, Google Home is set to search video content when the content type is 
 #### Suggestions
 Reply to the suggestion with a yes or a no.
 * give me a suggestion
-* suggest me a ({genre}) {content type, i.e. movie}
+* suggest me a {content type, i.e. movie} (genre {genre})
 * I don't know what ({episode}) to watch
 * what's good?
 
