@@ -122,8 +122,8 @@ Reply to the suggestion with a yes or a no.
 
 #### Play random music
 * drop the beat
-* put on some ({genre}) music
-* play ({genre}) songs
+* put on some music (genre {genre})
+* play songs (genre {genre})
 * play songs by {Artist}
 * play songs from the album {Album}
 
