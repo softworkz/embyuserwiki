@@ -8,7 +8,6 @@
 3. [Commands](Google%20Home#commands)
     * [How to use Google Home](Google%20Home#how-to-use-google-home)
     * [Select a player](Google%20Home#which-player)
-    * [Select an Emby user](Google%20Home#which-emby-user)
     * [Additional users](Google%20Home#additional-users)
     * [Navigation](Google%20Home#navigation)
     * [Playback](Google%20Home#playback)
@@ -52,13 +51,13 @@ If you don't have an Emby account, follow the steps [here](Emby%20Connect), othe
 
 ## Commands
 ### How to use Google Home
-* Every command needs to start with: **Alexa, tell/ask Emby to {insert command}.**
-* Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
-_The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
-* You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
+* Every command needs to start with: **Ask Emby Home {insert command}.**
+* Alternatively, you can start an Emby session with: **Hey Google Home, talk to Emby home.**  
+_The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity._
+* You can stop whatever Google Home is doing with: **Hey Google Home, cancel/nevermind.** Google Home will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
 * To direct a command to a specific player, append **on {player name}** to the end of your command.
-* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel.
+* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel, playlist.
 * **Parts of commands in parenthesis given below are optional**
 
 #### Which player?
@@ -66,10 +65,6 @@ You can set a player as default. If a device/player name is not included at the 
 * change the player (to {player or device name})
 * change my player to Living Room TV
 
-#### Which Emby user?
-By default, the skill will use the same Emby user used to link Alexa to Emby. But it can be changed with the following:
-* who is the active user
-* change the user (to {Emby username})
 #### Additional users
 Share the watch status of currently playing content by adding other Emby users to your session.
 * who is in the session
