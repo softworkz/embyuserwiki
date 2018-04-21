@@ -58,6 +58,7 @@ _The benefit of using an Emby session is it allows you to give multiple commands
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
 * To direct a command to a specific player, append **on {player name}** to the end of your command.
 * Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel, playlist.
+* If you are unsure of the active Emby user in Google Home, ask Emby home who's the user.
 * **Parts of commands in parenthesis given below are optional**
 
 #### Which player?
