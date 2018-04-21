@@ -131,6 +131,7 @@ Reply to the suggestion with a yes or a no.
 * what's new
 * what's been recently added?
 * what {content type, i.e. movie} is newly added
+* what is on {channel name}?
 
 #### Next Up
 * what's next
