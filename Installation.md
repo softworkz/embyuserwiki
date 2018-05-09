@@ -49,7 +49,7 @@ If you wish to access your Emby server remotely (outside of your LAN), then you 
 
 ![](images/server/wizard_new_10.png)
 
-Further Remote Access options are available in the E,by server dashboard (Advanced/Hosting).
+Further Remote Access options are available in the Emby server dashboard (Advanced/Hosting).
 
 ## Emby Terms of Service
 
