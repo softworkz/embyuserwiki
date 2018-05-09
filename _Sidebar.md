@@ -70,8 +70,7 @@
 * [Offline access](Offline-Access)
 
 ### Dlna
-* [Play to](Play%20to)
-* [Dlna server](Dlna%20server)
+* [Dlna settings](Dlna%20settings)
 * [Dlna profiles](Dlna%20profiles)
 
 ### Sync
