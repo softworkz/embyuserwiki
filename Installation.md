@@ -43,7 +43,23 @@ Once you have added all the libraries that you want, you'll configure your defau
 
 ![](images/server/wizard3.png)
 
+## Remote Access
+
+If you wish to access your Emby server remotely (outside of your LAN), then you can set up initial options here.
+
+![](images/server/wizard_new_10.png)
+
+Further Remote Access options are available in the E,by server dashboard (Advanced/Hosting).
+
+## Emby Terms of Service
+
+Accept the Emby Terms of Service
+
+![](images/server/wizard_new_12.png)
+
 ## Completing the Startup Wizard
+
+![](images/server/wizard_new_12.png)
 
 Once you've completed the above screens, you'll then be taken to the Emby Server Dashboard. You're now ready to explore the features of the server while waiting for your media scan to complete.
 
