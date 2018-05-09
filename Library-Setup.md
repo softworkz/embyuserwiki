@@ -49,7 +49,7 @@ By allowing Emby apps direct access to media folders on the server, they may be 
 
 To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
 
-## Show Advanced Settings
+## Advanced Settings
 
 If you enable **Advanced Settings**, you will have additional settings per library displayed.
 
