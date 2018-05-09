@@ -33,7 +33,7 @@ As an option, you also have the ability to link the account to [Emby Connect](Em
 
 ### Add Media Libraries
 
-Finally, you'll add your media libraries. See [Library Setup](Library%20Setup) for more information.
+Now, you'll add your media libraries. See [Library Setup](Library%20Setup) for more information.
 
 ![](images/server/wizard4.png)
 
