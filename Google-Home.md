@@ -51,8 +51,8 @@ If you don't have an Emby account, follow the steps [here](Emby%20Connect), othe
 
 ## Commands
 ### How to use Google Home
-* Every command needs to start with: **Ask Emby Home {insert command}.**
-* Alternatively, you can start an Emby session with: **Hey Google Home, talk to Emby home.**  
+* Every command needs to start with: **Ask MB Home {insert command}.**
+* Alternatively, you can start an Emby session with: **Hey Google Home, talk to MB home.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity._
 * You can stop whatever Google Home is doing with: **Hey Google Home, cancel/nevermind.** Google Home will also abandon your request if you don't reply within 8 seconds.
 * **Chromecast is not compatible due to limitation by Google at this time.**
