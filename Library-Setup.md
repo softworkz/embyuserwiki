@@ -48,3 +48,16 @@ To add a library path, click the + button. A popup will be displayed allowing yo
 By allowing Emby apps direct access to media folders on the server, they may be able to play them directly over the network and avoid using server resources to stream and transcode. Network Paths can help achieve this by mapping a path on the server to a network path that can be accessed by other devices.
 
 To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
+
+## Show Advanced Settings
+
+If you enable **Advanced Settings**, you will have additional settings per library displayed.
+
+![](images/server/librarysetup2a.png)
+
+![](images/server/librarysetup2b.png)
+
+Advanced Settings include options such as: 
+
+* Prefer embedded titles over filenames
+* Extract chapter images during the library scan
