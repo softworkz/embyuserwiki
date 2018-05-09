@@ -55,7 +55,7 @@ Further Remote Access options are available in the E,by server dashboard (Advanc
 
 Accept the Emby Terms of Service
 
-![](images/server/wizard_new_12.png)
+![](images/server/wizard_new_11.png)
 
 ## Completing the Startup Wizard
 
