@@ -31,12 +31,6 @@ As an option, you also have the ability to link the account to [Emby Connect](Em
 
 ![](images/server/wizard2.png)
 
-### Configure Settings
-
-On the third page you'll configure your default metadata settings, such as where they'll get saved and in what language.
-
-![](images/server/wizard3.png)
-
 ### Add Media Libraries
 
 Finally, you'll add your media libraries. See [Library Setup](Library%20Setup) for more information.
