@@ -37,7 +37,7 @@ Now, you'll add your media libraries. See [Library Setup](Library%20Setup) for m
 
 ![](images/server/wizard4.png)
 
-### Configure Language Settings
+## Configure Metadata Language Settings
 
 Once you have added all the libraries that you want, you'll configure your default metadata settings, such as where they'll get saved and in what language.
 
