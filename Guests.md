@@ -4,7 +4,11 @@ Guests are users that you've invited using [Emby Connect](Emby%20Connect). By de
 
 ## Inviting a Guest
 
-To invite a guest, click the + button next to the Guests header. You'll then be prompted to enter their Emby username or email address. 
+To invite a guest, click the + button next to the Users header. 
+
+![](images/server/users8.png)
+
+You'll then be prompted to enter their Emby username or email address. 
 
 ![](images/server/users25.png)
 
