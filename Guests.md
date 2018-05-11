@@ -8,6 +8,8 @@ To invite a guest, click the + button next to the Users header.
 
 ![](images/server/users8.png)
 
+Click on "Invite with Emby Connect".
+
 You'll then be prompted to enter their Emby username or email address. 
 
 ![](images/server/users25.png)
