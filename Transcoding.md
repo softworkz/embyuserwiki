@@ -13,7 +13,7 @@ Every Emby app will have a setting known as "Max streaming bitrate". This is the
 
 # Server Settings
 
-In addition, the server has some transcoding settings that can be configured. These are found by opening the server dashboard and navigating to **Playback** -> **Transcoding**.
+In addition, the server has some transcoding settings that can be configured. These are found by opening the server dashboard and navigating to **Transcoding**.
 
 ![](images/server/transcoding1.png)
 
@@ -24,6 +24,7 @@ The **hardware video decoder setting** allows the use of the following options:
 * Open MAX (OMX)
 * VAAPI
 
+NB. This is not an exhaustive list, so please choose the correct setting in the drop-down menu.
 
 This should only be enabled if you have the appropriate hardware and may result in errors otherwise. If you're unsure, leave the setting at Auto and the system will attempt to automatically detect this.
 
