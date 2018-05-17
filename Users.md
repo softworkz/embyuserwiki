@@ -1,6 +1,6 @@
 Most operations within Emby are based around users. Users can have their own personalized media libraries, user data, recommendations, security settings, and more.
 
-Users are managed within the server dashboard by navigating to **Users**. The page will display as many as three kinds of users: Local Users, [Guests](Guests) and [Pending Invitations](Guests).
+Users are managed within the server dashboard by navigating to **Users**. 
 
 ## Local Users
 
@@ -15,15 +15,9 @@ A local user will be displayed with a cloud if it is linked to [Emby Connect](Em
 
 Linking a user to Emby Connect will enable an easier sign in process that doesn't require the user to know your server's ip address. For more information, see [Emby Connect](Emby%20Connect).
 
-## Guests
-
-Guests are users that you've invited using [Emby Connect](Emby%20Connect).
-
-For more information, see [Guests](Guests).
-
 ## Adding a User
 
-To add a local user, click the + button within the Users heading:
+To add a user, click the + button within the Users heading:
 
 ![](images/server/users7.png)
 
@@ -43,7 +37,7 @@ Any user can be granted administrative access which will allow them to utilize t
 
 ![](images/server/users18.png)
 
-Other features can also be granted or denied, such as the ability to delete media, sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a guest user who can browse the library but not play anything.
+Other features can also be granted or denied, such as the ability to delete media, sync media, view live tv, manage live tv, etc. The "Allow media playback" option determines if the user is able to play media or not. This option is handy if you'd like to setup a user who can browse the library but not play anything.
 
 ![](images/server/users21.png)
 
@@ -80,6 +74,6 @@ See [Passwords](Passwords).
 
 ## Deleting a User
 
-To delete a user or guest, simply click the dot menu button and select Delete:
+To delete a user, simply click the dot menu button and select Delete:
 
 ![](images/server/users5.png)
