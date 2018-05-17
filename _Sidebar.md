@@ -41,7 +41,6 @@
 ### Users
 
 * [Users](Users)
-* [Guests](Guests)
 * [Parental controls](Parental%20controls)
 * [Passwords](Passwords)
 * [Content access](Content%20Access)
