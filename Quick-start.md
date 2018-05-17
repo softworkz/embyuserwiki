@@ -11,7 +11,7 @@ If you have received an invitation to share an existing Emby server, then you ca
 
 http://emby.media/download/
 
-Or try the online web app at
+Or try the online web app, using the login credentials supplied by your Emby server administrator, at
 
 http://app.emby.media
 
