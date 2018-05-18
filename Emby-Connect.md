@@ -57,7 +57,7 @@ You will then be presented with a form to complete, with your current password a
 
 ![](images/server/connect5.png)
 
-If you are unable to login to the Emby Community, you can try resetting your password [here](passwordreset).
+If you are unable to login to the Emby Community, you can try resetting your password [here](Password-Reset).
 
 ## Does This Mean My Streaming is Passing Through the Cloud?
 
