@@ -35,11 +35,29 @@ Inviting a friend is easy. Open the Emby server dashboard and navigate to Users.
 
 You'll be prompted to enter their Emby username or email address. 
 
-![](images/server/users8-2.png)
+![](images/server/connect2.png)
 
 If they don't have one yet that's OK, simply enter their email address and they'll be sent an invitation to signup.
 
 Further instructions are available [here](Users#adding-a-user).
+
+## Changing your Emby Connect password
+
+Changing your Emby Connect password is done via your account on the Emby Community.
+
+From within the Emby Community, click on your username in the top right of the screen, then click on My Profile.
+
+![](images/server/connect3.png)
+
+Next, click on Edit Profile.
+
+![](images/server/connect4.png)
+
+You will then be presented with a form to complete, with your current password and your new password (twice).
+
+![](images/server/connect5.png)
+
+If you are unable to login to the Emby Community, you can try resetting your password [here](passwordreset).
 
 ## Does This Mean My Streaming is Passing Through the Cloud?
 
