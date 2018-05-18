@@ -29,7 +29,19 @@ The first step to setting up your server with Emby Connect is to link your serve
 
 ### Sending an Invitation
 
-Inviting a friend is easy. Just follow the instructions [here](Users#adding-a-user).
+Inviting a friend is easy. 
+
+Inviting a friend is easy. Open the Emby server dashboard and navigate to Users. Then click the + button to invite a new user.
+
+![](images/server/users8.png)
+
+You'll be prompted to enter their Emby username or email address. 
+
+![](images/server/users8-2.png)
+
+If they don't have one yet that's OK, simply enter their email address and they'll be sent an invitation to signup.
+
+Further instructions are available [here](Users#adding-a-user).
 
 ## Does This Mean My Streaming is Passing Through the Cloud?
 
