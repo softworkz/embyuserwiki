@@ -12,6 +12,8 @@ Enter either your Emby Community username, or the email address you signed-up wi
 
 Click on the "I am not a robot" and then click PROCEED.
 
-You will then see confirmation that a email has been sent to the address entered, or associated with the username enter.
+You will then see confirmation message that a email has been sent to the address entered, or associated with the username enter.
 
 ![](images/server/passwordreset3.png)
+
+Once the email is received (make sure to check your SPAM folder), simply following the instructions contained within it.
