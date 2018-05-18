@@ -29,7 +29,7 @@ The first step to setting up your server with Emby Connect is to link your serve
 
 ### Sending an Invitation
 
-Inviting a friend is easy. Just follow the instructions [here]{Users}.
+Inviting a friend is easy. Just follow the instructions [here](Users).
 
 ## Does This Mean My Streaming is Passing Through the Cloud?
 
