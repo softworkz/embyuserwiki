@@ -46,6 +46,7 @@
 * [Content access](Content%20Access)
 * [Device access](Device%20Access)
 * [Emby Connect](Emby%20Connect)
+* [Emby Connect Password Reset](Password-Reset)
 
 ### Live TV
 * [Live TV](Live%20TV)
