@@ -10,7 +10,7 @@ You will then be presented with a form where you can request a password reset.
 
 Enter either your Emby Community username, or the email address you signed-up with.
 
-Click on the "I am not a robot" and then click PROCEED.
+Click on the "I'm not a robot" and then click PROCEED.
 
 You will then see confirmation message that a email has been sent to the address entered, or associated with the username enter.
 
