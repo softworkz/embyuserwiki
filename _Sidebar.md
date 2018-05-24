@@ -37,6 +37,7 @@
 * [Transcoding](Transcoding)
 * [Backing up Emby Server](Backup)
 * [Emby Server as a Windows Service](Running%20Emby%20Server%20as%20a%20Windows%20Service)
+* [Open Subtitles](Open Subtitles)
 
 ### Users
 
