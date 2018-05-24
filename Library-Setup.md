@@ -69,4 +69,4 @@ Advanced Settings include options such as:
 
 * Prefer embedded titles over filenames
 * Extract chapter images during the library scan
-* Choose to include [Open Subtitles](Open-Subtitles) subtitles
+* [Open Subtitles](Open-Subtitles) subtitles
