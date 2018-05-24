@@ -39,3 +39,5 @@ External subtitles can be marked as forced using either ".forced" or ".foreign".
 * ssa
 * sub/idx
 * vtt
+
+Subtitles can be downloaded from (Open Subtitles)[Open-Subtitles].
