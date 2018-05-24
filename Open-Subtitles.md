@@ -1,10 +1,10 @@
 To use Open Subtitles, you need to register an account on the Open Subtitles website.
 
-To do this, click on the Open Subtitles link in the Emby server dashboard.
-
-![](images/server/OpenSubtitles1.png)
+To do this, click "Open Subtitles" in the side-bar menu of the Emby server dashboard.
 
 Then click on **Register** and the Open Subtitles registration page will open, where you can register your account.
+
+![](images/server/OpenSubtitles1.png)
 
 Once registered, enter your username and password in the form above and click Save.
 
