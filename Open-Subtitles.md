@@ -8,4 +8,4 @@ Then click on **Register** and the Open Subtitles registration page will open.
 
 Once registered, enter your username and password in the form above and click Save.
 
-Subtitles will now be downloaded as and when available, via the Download Subtitles [Scheduled Task(Scheduled%20tasks).
+Subtitles will now be downloaded as and when available, via the Download Subtitles [Scheduled Task](Scheduled%20tasks).
