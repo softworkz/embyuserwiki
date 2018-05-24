@@ -8,6 +8,6 @@ Then click on **Register** and the Open Subtitles registration page will open, w
 
 Once registered, enter the username and password in the form above and click Save.
 
-To manage subtitle downloading, click on a library in Emby library setup, and edit the subtitle downloading settings.
+To manage subtitle downloading, click on a library in [Emby library setup](Library%20Setup#subtitles), and edit the subtitle downloading settings.
 
 Subtitles will now be downloaded as and when available, via the Download Subtitles [Scheduled Task](Scheduled%20tasks).
