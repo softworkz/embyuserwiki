@@ -49,6 +49,12 @@ By allowing Emby apps direct access to media folders on the server, they may be 
 
 To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
 
+## Subtitles
+
+If required, you can select the subtitle language that Emby server will attempt to download.
+
+![](images/server/librarysetup2c.png)
+
 ## Advanced Settings
 
 If you enable **Advanced Settings**, you will have additional settings per library displayed.
@@ -57,7 +63,10 @@ If you enable **Advanced Settings**, you will have additional settings per libra
 
 ![](images/server/librarysetup2b.png)
 
+![](images/server/librarysetup2d.png)
+
 Advanced Settings include options such as: 
 
 * Prefer embedded titles over filenames
 * Extract chapter images during the library scan
+* Choose to include [Open Subtitles](Open-Subtitles) subtitles
