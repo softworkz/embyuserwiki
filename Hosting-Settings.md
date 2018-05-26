@@ -43,3 +43,7 @@ Emby apps use http by default. In order to force them to use https, you can conf
 By default the server will attempt to automatically map public to local ports by configuring your router. You can disable this as necessary here.
 
 ![](images/server/hosting6.png)
+
+
+
+There is a community-written guide on "[HOW TO: NGINX Reverse Proxy](https://emby.media/community/index.php?/topic/47508-how-to-nginx-reverse-proxy/)".
