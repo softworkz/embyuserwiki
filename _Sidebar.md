@@ -15,6 +15,7 @@
 * [Subtitles](Subtitles)
 * [Theme songs & videos](Theme%20songs%20&%20videos)
 * [Trailers](Trailers)
+* [Identify](Identify)
 
 ### Server
 
