@@ -14,7 +14,7 @@ Once install, Emby will inform you that the server needs to be restarted.
 
 ![](images/server/AutoBoxSets3.png)
 
-When the server has restarted, click **Plugins** in the side-bar menu of the Emby server dashboard, and select the **My Plugimns** tab.
+When the server has restarted, click **Plugins** in the side-bar menu of the Emby server dashboard, and select the **My Plugims** tab.
 
 You will see the **AutoBoxSets** plugin listed (along with any other plugins already installed), where you can open the settings page, by clicking on the 3-dot menu.
 
