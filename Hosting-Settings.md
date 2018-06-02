@@ -70,6 +70,7 @@ We will now create Let's encrypt ssl certificates and add it to your domain. Her
 
    **Target**: qariKbGVafpb5MespqHdMaGi933yW-Z2A3shE0wIyZA
 
+4. You'll notice Type A records in the same section. You can remove the WWW entry. Ensure your external IP is correct. If you have a dynamic IP, you'll need to keep this updated when it changes.
 5. Wait about 15 minutes. Let the domain name and changes propagate.
 6. Back to the SSL for free website. Look at step 3, you'll see a link or two to click. Click them. If it is successful, go ahead and click Download SSL certificate. If it is not successful, wait a little longer and retry.
 
