@@ -50,13 +50,13 @@ This is a quick tutorial on how to secure your Emby server for free. If you are 
 
 You'll need two things:
 * A domain that supports TXT records
-* A ssl certificate
+* A ssl certificate (PKCS #12)
 
 #### Get your domain
 Sign up for a free domain of your choice. You could use [Freenom](https://my.freenom.com/) or [Dynu](https://www.dynu.com/en-US/).
 
 #### SSL certificate
-We will now create Let's encrypt ssl certificates and add it to your domain. Here is a free service to helps with this [SSL for free](https://www.sslforfree.com/).
+We will now create Let's encrypt ssl certificates and add it to your domain. Here is a free service to help with this [SSL for free](https://www.sslforfree.com/).
 1. Enter your domain on the site. i.e. yourdomain.com and create a free SSL certificate
 2. Select Manual Verification (DNS) > Manually verify domain. We now have 2 TXT records (step 2 on the SSL for free website). We will copy back the TXT records to the domain provider. Leave the SSL for free page open. We will come back to it.
 ![](https://i.imgur.com/kh19ZgR.jpg)
