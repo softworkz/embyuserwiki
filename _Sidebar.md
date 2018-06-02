@@ -16,7 +16,6 @@
 * [Theme songs & videos](Theme%20songs%20&%20videos)
 * [Trailers](Trailers)
 * [Identify](Identify)
-* [AutoBoxSets](AutoBoxSets)
 
 ### Server
 
@@ -81,6 +80,10 @@
 * [Sync jobs](Sync-Jobs)
 * [Folder sync](Folder%20Sync)
 * [Google Drive](Google%20Drive)
+
+### Plugins
+* [Plugins](Plugins)
+* [AutoBoxSets](AutoBoxSets)
 
 ### Emby Premiere
 * [Emby Premiere](Emby%20Premiere)
