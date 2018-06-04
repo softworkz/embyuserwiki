@@ -4,7 +4,7 @@ To install the plugin, click **Plugins** in the side-bar menu of the Emby server
 
 Scroll down to the **General** section of the page, and click on the plugin image.
 
-![](images/server/AutoBoxSets1.png)
+![](images/server/plugins/AutoBoxSets1.png)
 
 Click on **Install**.
 
