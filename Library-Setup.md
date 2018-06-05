@@ -49,6 +49,10 @@ By allowing Emby apps direct access to media folders on the server, they may be 
 
 To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
 
+## Enable real time monitoring
+
+Changes to files and new additions will be processed immediately, on supported file systems.
+
 ## Subtitles
 
 If required, you can select the subtitle language that Emby server will attempt to download.
