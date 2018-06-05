@@ -51,7 +51,7 @@ To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
 
 ## Enable real-time monitoring
 
-To have Emby monitor changes and addition of content, real-time monitoring must be enabled.
+To have Emby monitor changes to files and addition of content, real-time monitoring should be enabled.
 
 NB. This option is only available on supported filesystems.
 
