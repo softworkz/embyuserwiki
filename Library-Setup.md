@@ -49,9 +49,11 @@ By allowing Emby apps direct access to media folders on the server, they may be 
 
 To learn more, see [Optional Network Paths](Optional%20Network%20Paths).
 
-## Enable real time monitoring
+## Enable real-time monitoring
 
-Changes to files and new additions will be processed immediately, on supported file systems.
+To have Emby monitor changes and addition of content, real-time monitoring must be enabled.
+
+NB. This option is only available on supported filesystems.
 
 ## Subtitles
 
