@@ -24,6 +24,6 @@ You can manually force a refresh of the AutoBoxSets with the **Refresh Box Sets*
  
 ![](images/server/AutoBoxSets5.png)
 
-** Trouble Shooting
+**Trouble Shooting**
 
 If movies aren't added to the collection as expected, ensure that the **TmdbCollectionId** is correct and that each movie in the collection has the correct **TmdbCollectionId** set in it's own metadata.
