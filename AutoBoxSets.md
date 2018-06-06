@@ -28,4 +28,4 @@ You can manually force a refresh of the AutoBoxSets with the **Refresh Box Sets*
 
 If movies aren't added to the collection as expected, ensure that the **TmdbCollectionId** is correct on the [The Movie DB website](https://www.themoviedb.org/) and that each movie in the collection has the correct **TmdbCollectionId** set in it's own metadata.
 
-Once this is confirmed, you can then manually force a refresh of the AutoBoxSets via the **Refresh Box Sets** button in the AutoBoxSets Plugin configuration page.
+Once this is confirmed, you can then manually force a refresh of the AutoBoxSets via the **Refresh Box Sets** button in the AutoBoxSets Plugin configuration page (see above).
