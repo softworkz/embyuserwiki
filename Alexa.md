@@ -201,6 +201,8 @@ You can easily replace the Emby connect account linked to Alexa. First, you will
     Make sure your Emby player is up and running under the same Emby user Alexa is connected to. At this time, playing on the Alexa device is not supported.
 - **Why can't I play on the Alexa device directly?**  
     Amazon Alexa requires content to be accessed over a secured connection. At this time, this option has not yet been implemented. Once it is, only Emby servers using HTTPS will be able to use this feature.
+- **My title is recognized all weird?**
+    That's what happens with voice control. Correct the title [here](https://goo.gl/forms/SnruVeWIBFyufxZr1). 
 
 ### AWS Server status  
 http://status.aws.amazon.com/  
