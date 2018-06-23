@@ -39,7 +39,7 @@ We are almost done. Your Emby server requires a PKCS #12 certificate (certificat
 
    **Private key**: private.key
 
-   **Chain certificate**: Let's Encrypt [Intermediate certificate](https://letsencrypt.org/certs/lets-encrypt-x3-cross-signed.pem.txt). Save the text into a .txt file.
+   **Chain certificate**: The ca_bundle.crt or you can also find it here, Let's Encrypt [Intermediate certificate](https://letsencrypt.org/certs/lets-encrypt-x3-cross-signed.pem.txt). Save the text into a .txt file.
 
    **PFX password**: Since the private key is combined with the certificate, set a password to secure the new ssl certificate. Remember this password, you'll need it in Emby.
 3. Go to your Emby server dashboard > Advanced. Save your changes and restart your server.
