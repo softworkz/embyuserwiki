@@ -33,7 +33,7 @@ Now you should have a domain and a folder of ssl certificate (ca_bundle.crt, cer
 We are almost done. Your Emby server requires a PKCS #12 certificate (certificate.crt and private.key combined).
 
 1. Use this [online certificate converter](https://www.sslshopper.com/ssl-converter.html).
-2. Select type to convert to: PKCS #12. This should expand the number of fields. Once completed, you'll get a new .pem certificate.
+2. Select type to convert to: PKCS #12. This should expand the number of fields. Once completed, you'll get a new .pfx certificate.
 
    **Certificate file**: certificate.crt
 
