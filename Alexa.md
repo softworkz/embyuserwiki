@@ -1,8 +1,7 @@
 # Emby with Amazon Alexa
-_The skill for German is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
+[Emby skill](https://skills-store.amazon.com/deeplink/dp/B07F8VC9F9?deviceType=app&share&refSuffix=ss_copy) Available in English US, UK, Canada, Australia, India  
+_The skill in German and French is being worked on. This page will be updated when the skill will be available in the Amazon Skills Store._
 
-[Emby skill (US)](https://www.amazon.com/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836893&sr=1-1&keywords=emby)  
-[Emby skill (UK)](https://www.amazon.co.uk/Emby/dp/B071GP8C3F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511836813&sr=1-1&keywords=emby)
 
 1. [What is Alexa?](Alexa#what-is-alexa)
 2. [Get started](Alexa#get-started)
@@ -12,6 +11,7 @@ _The skill for German is being worked on. This page will be updated when the ski
 3. [Training Alexa](Alexa#training-alexa)
 3. [Commands](Alexa#commands)
     * [How to use Alexa](Alexa#how-to-use-alexa)
+    * [Playback on Alexa](Alexa#using-alexa-as-a-player)
     * [Select a player](Alexa#which-player)
     * [Select an Emby user](Alexa#which-emby-user)
     * [Additional users](Alexa#additional-users)
@@ -76,14 +76,25 @@ The Amazon Alexa app offers feedback cards for skills. This allows Alexa to self
 
 ## Commands
 ### How to use Alexa
-* Every command needs to start with: **Alexa, tell/ask Emby to {insert command}.**
-* Alternatively, you can start an Emby session with: **Alexa, start/begin/open Emby.**  
+* Every command needs to start with: **Alexa, tell/ask m. b. home to {insert command}.**
+* Alternatively, you can start an Emby session with: **Alexa, start/begin/open m. b. home.**  
 _The benefit of using an Emby session is it allows you to give multiple commands without needing to invoke Emby for as long as the session is active. Sessions are automatically terminated after 8 seconds of inactivity (when the blue ring of your Alexa device fades)._
 * You can stop whatever Alexa is doing with: **Alexa, cancel/nevermind.** Alexa will also abandon your request if you don't reply within 8 seconds.
 * Not all commands are compatible with every Emby apps. If you encounter an issue, post [here](https://emby.media/community/index.php?/forum/174-amazon-alexa/).  
-* To direct a command to a specific player, append **on {player name}** to the end of your command.
-* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel.
+* To direct a command to a specific player, append **on another player** or **on {player name}** to the end of your command.
+* Here is the list of supported media type: episode, movie, show, season, song, album, artist, audiobook, channel, playlist.
 * **Parts of commands in parenthesis given below are optional**
+
+### Using Alexa as a player
+Audio playback is supported at this time. This feature requires your server to be secured with ssl encryption. Refer to [this guide](Secure-Your-Server) if you need help. Self-signed certificates are not supported for this.
+
+​Ask m. b. home to play music. Specify "on this player" or "on Alexa" at the end of your request to skip the player selection. Once [music playback](Alexa#media-playback) is initiated with the skill, you can use these controls (notice you don't invoke m. b. home):
+* Alexa, Next
+* Alexa, Previous
+* Alexa, Pause
+* Alexa, Resume
+* Alexa, start over
+* Alexa, loop (This is to repeat the currently playing item. Loop off to turn off)
 
 #### Which player?
 You can set a player as default. If a device/player name is not included at the end of your command, it will be automatically directed at your default player.
@@ -145,14 +156,14 @@ Reply to the suggestion with a yes or a no.
 
 #### Play random content
 * play something
-* play a ({genre}) movie
+* play a movie (genre {Genre})
 * play an episode of {series}
 * play **a few** episodes
 
 #### Play random music
 * drop the beat
-* put on some ({genre}) music
-* play ({genre}) songs
+* put on some music (genre {Genre})
+* play songs (genre {Genre})
 * play songs by {Artist}
 * play songs from the album {Album}
 
@@ -170,7 +181,8 @@ Reply to the suggestion with a yes or a no.
 * what (show/movie/audio book) was I in the middle of?
 
 #### Item modification
-* add {content type, i.e. movie} {title} to my favorites
+* remove {title} from my favorites
+* add ({content type, i.e. movie}) {title} to my favorites
 * I love the {media type, i.e. music video} {music video}
 * set/mark {media type, i.e. movie} {title} as watched/unwatched
 
