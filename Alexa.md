@@ -28,7 +28,6 @@ _The skill in German and French is being worked on. This page will be updated wh
     * [Help with commands](Alexa#help)
 4. [Change Emby connect account](Alexa#change-your-emby-connect-account)
 5. [Frequently asked questions](Alexa#FAQs)
-4. [AWS Server status](Alexa#aws-server-status)
 
 ### What is Alexa?  
 Amazon Alexa is a cloud-based voice service, so it is always getting smarter. Ask Alexa to play music, hear the news, check weather, control your smart home, and more.
@@ -159,6 +158,7 @@ Reply to the suggestion with a yes or a no.
 * play a movie (genre {Genre})
 * play an episode of {series}
 * play **a few** episodes
+* play next up
 
 #### Play random music
 * drop the beat
