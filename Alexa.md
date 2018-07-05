@@ -121,7 +121,7 @@ You can navigate your interface by saying the movement or action related to what
 * show/display/bring up the context menu/TV guide/search/player menu (osd)/settings
 
 #### Playback
-* pause, previous, next, play (the selected content), **stop playback**
+* pause, previous, next, play (the selected content), **stop or stop playback**
 * set the volume (to {percent})
 * change the audio (to {language})
 * change/enable/disable subtitles
