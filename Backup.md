@@ -75,4 +75,4 @@ If your library was configured with identical paths as the old setup then user d
 Your user data is stored in our old library.db file, and we'll need to run some sql queries to import this into the new library.db in the new Emby Server installation. You'll need a Sqlite database editor such as DB Browser for Sqlite.
 
 You'll need to open the old library.db file, then attach the new library.db file. You can then migrate the data using:
-`REPLACE INTO NewDB.userdata SELECT * FROM userdata`
+`REPLACE INTO NewDB.userdatas SELECT * FROM userdatas`
