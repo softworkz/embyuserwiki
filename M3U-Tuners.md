@@ -14,3 +14,12 @@ Emby will accept either:
 
 * A file path to an M3U file
 * A url to an M3U file that can be downloaded
+
+The following M3U properties are supported:
+
+* tvg-name - Channel name
+* tvg-id - Channel unique id
+* tvg-chno - Channel number
+* tvg-shift - Number of hours to shift the epg (only used as needed)
+
+If any are missing, Emby will attempt to automatically detect the information using whatever tags are available.
