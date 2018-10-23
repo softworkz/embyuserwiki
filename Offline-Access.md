@@ -4,9 +4,6 @@ The Emby apps that currently support offline downloading are:
 
 * [Emby for Android Mobile](Android%20Mobile)
 * [Emby for Windows Store](Emby%20Theater%20for%20Windows)
-
-The feature is coming soon to:
-
 * [Emby for iOS](iOS)
 
 The feature is also available in the following third party apps:
