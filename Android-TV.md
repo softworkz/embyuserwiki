@@ -8,7 +8,7 @@ Install the app using one of the above methods, the app will then automatically 
 
 ## Direct Play Media Formats
 Video — m4v,mov,xvid,vob,mkv,wmv,asf,ogm,ogv,mp4,webm 
-Note: The exact containers and codecs that will direct play depends on both the device the app is on and the audio equipment it is connected to (and the type of connection - e.g. HDMI, optical, etc.).  The device with the widest support is the NVidia Shield. 
+Note: The exact containers and codecs that will direct play depends on both the device the app is on and the audio equipment it is connected to (and the type of connection - e.g. HDMI, optical, etc.).  The device with the widest support is the NVidia Shield.  
 Subtitles - srt,dvdsub,ssa,ass,sub,vtt,pgs  
 Audio – aac,mp3,mpa,wav,wma,mp2,ogg,oga,webma,ape,opus,ac3 (Dolby Digital), DTS, DTS-HD MA, TrueHD  
 
