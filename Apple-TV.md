@@ -8,7 +8,7 @@ Install the app using the store on your Apple TV, the app will then automaticall
 
 ## Direct Play Media Formats
 Video — h.264,h.265 (hevc) in m4v,mp4,mov container  
-Subtitles - srt,vobsub,ssa,ass,sub,vtt  
+Subtitles - srt,ssa,ass,sub,vtt  
 Audio – aac,ac3 (Dolby Digital),mp3  
 
 ## Best Practices for Direct Play
