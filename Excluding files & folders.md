@@ -1,1 +1,0 @@
-To exclude a folder from the library scan, simply mark it hidden, or place a file inside named .ignore.
