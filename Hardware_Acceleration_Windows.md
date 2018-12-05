@@ -2,7 +2,7 @@ Emby supports the following hardware acceleration variants on Windows
 
 - **[Nvidia NVDEC & NVENC](#nvidia-nvdec-nvenc)**  
 API for video encoding and decoding acceleration using Nvidia GPUs
-
+ 
 - **[Intel QuickSync Video](#intel-quicksync-video)**  
  Intel's brand for its dedicated video encoding and decoding hardware 
  core
@@ -70,7 +70,7 @@ It is not required to install any other tools or SDKs from Nvidia.
 [NVDEC](https://en.wikipedia.org/wiki/Nvidia_NVDEC)
 
 ## Intel QuickSync Video
-Intel® Quick Sync Video uses the dedicated media processing capabilities of Intel® Graphics Technology to decode and encode fast, enabling the processor to complete other tasks and improving system responsiveness.
+IntelÂ® Quick Sync Video uses the dedicated media processing capabilities of IntelÂ® Graphics Technology to decode and encode fast, enabling the processor to complete other tasks and improving system responsiveness.
 
 #### Supported Accelerations
 The following accelerations are currently supported by Emby.

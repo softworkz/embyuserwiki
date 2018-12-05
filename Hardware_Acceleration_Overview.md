@@ -1,5 +1,5 @@
 Emby supports a broad range of hardware accelerated video transcoding methods on its supported platforms:
-
+ 
 ## Windows
 
 Emby supports the following [hardware acceleration variants on Windows](Hardware_Acceleration_Windows)

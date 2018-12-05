@@ -5,7 +5,7 @@ API for video encoding and decoding acceleration using Nvidia GPUs
 
 - **[VA API](#va-api)**  
 Video Acceleration API for Linux is supported by several device manufacturers
-
+ 
 - **[Intel QuickSync Video](#intel-quicksync-video)**  
  Intel's brand for its dedicated video encoding and decoding hardware 
  core
@@ -91,7 +91,7 @@ and that not all hardware devices will support all accelerations.
 
 - **AMD**
   - [AMDGPU-PRO Driver for Linux](https://www.amd.com/en/support/kb/release-notes/rn-prorad-lin-amdgpupro)
-  - [Radeon™ Software for Linux](https://www.amd.com/en/support/kb/release-notes/rn-prorad-lin-18-40)
+  - [Radeonâ„¢ Software for Linux](https://www.amd.com/en/support/kb/release-notes/rn-prorad-lin-18-40)
 
 - **Other Hardware Supporting VA API**
   - [Supported hardware and drivers](https://en.wikipedia.org/wiki/Video_Acceleration_API#Supported_hardware_and_drivers)
@@ -104,7 +104,7 @@ and that not all hardware devices will support all accelerations.
 
 ##### AMD
 
-[Radeon™ Software for Linux® Installation](https://www.amd.com/en/support/kb/faq/amdgpu-installation)
+[Radeonâ„¢ Software for LinuxÂ® Installation](https://www.amd.com/en/support/kb/faq/amdgpu-installation)
 
 #### Further Reading
 
@@ -112,7 +112,7 @@ and that not all hardware devices will support all accelerations.
 [Intel Video and Audio for Linux](https://01.org/vaapi)
 
 ## Intel QuickSync Video
-Intel® Quick Sync Video uses the dedicated media processing capabilities of Intel® Graphics Technology to decode and encode fast, enabling the processor to complete other tasks and improving system responsiveness.
+IntelÂ® Quick Sync Video uses the dedicated media processing capabilities of IntelÂ® Graphics Technology to decode and encode fast, enabling the processor to complete other tasks and improving system responsiveness.
 
 #### Supported Accelerations
 The following accelerations are currently supported by Emby.
