@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
   <head>
     {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
@@ -49,25 +49,27 @@
     </div>
 
     <div class="wrapper" id="mainContents">
-      <header>
-        {% if site.logo_url %}
-        <a href="{{ '/' | relative_url }}">
-          <img id="logo_url_a" src="{{ site.logo_url }}">
-        </a>
-        {% endif %}
+        <header>
+            {% if site.logo_url %}
+            <a href="{{ '/' | relative_url }}">
+                <img id="logo_url_a" src="{{ site.logo_url }}">
+            </a>
+            {% endif %}
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+            {% if site.github.is_user_page %}
+            <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+            {% endif %}
 
-        {% if site.custom_sidebar %}
+            {% if site.custom_sidebar %}
             {% include sidebar.html %}
-        {% endif %}
+            {% endif %}
 
-        <div class="tocTitle">Table of Contents</div>
-        <div id="toc"></div>
-        
-      </header>
+            {% include_relative _Sidebar.md %}
+
+            <div class="tocTitle">Table of Contents</div>
+            <div id="toc"></div>
+
+        </header>
       <div class="mainTitle">
         <p class="postedOn">Poted on {{site.time | date: "%Y-%m-%d"}}</p>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
