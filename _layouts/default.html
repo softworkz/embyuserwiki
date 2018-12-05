@@ -63,10 +63,10 @@
             {% if site.custom_sidebar %}
             {% include sidebar.html %}
             {% endif %}
-            
+
             <div class="normal">t1</div>
 
-            {% include_relative _Sidebar.md %}
+            {% include_relative _Sidebar.html %}
 
             <div class="tocTitle">Table of Contents</div>
             <div id="toc"></div>
@@ -93,9 +93,9 @@
             {% include footer.html %}
         {% endif %}
 
-        {% if site.github.is_project_page %}
+        <!--{% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        {% endif %}-->
         
       </footer>
     </div>
