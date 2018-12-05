@@ -41,6 +41,12 @@
 * [Open Subtitles](Open-Subtitles)
 * [Secure Your Server](Secure-Your-Server)
 
+### Hardware Acceleration
+
+* [Overview](Hardware-Acceleration-Overview)
+* [Windows](Hardware-Acceleration-on-Windows)
+* [Linux](Hardware-Acceleration-on-Linux)
+
 ### Users
 
 * [Users](Users)
