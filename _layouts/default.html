@@ -63,7 +63,12 @@
             {% if site.custom_sidebar %}
             {% include sidebar.html %}
             {% endif %}
+            
+            <div class="normal">t1</div>
 
+            {% include_relative /_Sidebar %}
+            {% include_relative _Sidebar %}
+            {% include_relative /_Sidebar.md %}
             {% include_relative _Sidebar.md %}
 
             <div class="tocTitle">Table of Contents</div>
