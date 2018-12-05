@@ -2,7 +2,7 @@
 * [Wiki home](home)
 * [Quick start](Quick%20start)
 * [System requirements](System%20requirements)
-
+ 
 ### Media organization
 * [Movie naming](Movie%20naming)
 * [TV naming](TV%20naming)
