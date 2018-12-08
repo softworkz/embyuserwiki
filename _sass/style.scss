@@ -237,7 +237,7 @@ header {
   width:$headerWidth;
   white-space: nowrap;
   float:left;
-  position:fixed;
+  /* position:fixed; */
   -webkit-font-smoothing:subpixel-antialiased;
 
   a>#logo_url_a{
