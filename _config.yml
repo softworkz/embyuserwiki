@@ -15,3 +15,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
