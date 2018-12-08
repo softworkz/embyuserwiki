@@ -64,10 +64,9 @@
             {% include sidebar.html %}
             {% endif %}
 
-            <div class="normal">t1</div>
-
-            {% include_relative _Sidebar.html %}
-
+            {% capture md_sidebar %}{% include _Sidebar.md %}{% endcapture %}
+            {{ md_sidebar | markdownify }}
+          
             <div class="tocTitle">Table of Contents</div>
             <div id="toc"></div>
 
