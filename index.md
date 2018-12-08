@@ -8,9 +8,9 @@ http://emby.media/
 
 See the menu on the right-hand side of this page for a complete listing. Some key areas are:
 
-* [Quick start](Quick%20start)
-* [System requirements](System%20requirements)
-* [Movie naming](Movie%20naming)
+* [Quick start](Quick start)
+* [System requirements]()
+* [Movie naming]
 * [TV naming](TV%20naming)
 * [Music naming](Music%20naming)
 * [Subtitles](Subtitles)
