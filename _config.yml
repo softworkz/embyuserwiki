@@ -12,6 +12,7 @@ markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 kramdown:
   input: GFM
+  auto_ids: true
   syntax_highlighter: rouge
 plugins:
   - jekyll-sitemap
