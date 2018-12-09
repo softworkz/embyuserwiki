@@ -4,7 +4,6 @@ show_downloads: false
 git_branch: master
 logo_url: https://emby.media/resources/logowhite_1881.png
 google_analytics:
-wiki_folder: wiki
 custom_head: false
 custom_sidebar: false
 custom_footer: false
