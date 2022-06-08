@@ -7,22 +7,36 @@ google_analytics:
 custom_head: false
 custom_sidebar: false
 custom_footer: false
-markdown:      kramdown
-markdown_ext:  markdown,mkd,mkdn,md
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
-plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-seo-tag
+site_root: 
+use_github_wiki: false
+use_prose_io: true
+service: github
+search_engine : "js"
+
+
 defaults:
   -
     scope:
+      path: "wiki"
+    values:
+      permalink: /:basename
+ -
+    scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"
+ -
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
