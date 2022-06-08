@@ -7,12 +7,8 @@ google_analytics:
 custom_head: false
 custom_sidebar: false
 custom_footer: false
-markdown:      kramdown
-markdown_ext:  markdown,mkd,mkdn,md
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+service: github
+search_engine : "js"
 plugins:
   - jekyll-sitemap
   - jekyll-mentions
