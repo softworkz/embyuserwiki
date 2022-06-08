@@ -7,19 +7,19 @@ google_analytics:
 custom_head: false
 custom_sidebar: false
 custom_footer: false
-site_root: 
-use_github_wiki: false
-use_prose_io: true
-service: github
-search_engine : "js"
+markdown:      kramdown
+markdown_ext:  markdown,mkd,mkdn,md
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-avatar
-  - jemoji
   - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
 defaults:
   -
     scope:
