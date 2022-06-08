@@ -12,8 +12,6 @@ use_github_wiki: false
 use_prose_io: true
 service: github
 search_engine : "js"
-
-
 defaults:
   -
     scope:
